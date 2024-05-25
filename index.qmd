@@ -1,6 +1,8 @@
 ---
 title: "Dr Samuel Blay Nguah"
+subtitle: "Senior Lecturer, SMS, KNUST"
 toc: false
+logo: images/mylogo.jpg
 about: 
     template: trestles
     image-shape: round
@@ -9,13 +11,13 @@ about:
     links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/NguahSamue66067
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/sbnguah
+      href: https://www.linkedin.com/in/samuel-blay-nguah-4423a410/
     - icon: github
       text: Github
-      href: https://github.com/NguahSamue66067
+      href: https://github.com/sbnguah
 ---
 
 ## About Me

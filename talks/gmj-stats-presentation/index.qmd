@@ -1,0 +1,12 @@
+---
+title: "Data Presentation & Statistical Tests"
+author: "Dr. Samuel Blay Nguah"
+categories: [Statistics, Research]
+description: "This is a overview of statistical aspects of publication delivered at the Ghana Medical Journal conference in 2023." 
+date: 2023-04-28
+toc: true
+image: gmj-talk.jpg
+---
+
+Please click [**Presentation of Data and Statistical Tests**](https://gmj-stats.netlify.app) for the
+slides.

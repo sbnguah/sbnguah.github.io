@@ -1,0 +1,13 @@
+---
+title: "Talks"
+subtitle: Slides of talks previously delivered
+listing:
+  contents: talks
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: article
+title-block-banner: false
+---

@@ -8,16 +8,18 @@ website:
       - href: index.qmd
         text: Home
     right:
-      - text: "R Data Viz"
-        href: rdataviz.html
-      - text: "Blog"
-        href: blog.html
+      - text: "Pediatrics"
+        href: pedics.html
+      - text: "Research"
+        href: research.html
       - text: "Talks"
         href: talks.html
       - text: "Projects"
         href: projects.html
-      - text: "Resident's Zone"
+      - text: "Trainees"
         menu:
+          - text: "Undergraduate"
+            href: students.html
           - text: "Membership"
             href: membership.html
           - text: "Fellowship"
@@ -29,6 +31,8 @@ website:
 format:
   html:
     theme: united
+    mainfont: Times New
+    fontsize: 18px
     css: styles.css
     toc: true
 

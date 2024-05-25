@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Data Presentation & Statistical Tests\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is a overview of statistical aspects of publication delivered at the Ghana Medical Journal conference in 2023.\n\n\n\n\n\nApr 28, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dr Samuel Blay Nguah",
@@ -7,17 +14,17 @@
     "text": "Dr. Samuel Blay Nguah is a pediatrician and medical statistician based in Kumasi, the second-largest city in Ghana. He is a Senior Lecturer in the Department of Child Health of the School of Medicine and Dentistry, Kwame Nkrumah University of Science and Technology.\nHe has been a practicing consultant pediatrician at the Komfo Anokye Teaching Hospital since 2010 and as a doctor since 2000. He has a special interest in Paediatric Cardiology, caring for children with congenital and acquired heart diseases since 2007.\nAs a medical statistician, he has actively participated in many surveys and research, with well over 50 publications in peer-reviewed medical journals. He is an ardent user of the R software for data analysis and visualization. He frequently gives talks to resident doctors in training on topics, including research methods and biostatistics.\nHis hobbies include reading, swimming, and gardening."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Dr Samuel Blay Nguah",
     "section": "",
     "text": "Dr. Samuel Blay Nguah is a pediatrician and medical statistician based in Kumasi, the second-largest city in Ghana. He is a Senior Lecturer in the Department of Child Health of the School of Medicine and Dentistry, Kwame Nkrumah University of Science and Technology.\nHe has been a practicing consultant pediatrician at the Komfo Anokye Teaching Hospital since 2010 and as a doctor since 2000. He has a special interest in Paediatric Cardiology, caring for children with congenital and acquired heart diseases since 2007.\nAs a medical statistician, he has actively participated in many surveys and research, with well over 50 publications in peer-reviewed medical journals. He is an ardent user of the R software for data analysis and visualization. He frequently gives talks to resident doctors in training on topics, including research methods and biostatistics.\nHis hobbies include reading, swimming, and gardening."
+  },
+  {
+    "objectID": "talks/gmj-stats-presentation/index.html",
+    "href": "talks/gmj-stats-presentation/index.html",
+    "title": "Data Presentation & Statistical Tests",
+    "section": "",
+    "text": "Please click Presentation of Data and Statistical Tests for the slides."
   }
 ]

@@ -3,18 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "Samuel Blay Nguah"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+    right:
+      - text: "R Data Viz"
+        href: rdataviz.html
+      - text: "Blog"
+        href: blog.html
+      - text: "Talks"
+        href: talks.html
+      - text: "Projects"
+        href: projects.html
+      - text: "Resident's Zone"
+        menu:
+          - text: "Membership"
+            href: membership.html
+          - text: "Fellowship"
+            href: fellowship.html 
+      - icon: fab fa-github
+        href: https://github.com/sbnguah/ 
+
 
 format:
   html:
-    theme: sandstone
+    theme: united
     css: styles.css
     toc: true
 
 editor: visual
 
+
+  
+  

@@ -1,0 +1,30 @@
+---
+title: "Research Projects"
+date: today
+description: A description of my past and ongoing researches
+---
+
+<hr>
+
+### PINGS-2
+
+The PINGS-2 (Phone-Based Intervention under Nurse Guidance after Stroke) is a multicenter randomized
+controlled trial where routine care of patients who had a recent stroke is compared to those who
+have nursing support in managing their blood pressure after the stroke.
+
+<hr>
+
+### PedEcho
+
+This is a review of electrocardiograms done in pediatric patients in Kumasi since 2010. It seeks to
+bring out the common echocardiographic diagnosis and its changing patterns over the years.
+
+<hr>
+
+### SPARCo
+
+The Sickle Pan-African Consortium (SPARCO-II) consists of a hub in East Africa (Tanzania) and
+collaborative consortium sites in West Africa (Ghana, Nigeria) and Central Africa (Cameroon,
+Democratic Republic of Congo) which will expand to form the Sickle Pan-African Network involving 20
+sites in 15 countries. This consortium is into research involving every aspect of Sickle Cell
+Disease in both children and adults.

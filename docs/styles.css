@@ -1,11 +1,39 @@
 /* css styles */
 
-.navbar{
-    color: white;
-    background-color: #461220;
+body {
+    font-family: Serif;
+}
+
+h1 h2, h3, h4, h5, h6 {
+  color: #39729E;
+  font-weight: normal;
+}
+
+h1.title, .h1 {
+  color: #39729E;
+}
+
+h3, .h3 {
+    font-size: 1.2rem;
+}
+
+h4, .h4 {
+    font-size: 1.1rem;
+}
+
+
+.navbar {
+    background-color: #39729E;
+}
+
+.quarto-title-banner {
+    margin-bottom: 1em;
+    /* color: #fff; */
+    background-color: #39729E;
 }
 
 div.quarto-post .listing-categories .listing-category {
-    color: #FFFFFF;
-    background-color: #40434E;
+    background-color: #39729E;
+    color: #ffffff;
+    
 }

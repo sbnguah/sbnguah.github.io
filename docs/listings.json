@@ -4,5 +4,11 @@
     "items": [
       "/talks/gmj-stats-presentation/index.html"
     ]
+  },
+  {
+    "listing": "/students.html",
+    "items": [
+      "/students/cvs-examination/index.html"
+    ]
   }
 ]

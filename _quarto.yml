@@ -16,7 +16,7 @@ website:
         href: talks.html
       - text: "Projects"
         href: projects.html
-      - text: "Trainees"
+      - text: "Trainees' Corner"
         menu:
           - text: "Undergraduate"
             href: students.html
@@ -26,11 +26,13 @@ website:
             href: fellowship.html 
       - icon: fab fa-github
         href: https://github.com/sbnguah/ 
+      - icon: twitter
+        href: https://twitter.com/NguahSamue66067/
 
 
 format:
   html:
-    theme: united
+    theme: cerulean
     mainfont: Times New
     fontsize: 18px
     css: styles.css

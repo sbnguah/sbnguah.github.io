@@ -1,0 +1,109 @@
+---
+title: "Cardiovascular system examination in children"
+author: "Dr. Samuel Blay Nguah"
+date: "2024-04-22"
+categories: [Undergraduate, Cardiology]
+image: cvs-physical-exams.jpg
+toc: true
+---
+
+This post outlines the steps in the undergraduate examination of the Cardiovascular System.
+
+## Courtesy and permission
+
+The following are requisite steps in this examination. Remember to always ask for permission before
+undergoing any examination. Be courteous with minimal discomfort to the patient and guardian.
+
+## General Examination
+
+-   Respiratory distress
+-   Nutrition (Generally)
+-   Swelling or Oedema
+-   Dysmorphic features
+-   Presence of medical devices e.g. Nasal prongs
+
+## General Examination - CVS
+
+### Hand, Arm & Leg
+
+-   Pallor
+-   Peripheral cyanosis
+-   Capillary refill
+-   Clubbing
+-   Warmth
+-   Pulse
+    -   Rate
+    -   Volume
+    -   Character
+    -   Radio-Radial & Radio-Femoral delay
+    -   Collapsing/Bounding
+-   Blood pressure
+
+### Head & Neck
+
+-   Pallor
+-   Central cyanosis
+-   Jaundice
+-   Facial oedema
+-   Neck pulsations
+-   JVP (Older children)
+
+### Precordium
+
+#### Inspection
+
+-   Visible pulsations
+-   chest wall deformities
+-   Scars and scarifications
+-   Chest shape
+
+#### Palpation
+
+-   Thrill
+-   Apex beat location
+-   Heave
+-   Heart sounds
+
+#### Auscultation
+
+-   Heart sounds - S1, S2
+-   Additional heart sounds - S3, S4
+-   Murmur
+    -   Area loudest
+    -   Systolic or diastolic
+    -   Radiation
+    -   Grade
+
+## Others
+
+-   Hepatomegaly
+-   Edema extent - Pedal, sacral, facial
+-   Auscultation of lung bases
+
+## Murmurs
+```{r}
+#| echo: false
+#| message: false
+#| tbl-cap: "Heart diseases and their murmur charateristics"
+#| label: tbl-murmur-location
+
+library(tidyverse)
+tibble(
+    Murmur = c(
+        "Pansystolic", "Pansystolic", "Ejection systolic", 
+        "Ejection systolic", "Continuous"),
+    Location = c(
+        "LLSB", "Apex", "URSB", "ULSB", "2nd left ICS"
+        ),
+    Condition = c(
+        "VSD, Tricuspid regurgitation", 
+        "Rheumatic Heart Disease, Mitral valve prolapse",
+        "Aortic stenosis",
+        "ASD, Pulmonary stenosis, Tetralogy of Fallot, 
+        Coarctation of the aorta",
+        "Patent Dutus Arteriosus"
+        )
+    ) %>% 
+    gt::gt() %>% 
+    gt::opt_stylize(1)
+```

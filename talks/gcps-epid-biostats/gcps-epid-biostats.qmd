@@ -1,0 +1,11 @@
+---
+title: "Epidemiology & Biostatistics"
+author: "Dr. Samuel Blay Nguah"
+categories: [Statistics, Research]
+description: "This is an overview of Epidemiology and Statistics for membership candidates on August 7, 2023." 
+date: 2023-08-07
+toc: true
+image: gcps-logo.jpeg
+---
+
+Please click for the [Epidemiology & Biostatistics](https://ch-epid-biostat.netlify.app) slides.

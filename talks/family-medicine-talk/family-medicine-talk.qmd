@@ -1,0 +1,11 @@
+---
+title: "Overview of Research"
+author: "Dr. Samuel Blay Nguah"
+categories: [Statistics, Research]
+description: "This is an overview of clinical research delivered to the Family Medicine Faculty of the WACP and GCPS." 
+date: 2023-04-28
+toc: true
+image: wacp-logo.jpg
+---
+
+Please click [**Overview of Clinical Research**](https://fammedtalk1.netlify.app) for the slides.

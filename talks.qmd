@@ -1,6 +1,6 @@
 ---
 title: "Talks"
-subtitle: Slides of talks previously delivered
+description: Slides of talks previously delivered
 listing:
   contents: talks
   sort: "date desc"

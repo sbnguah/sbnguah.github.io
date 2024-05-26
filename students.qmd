@@ -1,5 +1,5 @@
 ---
-title: "Undergraduates' Corner"
+title: "Undergrads"
 subtitle: Posts specific to undergraduate training
 listing:
   contents: students

@@ -8,4 +8,4 @@ toc: true
 image: gcps-logo.jpeg
 ---
 
-Please click for the [Epidemiology & Biostatistics](https://ch-epid-biostat.netlify.app) slides.
+Please click [Epidemiology & Biostatistics](https://ch-epid-biostat.netlify.app) for the slides.

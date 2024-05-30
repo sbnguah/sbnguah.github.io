@@ -1,0 +1,29 @@
+---
+title: "Practical 5: Regression"
+author: "Samuel Blay Nguah"
+date: "2024-02-18"
+categories: [Practical]
+---
+
+This is the fifth practical lesson where we learn the basics of Regressions
+
+## Objectives
+
+-   Linear regression
+    -   Single numeric predictor
+    -   Single categorical variable
+-   2 numeric predictors
+    -   Confounding
+    -   Interaction
+-   2 categorical predictors
+    -   Confounding
+    -   Interaction
+-   Logistic regression
+    -   Single numeric predictor
+    -   Single categorical variable
+-   2 numeric predictors
+    -   Confounding
+    -   Interaction
+-   2 categorical predictors
+    -   Confounding
+    -   Interaction

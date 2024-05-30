@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Samuel Blay Nguah">
+<meta name="dcterms.date" content="2024-02-15">
 
-<title>Undergrads</title>
+<title>Data Description</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,73 +68,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
             <div id="quarto-search" class="" title="Search"></div>
@@ -144,7 +86,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
 </ul>
@@ -156,17 +98,17 @@ window.Quarto = {
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-workshops">    
         <li class="dropdown-header">Adv. Stats 2024</li>
         <li>
-    <a class="dropdown-item" href="./adv-stats-2024.html">
+    <a class="dropdown-item" href="../../adv-stats-2024.html">
  <span class="dropdown-text"></span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> 
+    <a class="nav-link" href="../../talks.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -175,15 +117,15 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-trainees-corner">    
         <li>
-    <a class="dropdown-item" href="./students.html">
+    <a class="dropdown-item" href="../../students.html">
  <span class="dropdown-text">Undergraduate</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./membership.html">
+    <a class="dropdown-item" href="../../membership.html">
  <span class="dropdown-text">Membership</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./fellowship.html">
+    <a class="dropdown-item" href="../../fellowship.html">
  <span class="dropdown-text">Fellowship</span></a>
   </li>  
     </ul>
@@ -206,82 +148,159 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Data Description</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">Other</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Samuel Blay Nguah </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 15, 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cardiology">Cardiology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Undergraduate">Undergraduate <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#ancdata" id="toc-ancdata" class="nav-link active" data-scroll-target="#ancdata">ANCData</a></li>
+  <li><a href="#blood" id="toc-blood" class="nav-link" data-scroll-target="#blood">blood</a></li>
+  <li><a href="#titanic" id="toc-titanic" class="nav-link" data-scroll-target="#titanic">titanic</a></li>
+  <li><a href="#schisto" id="toc-schisto" class="nav-link" data-scroll-target="#schisto">schisto</a></li>
+  <li><a href="#newdrug" id="toc-newdrug" class="nav-link" data-scroll-target="#newdrug">NewDrug</a></li>
+  <li><a href="#outbreak" id="toc-outbreak" class="nav-link" data-scroll-target="#outbreak">Outbreak</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Undergrads</h1>
-<p class="subtitle lead">Posts specific to undergraduate training</p>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>This post describes the data set to be used in the workshop.</p>
+<section id="ancdata" class="level2">
+<h2 class="anchored" data-anchor-id="ancdata">ANCData</h2>
+<p><strong>Description</strong><br>
+This dataset can be downloaded from <a href="ANCData.xlsx">here</a>. It contains records of high-risk pregnant women under a trial on new and old methods of antenatal care in two clinics. The outcome was perinatal mortality. There are 755 observations with the following 3 variables.</p>
+<ul>
+<li><strong>death</strong>: A categorical variable indicating if death occurred in the infant.</li>
+<li><strong>anc</strong>: Indicates which type of ANC method was used.</li>
+<li><strong>clinic</strong>: Indicates which clinic the patient was seen at.</li>
+</ul>
+</section>
+<section id="blood" class="level2">
+<h2 class="anchored" data-anchor-id="blood">blood</h2>
+<p><strong>Description</strong><br>
+This dataset can be downloaded from <a href="blood.xlsx">here</a>. It contains records of a cross-sectional study of the blood results of 50 children. It has the following 7 variables.</p>
+<ul>
+<li><strong>stno</strong>: The study ID.</li>
+<li><strong>age</strong>: Age in completed months of the study participants.</li>
+<li><strong>wgt</strong>: Weight in kilogram</li>
+<li><strong>hgt</strong>: Height in cms</li>
+<li><strong>hb</strong>: Blood hemoglobin concentration in g/dL</li>
+<li><strong>wbc</strong>: White blood cell count</li>
+<li><strong>hct</strong>: Blood hematocrit in %</li>
+</ul>
+</section>
+<section id="titanic" class="level2">
+<h2 class="anchored" data-anchor-id="titanic">titanic</h2>
+<p><strong>Description</strong><br>
+This dataset can be downloaded from <a href="titanic.xlsx">here</a>. It contains records of the fateful journey by the Titanic cruise ship. It has the following 5 variables.</p>
+<ul>
+<li><strong>class</strong>: The class in which the person was.</li>
+<li><strong>age</strong>: Age in completed years.</li>
+<li><strong>sex</strong>: Sex</li>
+<li><strong>survived</strong>: Whether the person survived the sinking of the ship</li>
+<li><strong>died</strong>: Whether the person died as a result of the accident</li>
+</ul>
+</section>
+<section id="schisto" class="level2">
+<h2 class="anchored" data-anchor-id="schisto">schisto</h2>
+<p><strong>Description</strong><br>
+This dataset can be downloaded from <a href="schisto.xlsx">here</a>. It was obtained from 367 pupils in a community in Ghana. The cross-sectional study was to determine the effect of urinary schistosomiasis on the nutritional status as well as blood indices of school children. It has the following 15 variables.</p>
+<ul>
+<li><strong>Serial0</strong>: The study ID.</li>
+<li><strong>Q3Age</strong>: Age in completed years.</li>
+<li><strong>Q4Sex</strong>: The sex of the pupil.</li>
+<li><strong>Q35weight</strong>: Weight in kilogram</li>
+<li><strong>Q36Height</strong>: Height in cms</li>
+<li><strong>Q6Religion</strong>: Religious affiliation</li>
+<li><strong>Educationalstatus</strong>: Level of education</li>
+<li><strong>Q15PipeBorne</strong>: Does the pupil use bipe-borne water at home? 0 = No, 1 = Yes</li>
+<li><strong>Q15Well</strong>: Does the pupil use well water at home? 0 = No, 1 = Yes</li>
+<li><strong>Q15River</strong>: Does the pupil use river water at home? 0 = No, 1 = Yes</li>
+<li><strong>HB</strong>: Blood hemoglobin concentration in g/dL</li>
+<li><strong>SH</strong>: Shistosomiasis ova in the urine. Nil, +, ++, and +++</li>
+<li><strong>HCT</strong>: Blood hematocrit in %</li>
+<li><strong>MCV</strong>: Mean Corpuscular Volume</li>
+<li><strong>MCH</strong>: Mean Corpuscular Hemoglobin</li>
+</ul>
+</section>
+<section id="newdrug" class="level2">
+<h2 class="anchored" data-anchor-id="newdrug">NewDrug</h2>
+<p><strong>Description</strong><br>
+This dataset can be downloaded from <a href="NewDrug.dta">here</a>. It was obtained in a randomized controlled trial of a new drug against a control drug. It measured the mean blood pressure of study participants before and after the drugs were administered. It has the following 6 variables.</p>
+<ul>
+<li><strong>id</strong>: Study ID</li>
+<li><strong>treat</strong>: Treatment given</li>
+<li><strong>age</strong>: Age in completed years.</li>
+<li><strong>sex</strong>: Gender of participant</li>
+<li><strong>bp1</strong>: Mean arterial BP before treatment</li>
+<li><strong>bp2</strong>: Mean arterial BP after treatment</li>
+</ul>
+</section>
+<section id="outbreak" class="level2">
+<h2 class="anchored" data-anchor-id="outbreak">Outbreak</h2>
+<p><strong>Description</strong><br>
+This data can be downloaded from <a href="Outbreak.rds">here</a>. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.</p>
+<p>Dichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.</p>
+<p>It contains the following variables</p>
+<ul>
+<li><strong>id</strong>: Study ID</li>
+<li><strong>sex</strong>: Sex of study person. 0 = Female, 1 = Male.</li>
+<li><strong>age</strong>: Age of participant. 99 = Missing</li>
+<li><strong>exptime</strong>: Character version of time of exposure</li>
+<li><strong>beefcurry</strong>: Whether the subject ate beef curry</li>
+<li><strong>saltegg</strong>: Whether the subject ate salted eggs</li>
+<li><strong>eclair</strong>: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information</li>
+<li><strong>water</strong>: Whether the subject drunk water</li>
+<li><strong>onset</strong>: Character version of time of onset</li>
+<li><strong>nausea</strong>: Whether the subject had nausea</li>
+<li><strong>vomiting</strong>: Whether the subject had vomiting</li>
+<li><strong>abdpain</strong>: Whether the subject had abdominal pain</li>
+<li><strong>diarrhea</strong>: Whether the subject had diarrhea</li>
+</ul>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Undergraduate,Cardiology" data-listing-date-sort="1713744000000" data-listing-file-modified-sort="1714020591325" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="435">
-<div class="thumbnail">
-<p><a href="./students/cvs-examination/index.html" class="no-external"></a></p><a href="./students/cvs-examination/index.html" class="no-external">
-<p><img src="./students/cvs-examination/cvs-physical-exams.jpg" class="thumbnail-image"></p>
-</a><p><a href="./students/cvs-examination/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./students/cvs-examination/index.html" class="no-external">Cardiovascular system examination in children</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./students/cvs-examination/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Undergraduate'); return false;">
-Undergraduate
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Cardiology'); return false;">
-Cardiology
-</div>
-</div>
-<div class="listing-description">
-<a href="./students/cvs-examination/index.html" class="no-external">This post outlines the steps in the undergraduate examination of the Cardiovascular System.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./students/cvs-examination/index.html" class="no-external">
-<div class="listing-date">
-Apr 22, 2024
-</div>
-<div class="listing-author">
-Dr.&nbsp;Samuel Blay Nguah
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

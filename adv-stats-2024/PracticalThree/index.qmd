@@ -1,0 +1,28 @@
+---
+title: "Practical 3: Hypothesis testing"
+author: "Samuel Blay Nguah"
+date: "2024-02-18"
+categories: [Practical]
+---
+
+This is the third practical lesson where we learn how about hypothesis testing
+
+## Objectives
+
+-   Numeric variables
+    -   One sample
+        -   Independent T-test
+        -   Wilcoxon Rank Sum test
+    -   Two sample
+        -   Independent sample T-test
+        -   Mann-Whitney U test
+    -   Paired test
+        -   Paired sample T-test
+        -   Wilcoxon Rank Sum test
+-   Categorical variables
+    -   One sample
+        -   Binomial test
+        -   Chi-square goodness of fit test
+    -   Two sample
+        -   Independent X-squared association
+        -   Odds, Risk, Difference in proportion

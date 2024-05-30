@@ -1,0 +1,68 @@
+---
+title: "Practical 2: Exploratory data analysis"
+author: "Samuel Blay Nguah"
+date: "2024-02-18"
+categories: [Practical]
+---
+
+This is the second practical lesson where we learn how to perform exploratory data analysis
+
+## Objectives
+
+- Explore the data
+- Summaries
+    - Tabulation
+    - Measures of central tendency, dispersion, distribution
+- Graphics
+    - Categorical
+        - Barchart
+    - Numeric 
+        - Histogram, density plot, boxplot, QQplot,  violin plot, 
+    - Categorical vs Categorical
+        - Barplot
+    - Numeric vs numeric
+    - Categorical vs Numeric
+
+## To do
+### Categorical variable
+- We use`titanic.xlsx`
+- Statistics
+    - Look out for missing
+    - One-way tabulation
+    - Two-way tabulation
+    - Multiple-way tabulation
+- Graphics
+    - One-way bar plot
+    - Two-way bar plot
+    
+### Numeric variable
+- Use "blood.xlsx"
+- Statistics – Measure of central tendency
+    - Mean
+    - Median
+    - Mode
+- Statistics – measures of dispersion
+    - Standard deviation
+    - Variance
+    - Range
+    - IQR
+    - Minimum, maximum
+- Outliers
+- Distribution
+    - Skewness
+    - Kurtosis
+- Normality
+- Graphics
+    - Histogram
+    - Density plot
+        - Single
+        - Comparative
+    - Boxplot
+        - Single
+    - Comparative
+    - Violin plot (+ data points)
+        - Single 
+        - Comparative
+
+
+

@@ -1,0 +1,47 @@
+---
+title: "Practical 1: Data preparation"
+author: "Samuel Blay Nguah"
+date: "2024-02-18"
+categories: [Practical]
+---
+
+This is the first practical lesson where we learn how to prepare data before analysis.
+
+## Objectives
+
+-   Read data from differing formats
+-   Editing variable names
+-   Labelling variables
+-   Editing value labels
+-   Setting variable types
+-   Arrange variable levels appropriately
+-   Deriving new variables
+-   Transforming variables
+
+## Practical
+
+To do this we will begin with the `schisto` data. Please download and save it on your computer if
+you have not done so already.
+
+-   Create a folder on your computer
+-   Save the data in the folder.
+-   Import the data into Jamovi
+-   Make sure all variable types reflect the type of variable collected
+-   Appropriately labels all categorical or ordinal variables
+-   Edit the names of the variables to the appropriate names
+-   Create a variable BMI from the weight and height
+-   Create an ordinal variable from the HB as: Severe = \<8g/dl, Moderate = 8g/dl to \<10g/dl and
+    Mlld = 10g/dl to \<12g/dl and \>=12g/dl = Normal
+-   Save the data as `schisto.omv`
+
+## To do
+
+-   Download the `blood` data
+-   Read it into Jamovi
+-   Make sure all variable types reflect the type of variable collected
+-   Appropriately labels all categorical or ordinal variables
+-   Edit the names of the variables to the appropriate names
+-   Create a variable BMI from the weight and height
+-   Create an ordinal variable from the HB as: Severe = \<8g/dl, Moderate = 8g/dl to \<10g/dl and
+    Mlld = 10g/dl to \<12g/dl and \>=12g/dl = Normal
+-   Save data as `blood.omv`

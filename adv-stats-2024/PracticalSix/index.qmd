@@ -1,0 +1,13 @@
+---
+title: "Practical 6: Sample size determination"
+author: "Samuel Blay Nguah"
+date: "2024-02-18"
+categories: [Practical]
+---
+
+In this part we learn how to determine sample sizes for different study methodologies.
+
+-   Form 5 groups
+-   Let's have 10 minutes to discuss each other project and the determinants of your sample size
+-   We use the website <https://sample-size.net/> for the sample size determination
+-   We meet afterward to determine the sample sizes for different designs

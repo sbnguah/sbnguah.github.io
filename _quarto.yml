@@ -8,10 +8,10 @@ website:
       - href: index.qmd
         text: Home
     right:
-      - text: "Pediatrics"
-        href: pedics.html
-      - text: "Research"
-        href: research.html
+      - text: "Workshops"
+        menu:
+          - text: "Adv. Stats 2024"
+          - href: adv-stats-2024.html
       - text: "Talks"
         href: talks.html
       - text: "Projects"

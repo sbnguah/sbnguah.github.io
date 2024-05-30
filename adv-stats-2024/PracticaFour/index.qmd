@@ -1,0 +1,19 @@
+---
+title: "Practical 4: ANOVA & Correlation"
+author: "Samuel Blay Nguah"
+date: "2024-02-18"
+categories: [Practical]
+---
+
+This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis
+
+## Objectives
+
+-   ANOVA
+    -   One-Way ANOVA
+    -   Repeated Measure ANOVA
+    -   ANOVA (Two-way)
+    -   Analysis of covariance (ANCOVA)
+-   Correlation matrix
+    -   Pearson
+    -   Spearman

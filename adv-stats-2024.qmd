@@ -1,0 +1,13 @@
+---
+title: "Adv. Stat. Workshop"
+description: This is the page for the GCPS Advanced Statitsics Workshop for fellowship candidates, 7-8th June 2024.
+listing:
+  contents: adv-stats-2024
+  sort: true
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: false
+page-layout: article
+title-block-banner: false
+---

@@ -9,6 +9,18 @@
     ]
   },
   {
+    "listing": "/adv-stats-2024.html",
+    "items": [
+      "/adv-stats-2024/welcome/index.html",
+      "/adv-stats-2024/PracticalOne/index.html",
+      "/adv-stats-2024/PracticalTwo/index.html",
+      "/adv-stats-2024/PracticalThree/index.html",
+      "/adv-stats-2024/PracticaFour/index.html",
+      "/adv-stats-2024/PracticalFive/index.html",
+      "/adv-stats-2024/PracticalSix/index.html"
+    ]
+  },
+  {
     "listing": "/students.html",
     "items": [
       "/students/cvs-examination/index.html"

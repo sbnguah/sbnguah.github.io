@@ -4,7 +4,7 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Pediatric Hypertenion\n\n\n\n\n\n\nPediatrics\n\n\nCardiovascular\n\n\n\nThis is a presentation on pediatric hypertension delivered at the 2024 World Hypertension day.\n\n\n\n\n\nMay 17, 2024\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nEpidemiology & Biostatistics\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is an overview of Epidemiology and Statistics for membership candidates on August 7, 2023.\n\n\n\n\n\nAug 7, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nData Presentation & Statistical Tests\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is a overview of statistical aspects of publication delivered at the Ghana Medical Journal conference in 2023.\n\n\n\n\n\nAug 1, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nOverview of Research\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is an overview of clinical research delivered to the Family Medicine Faculty of the WACP and GCPS.\n\n\n\n\n\nApr 28, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+    "text": "Pediatric Hypertension\n\n\n\n\n\n\nPediatrics\n\n\nCardiovascular\n\n\n\nThis is a presentation on pediatric hypertension delivered at the 2024 World Hypertension Day.\n\n\n\n\n\nMay 17, 2024\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nEpidemiology & Biostatistics\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is an overview of Epidemiology and Statistics for membership candidates on August 7, 2023.\n\n\n\n\n\nAug 7, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nData Presentation & Statistical Tests\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is a overview of statistical aspects of publication delivered at the Ghana Medical Journal conference in 2023.\n\n\n\n\n\nAug 1, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nOverview of Research\n\n\n\n\n\n\nStatistics\n\n\nResearch\n\n\n\nThis is an overview of clinical research delivered to the Family Medicine Faculty of the WACP and GCPS.\n\n\n\n\n\nApr 28, 2023\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/gmj-stats-presentation/gmj-talk.html",
@@ -77,6 +77,160 @@
     "text": "Dr. Samuel Blay Nguah is a pediatrician and medical statistician based in Kumasi, the second-largest city in Ghana. He is a Senior Lecturer in the Department of Child Health of the School of Medicine and Dentistry, Kwame Nkrumah University of Science and Technology.\nHe has been a practicing consultant pediatrician at the Komfo Anokye Teaching Hospital since 2010 and as a doctor since 2000. He has a special interest in Paediatric Cardiology, caring for children with congenital and acquired heart diseases since 2007.\nAs a medical statistician, he has actively participated in many surveys and research, with well over 50 publications in peer-reviewed medical journals. He is an ardent user of the R software for data analysis and visualization. He frequently gives talks to resident doctors in training on topics, including research methods and biostatistics.\nHis hobbies include reading, swimming, and gardening."
   },
   {
+    "objectID": "adv-stats-2024/welcome/index.html",
+    "href": "adv-stats-2024/welcome/index.html",
+    "title": "Data Description",
+    "section": "",
+    "text": "This post describes the data set to be used in the workshop."
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#ancdata",
+    "href": "adv-stats-2024/welcome/index.html#ancdata",
+    "title": "Data Description",
+    "section": "ANCData",
+    "text": "ANCData\nDescription\nThis dataset can be downloaded from here. It contains records of high-risk pregnant women under a trial on new and old methods of antenatal care in two clinics. The outcome was perinatal mortality. There are 755 observations with the following 3 variables.\n\ndeath: A categorical variable indicating if death occurred in the infant.\nanc: Indicates which type of ANC method was used.\nclinic: Indicates which clinic the patient was seen at."
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#blood",
+    "href": "adv-stats-2024/welcome/index.html#blood",
+    "title": "Data Description",
+    "section": "blood",
+    "text": "blood\nDescription\nThis dataset can be downloaded from here. It contains records of a cross-sectional study of the blood results of 50 children. It has the following 7 variables.\n\nstno: The study ID.\nage: Age in completed months of the study participants.\nwgt: Weight in kilogram\nhgt: Height in cms\nhb: Blood hemoglobin concentration in g/dL\nwbc: White blood cell count\nhct: Blood hematocrit in %"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#titanic",
+    "href": "adv-stats-2024/welcome/index.html#titanic",
+    "title": "Data Description",
+    "section": "titanic",
+    "text": "titanic\nDescription\nThis dataset can be downloaded from here. It contains records of the fateful journey by the Titanic cruise ship. It has the following 5 variables.\n\nclass: The class in which the person was.\nage: Age in completed years.\nsex: Sex\nsurvived: Whether the person survived the sinking of the ship\ndied: Whether the person died as a result of the accident"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#schisto",
+    "href": "adv-stats-2024/welcome/index.html#schisto",
+    "title": "Data Description",
+    "section": "schisto",
+    "text": "schisto\nDescription\nThis dataset can be downloaded from here. It was obtained from 367 pupils in a community in Ghana. The cross-sectional study was to determine the effect of urinary schistosomiasis on the nutritional status as well as blood indices of school children. It has the following 15 variables.\n\nSerial0: The study ID.\nQ3Age: Age in completed years.\nQ4Sex: The sex of the pupil.\nQ35weight: Weight in kilogram\nQ36Height: Height in cms\nQ6Religion: Religious affiliation\nEducationalstatus: Level of education\nQ15PipeBorne: Does the pupil use bipe-borne water at home? 0 = No, 1 = Yes\nQ15Well: Does the pupil use well water at home? 0 = No, 1 = Yes\nQ15River: Does the pupil use river water at home? 0 = No, 1 = Yes\nHB: Blood hemoglobin concentration in g/dL\nSH: Shistosomiasis ova in the urine. Nil, +, ++, and +++\nHCT: Blood hematocrit in %\nMCV: Mean Corpuscular Volume\nMCH: Mean Corpuscular Hemoglobin"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#newdrug",
+    "href": "adv-stats-2024/welcome/index.html#newdrug",
+    "title": "Data Description",
+    "section": "NewDrug",
+    "text": "NewDrug\nDescription\nThis dataset can be downloaded from here. It was obtained in a randomized controlled trial of a new drug against a control drug. It measured the mean blood pressure of study participants before and after the drugs were administered. It has the following 6 variables.\n\nid: Study ID\ntreat: Treatment given\nage: Age in completed years.\nsex: Gender of participant\nbp1: Mean arterial BP before treatment\nbp2: Mean arterial BP after treatment"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#outbreak",
+    "href": "adv-stats-2024/welcome/index.html#outbreak",
+    "title": "Data Description",
+    "section": "Outbreak",
+    "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html",
+    "href": "adv-stats-2024/PracticalThree/index.html",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "",
+    "text": "This is the third practical lesson where we learn how about hypothesis testing"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "Objectives",
+    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html",
+    "href": "adv-stats-2024/PracticalOne/index.html",
+    "title": "Practical 1: Data preparation",
+    "section": "",
+    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "title": "Practical 1: Data preparation",
+    "section": "Objectives",
+    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
+    "href": "adv-stats-2024/PracticalOne/index.html#practical",
+    "title": "Practical 1: Data preparation",
+    "section": "Practical",
+    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "title": "Practical 1: Data preparation",
+    "section": "To do",
+    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html",
+    "href": "adv-stats-2024/PracticaFour/index.html",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "",
+    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "Objectives",
+    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html",
+    "href": "adv-stats-2024/PracticalFive/index.html",
+    "title": "Practical 5: Regression",
+    "section": "",
+    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "title": "Practical 5: Regression",
+    "section": "Objectives",
+    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalSix/index.html",
+    "href": "adv-stats-2024/PracticalSix/index.html",
+    "title": "Practical 6: Sample size determination",
+    "section": "",
+    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html",
+    "href": "adv-stats-2024/PracticalTwo/index.html",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "",
+    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "To do",
+    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation\nTwo-way tabulation\nMultiple-way tabulation\n\nGraphics\n\nOne-way bar plot\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
+  },
+  {
+    "objectID": "adv-stats-2024.html",
+    "href": "adv-stats-2024.html",
+    "title": "Adv. Stat. Workshop",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nData Description\n\n\n\n\n\n\nOther\n\n\n\n\n\n\n\n\n\nFeb 15, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nPractical 1: Data preparation\n\n\n\n\n\n\nPractical\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nPractical 2: Exploratory data analysis\n\n\n\n\n\n\nPractical\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nPractical 3: Hypothesis testing\n\n\n\n\n\n\nPractical\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nPractical 4: ANOVA & Correlation\n\n\n\n\n\n\nPractical\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nPractical 5: Regression\n\n\n\n\n\n\nPractical\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nPractical 6: Sample size determination\n\n\n\n\n\n\nPractical\n\n\n\n\n\n\n\n\n\nFeb 18, 2024\n\n\nSamuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Research Projects",
@@ -95,13 +249,13 @@
     "href": "talks/gcps-epid-biostats/gcps-epid-biostats.html",
     "title": "Epidemiology & Biostatistics",
     "section": "",
-    "text": "Please click for the Epidemiology & Biostatistics slides."
+    "text": "Please click Epidemiology & Biostatistics for the slides."
   },
   {
     "objectID": "talks/gsc-ped-hpt-17052024/gcs-ped-hpt-17052024.html",
     "href": "talks/gsc-ped-hpt-17052024/gcs-ped-hpt-17052024.html",
-    "title": "Pediatric Hypertenion",
+    "title": "Pediatric Hypertension",
     "section": "",
-    "text": "Please click Pediatric Hypertension for the slides. To progress the slide on a mobile device swipe along the lower edge of the screen or webpage."
+    "text": "Please click Pediatric Hypertension for the slides. To progress the slide on a mobile device, swipe the screen’s or webpage’s lower edge."
   }
 ]

@@ -8,10 +8,6 @@ website:
       - href: index.qmd
         text: Home
     right:
-      - text: "Workshops"
-        menu:
-          - text: "Adv. Stats 2024"
-          - href: adv-stats-2024.html
       - text: "Talks"
         href: talks.html
       - text: "Projects"
@@ -23,7 +19,9 @@ website:
           - text: "Membership"
             href: membership.html
           - text: "Fellowship"
-            href: fellowship.html 
+            href: fellowship.html
+          - text: "Advanced Stats, 2024"
+            href: stats2024.html
       - icon: fab fa-github
         href: https://github.com/sbnguah/ 
       - icon: twitter

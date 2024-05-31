@@ -4,6 +4,9 @@ project:
 
 website:
   navbar:
+    logo: images/mylogo.jpg
+    background: primary
+    foreground: secondary
     left:
       - href: index.qmd
         text: Home
@@ -22,10 +25,13 @@ website:
             href: fellowship.html
           - text: "Advanced Stats, 2024"
             href: stats2024.html
-      - icon: fab fa-github
+      - icon: github
         href: https://github.com/sbnguah/ 
       - icon: twitter
         href: https://twitter.com/NguahSamue66067/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/samuel-blay-nguah-4423a410/
+        
 
 
 format:

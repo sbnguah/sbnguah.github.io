@@ -1,0 +1,12 @@
+---
+title: "Research Methods"
+author: "Dr. Samuel Blay Nguah"
+categories: [Research]
+description: "This is a presentation on research methods delivered to the fellowship cnadidates of the Ghana College of Physicians and Surgeons, Child Health Faculty." 
+date: 2024-05-21
+toc: true
+image: gcps-logo.jpeg
+---
+
+Please click [Research Methodology](https://research-methods-gcps.netlify.app/) for the slides. **To
+progress the slide on a mobile device, swipe the screen's or webpage's lower edge.**

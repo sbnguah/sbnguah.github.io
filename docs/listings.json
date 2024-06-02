@@ -2,10 +2,17 @@
   {
     "listing": "/talks.html",
     "items": [
+      "/talks/gcps-research-methods-21052024/gcs-ped-hpt-17052024.html",
       "/talks/gsc-ped-hpt-17052024/gcs-ped-hpt-17052024.html",
       "/talks/gcps-epid-biostats/gcps-epid-biostats.html",
       "/talks/gmj-stats-presentation/gmj-talk.html",
       "/talks/family-medicine-talk/family-medicine-talk.html"
+    ]
+  },
+  {
+    "listing": "/students.html",
+    "items": [
+      "/students/cvs-examination/index.html"
     ]
   },
   {
@@ -18,12 +25,6 @@
       "/adv-stats-2024/PracticaFour/index.html",
       "/adv-stats-2024/PracticalFive/index.html",
       "/adv-stats-2024/PracticalSix/index.html"
-    ]
-  },
-  {
-    "listing": "/students.html",
-    "items": [
-      "/students/cvs-examination/index.html"
     ]
   }
 ]

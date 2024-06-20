@@ -9,60 +9,60 @@ This is the second practical lesson where we learn how to perform exploratory da
 
 ## Objectives
 
-- Explore the data
-- Summaries
-    - Tabulation
-    - Measures of central tendency, dispersion, distribution
-- Graphics
-    - Categorical
-        - Barchart
-    - Numeric 
-        - Histogram, density plot, boxplot, QQplot,  violin plot, 
-    - Categorical vs Categorical
-        - Barplot
-    - Numeric vs numeric
-    - Categorical vs Numeric
+-   Explore the data
+-   Summaries
+    -   Tabulation (One- and two-way tables)
+    -   Measures of central tendency, dispersion, distribution
+-   Graphics
+    -   Categorical
+        -   Barchart
+    -   Numeric
+        -   Histogram, density plot, boxplot, QQplot, violin plot,
+    -   Categorical vs Categorical
+        -   Barplot
+    -   Numeric vs numeric
+    -   Categorical vs Numeric
 
 ## To do
+
 ### Categorical variable
-- We use`titanic.xlsx`
-- Statistics
-    - Look out for missing
-    - One-way tabulation
-    - Two-way tabulation
-    - Multiple-way tabulation
-- Graphics
-    - One-way bar plot
-    - Two-way bar plot
-    
+
+-   We use`titanic.xlsx`
+-   Statistics
+    -   Look out for missing
+    -   One-way tabulation of `class` of the passengers
+    -   Two-way tabulation of the `class` and `outcome` of the passengers
+    -   Multiple-way tabulation of `class,` `sex` and outcome of the passengers
+-   Graphics
+    -   One-way bar plot of
+    -   Two-way bar plot
+
 ### Numeric variable
-- Use "blood.xlsx"
-- Statistics – Measure of central tendency
-    - Mean
-    - Median
-    - Mode
-- Statistics – measures of dispersion
-    - Standard deviation
-    - Variance
-    - Range
-    - IQR
-    - Minimum, maximum
-- Outliers
-- Distribution
-    - Skewness
-    - Kurtosis
-- Normality
-- Graphics
-    - Histogram
-    - Density plot
-        - Single
-        - Comparative
-    - Boxplot
-        - Single
-    - Comparative
-    - Violin plot (+ data points)
-        - Single 
-        - Comparative
 
-
-
+-   Use "blood.xlsx"
+-   Statistics – Measure of central tendency
+    -   Mean
+    -   Median
+    -   Mode
+-   Statistics – measures of dispersion
+    -   Standard deviation
+    -   Variance
+    -   Range
+    -   IQR
+    -   Minimum, maximum
+-   Outliers
+-   Distribution
+    -   Skewness
+    -   Kurtosis
+-   Normality
+-   Graphics
+    -   Histogram
+    -   Density plot
+        -   Single
+        -   Comparative
+    -   Boxplot
+        -   Single
+    -   Comparative
+    -   Violin plot (+ data points)
+        -   Single
+        -   Comparative

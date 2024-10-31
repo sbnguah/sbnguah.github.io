@@ -18,6 +18,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/sbnguah
+    - icon: book
+      text: Statistics Book
+      href: https://sbnguah.github.io/Data-Analysis-With-R/
 ---
 
 ## About Me

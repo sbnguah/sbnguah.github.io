@@ -32,5 +32,11 @@
     "items": [
       "/membership/counselling/index.html"
     ]
+  },
+  {
+    "listing": "/fellowship.html",
+    "items": [
+      "/fellowship/week-1/week-1.html"
+    ]
   }
 ]

@@ -1,0 +1,84 @@
+---
+title: "Week 1"
+author: "Dr. Samuel Blay Nguah"
+categories: [Research]
+description: "**Welcome to Research: Why Every Paediatrician Should Care**" 
+date: 2025-08-01t
+toc: true
+image: welcome-pix.jpg
+---
+
+## Introduction
+
+Research often evokes images of laboratories, statistics, and long journal articles. For many
+paediatric trainees, it is viewed as a necessary obstacle — the “thesis you must do” before
+completing the fellowship program. However, research is much more than just a requirement; it is an
+essential part of clinical excellence. In a region like West Africa, where context-specific evidence
+is often missing, research becomes a tool not only for learning but also for leading.
+
+Every time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to
+improve your service delivery, you are engaging in the curiosity that drives research. This article
+aims to help you understand why research should matter deeply to you as a paediatrician-in-training
+— and how it can shape your future practice.
+
+## Objectives
+
+By the end of this short article, you should be able to:
+
+-   Recognize the importance of research in clinical paediatrics, especially in low-resource
+    environments.
+-   Recognise how research enhances patient care, policy, and personal development.
+-   Recognize that you already possess the fundamental mindset of a researcher.
+
+## Why Should You Care About Research?
+
+### Research Builds Better Clinicians
+
+Contrary to popular belief, research is not the opposite of clinical work; it enhances it.
+Clinicians who engage with research develop sharper critical thinking skills. They are more likely
+to read journals analytically, question clinical practices, and make evidence-informed decisions. In
+a world where medical misinformation spreads easily, the ability to discern good evidence from
+poor-quality studies is a vital professional skill.
+
+### Our Questions Deserve Local Answers
+
+Most of the evidence that guides paediatric practice worldwide comes from high-income countries.
+While this knowledge is valuable, it often doesn't reflect the realities of African healthcare
+systems: different pathogens, resource limitations, or cultural barriers to care. Only locally
+generated research can tell us, for example, the true burden of neonatal jaundice in our setting or
+the best way to manage asthma in a rural clinic with limited drug availability. Your research as a
+fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence
+base that reflects our unique realities.
+
+### Research Amplifies Your Voice
+
+Many paediatricians are passionate advocates for children but feel limited to bedside interventions.
+Research offers a path to broader influence. When your study is published or presented, it enters
+the professional and policy-making space. Your findings could contribute to national guidelines,
+influence donor priorities, or inform training curricula. In this way, research transforms your
+observations into advocacy backed by data.
+
+### It Opens Doors You Never Expected
+
+Whether it’s a travel grant to present at an international conference, a collaboration with a
+regional team, or an opportunity to lead a quality improvement project, research creates visibility.
+It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence
+but helps generate it.
+
+## Closing Thoughts
+
+You may not think of yourself as a researcher, not yet. But you already have what it takes: a
+curious mind, clinical experience, and a desire to make a difference. The rest is teachable.
+
+Over the next few weeks, this blog series will guide you through the research process with clear,
+practical steps, from picking a topic and designing a study to analyzing data and writing or
+publishing your work. You’ll see that research isn’t the intimidating mountain it seems to be, but a
+path you can walk, one thoughtful step at a time. Each blog post covers a small part of the process,
+keeping reading time under 10 minutes. This way, every clinician, resident, researcher, and anyone
+eager to learn more about research can easily find time to read these posts and increase their
+knowledge over the coming weeks.
+
+This is not just about passing a requirement. It’s about shaping your career, improving child
+health, and contributing meaningfully to the science of paediatrics and medicine in West Africa.
+
+**Welcome to your research year. Let’s begin.**

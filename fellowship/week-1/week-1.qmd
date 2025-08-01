@@ -3,10 +3,15 @@ title: "Week 1"
 author: "Dr. Samuel Blay Nguah"
 categories: [Research]
 description: "**Welcome to Research: Why Every Paediatrician Should Care**" 
-date: 2025-08-01t
+date: 2025-08-01
 toc: true
 image: welcome-pix.jpg
 ---
+
+::: {.center style="color: gray;"}
+*"Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning
+into an emergency case!".*
+:::
 
 ## Introduction
 
@@ -70,8 +75,8 @@ but helps generate it.
 You may not think of yourself as a researcher, not yet. But you already have what it takes: a
 curious mind, clinical experience, and a desire to make a difference. The rest is teachable.
 
-Over the next few weeks, this blog series will guide you through the research process with clear,
-practical steps, from picking a topic and designing a study to analyzing data and writing or
+Over the next several weeks, this blog series will guide you through the research process with
+clear, practical steps, from picking a topic and designing a study to analyzing data and writing or
 publishing your work. You’ll see that research isn’t the intimidating mountain it seems to be, but a
 path you can walk, one thoughtful step at a time. Each blog post covers a small part of the process,
 keeping reading time under 10 minutes. This way, every clinician, resident, researcher, and anyone

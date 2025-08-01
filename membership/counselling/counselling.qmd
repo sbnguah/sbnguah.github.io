@@ -1,0 +1,105 @@
+---
+title: "Approaching a counsel station"
+author: "Dr. Samuel Blay Nguah"
+categories: [Examination, Scheme]
+description: "This is a prototype of what is typically expected of membership examination when comes to the counselling station for WACP and GCPS." 
+date: 2025-08-01
+toc: true
+image: counselling-pix.jpg
+---
+
+## Overview
+
+The counselling station in the membership exams can be challenging. Below is the list of activities
+a membership candidate should be conversant with and perform during the examinations
+
+1.  Greet and introduce yourself.
+2.  Offer a seat
+3.  Ask the caregiver to confirm the name.
+4.  Request the caregiver to confirm the relationship to the child.
+5.  Ask about the preferred language.
+6.  Ask about educational status and profession.
+7.  Ask if the venue is conducive.
+8.  Ask if the caregiver would prefer to have another person available for the counselling.
+9.  Ask the caregiver what they know about the patient, identifying gaps you may need to address
+10. **Counsel the caregiver as required.** This is usually the loaded part of the station. Below is
+    an example of a content required of candidates.
+11. Show empathy
+12. Deliver information in chunks.
+13. Ask the caregiver to confirm their understanding at least three times before the counselling
+    ends.
+14. Verify this by asking the caregiver to summarize what you have told her at least 2 times before
+    the counselling ends.
+15. Ask if the caregiver has any questions and answer them accordingly at least twice before the
+    counselling ends.
+16. Summarise all the information delivered at the end of the delivery.
+17. Ask for any questions for the last time,
+18. Need for follow-up plan.
+19. Inform the caregiver where she can find you and your team for further explanation.
+20. Offer any resources the caregiver may need, such as websites, books, and magazines.
+21. Say your goodbyes
+22. Avoid using jargon above the caregiver's educational level
+
+## Content of the main issue
+
+**A three-year-old girl has been diagnosed with a tetralogy of Fallot. The caregiver is very
+distraught and fears the child will die from a "hole-in-heart". You are the head of the team
+responsible for caring for the child who presented to you at the outpatient clinic. Counsel this
+caregiver**
+
++------------------------------------------+------------------------------------------+------------+
+| **Section**                              | **Content**                              | **Marks**  |
++------------------------------------------+------------------------------------------+------------+
+| **1. Acknowledge Emotions and Provide    | -   Recognizes caregiver’s emotional     | 2          |
+| Reassurance**                            |     state **(1 mark)**\                  |            |
+|                                          | -   Offers reassurance and empathetic    |            |
+|                                          |     support **(1 mark)**                 |            |
++------------------------------------------+------------------------------------------+------------+
+| **2. Explanation of Diagnosis**          | \- States the name of the condition and  | 3          |
+|                                          | that it's congenital **(1 mark)**\       |            |
+|                                          | - Provides simplified explanation of the |            |
+|                                          | cardiac defect (e.g., hole, mixed blood, |            |
+|                                          | reduced oxygen) **(2 marks)**            |            |
++------------------------------------------+------------------------------------------+------------+
+| **3. Description of Symptoms**           | \- Identifies at least three common      | 3          |
+|                                          | symptoms (cyanosis, fatigue, feeding     |            |
+|                                          | issues, blue spells) **(1 mark each, max |            |
+|                                          | 3)**                                     |            |
++------------------------------------------+------------------------------------------+------------+
+| **4. Immediate Home Care Advice**        | \- Advises on keeping the child calm and | 3          |
+|                                          | managing crying **(1 mark)** - Describes |            |
+|                                          | knee-chest/squatting position during     |            |
+|                                          | blue spells **(1 mark)**\                |            |
+|                                          | - Advises to seek medical help during    |            |
+|                                          | emergencies **(1 mark)**                 |            |
++------------------------------------------+------------------------------------------+------------+
+| **5. Treatment and Prognosis**           | -   States that the condition is         | 3          |
+|                                          |     treatable **(1 mark)**\              |            |
+|                                          | -   Explains role and timing of          |            |
+|                                          |     corrective surgery **(1 mark)**\     |            |
+|                                          | -   Refers to the availability of        |            |
+|                                          |     surgical centers (e.g., Korle Bu)    |            |
+|                                          |     **(1 mark)**                         |            |
++------------------------------------------+------------------------------------------+------------+
+| **6. Addressing Fears and                | -   Counters fear of imminent death with | 3          |
+| Misconceptions**                         |     reassurance **(1 mark)**\            |            |
+|                                          | -   Debunks myths about curses or        |            |
+|                                          |     spiritual causes **(1 mark)**\       |            |
+|                                          | -   Clarifies that the caregiver did     |            |
+|                                          |     nothing wrong **(1 mark)**           |            |
++------------------------------------------+------------------------------------------+------------+
+| **7. Practical/Financial Support**       | \- Mentions possible financial           | 1          |
+|                                          | challenges **(0.5 mark)**                |            |
+|                                          |                                          |            |
+|                                          | \- Suggests options: social              |            |
+|                                          | welfare/NGOs/church/community help       |            |
+|                                          | **(0.5 mark)**                           |            |
++------------------------------------------+------------------------------------------+------------+
+| **8. Importance of Follow-Up**           | \- Emphasizes ongoing outpatient care    | 1          |
+|                                          | and monitoring **(0.5 mark)**\           |            |
+|                                          | - Lists at least one danger sign to      |            |
+|                                          | watch for **(0.5 mark)**                 |            |
++------------------------------------------+------------------------------------------+------------+
+| **9. Encouragement and Hope**            | \- Ends with positive outlook and        | 1          |
+|                                          | encouragement **(1 mark)**               |            |
++------------------------------------------+------------------------------------------+------------+

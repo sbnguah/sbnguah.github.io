@@ -4,7 +4,7 @@ description: Slides of talks previously delivered
 listing:
   contents: talks
   sort: "date desc"
-  type: default
+  type: grid
   categories: true
   sort-ui: false
   filter-ui: false

@@ -26,5 +26,11 @@
       "/adv-stats-2024/PracticalFive/index.html",
       "/adv-stats-2024/PracticalSix/index.html"
     ]
+  },
+  {
+    "listing": "/membership.html",
+    "items": [
+      "/membership/counselling.html"
+    ]
   }
 ]

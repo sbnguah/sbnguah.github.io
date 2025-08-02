@@ -5,7 +5,6 @@ categories: [Research]
 description: "**Welcome to Research: Why Every Paediatrician Should Care**" 
 date: 2025-08-01
 toc: true
-image: welcome-pix.jpg
 ---
 
 ::: {.center style="color: gray;"}

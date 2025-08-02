@@ -7,7 +7,7 @@ date: 2025-08-01
 toc: true
 ---
 
-::: {.center style="color: gray;"}
+::: {.center style="color: #420217; face: bold;"}
 *"Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning
 into an emergency case!".*
 :::
@@ -49,10 +49,10 @@ poor-quality studies is a vital professional skill.
 Most of the evidence that guides paediatric practice worldwide comes from high-income countries.
 While this knowledge is valuable, it often doesn't reflect the realities of African healthcare
 systems: different pathogens, resource limitations, or cultural barriers to care. Only locally
-generated research can tell us, for example, the true burden of neonatal jaundice in our setting or
-the best way to manage asthma in a rural clinic with limited drug availability. Your research as a
-fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence
-base that reflects our unique realities.
+generated research can tell us, for example, the actual burden of neonatal jaundice in our setting
+or the best way to manage asthma in a rural clinic with limited drug availability. Your research as
+a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed
+evidence base that reflects our unique realities.
 
 ### Research Amplifies Your Voice
 
@@ -74,11 +74,12 @@ but helps generate it.
 You may not think of yourself as a researcher, not yet. But you already have what it takes: a
 curious mind, clinical experience, and a desire to make a difference. The rest is teachable.
 
-Over the next few weeks, this blog series will guide you through the research process with practical
-steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t
-as intimidating as it seems but a path you can walk, one step at a time. Each blog covers a small
-part of the process, keeping reading under 10 minutes. Every clinician, resident, researcher, and
-anyone interested in research can easily find time to read these posts and increase their knowledge.
+Over the next several weeks, this blog series will guide you through the research process with
+practical steps, from choosing a topic and designing a study to analyzing data and publishing.
+Research isn’t as intimidating as it seems, but it's a path you can walk, one step at a time. Each
+blog covers a small part of the process, keeping reading under 10 minutes. Every clinician,
+resident, researcher, and anyone interested in research can easily find time to read these posts and
+increase their knowledge.
 
 This is not just about passing a requirement but about shaping your career, improving child health,
 and contributing to paediatrics and medicine in West Africa.

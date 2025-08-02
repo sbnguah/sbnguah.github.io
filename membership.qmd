@@ -4,7 +4,7 @@ description: Blog Posts for Membership Candidates
 listing:
   contents: membership
   sort: "date desc"
-  type: grid
+  type: default
   categories: true
   sort-ui: true
   filter-ui: true

@@ -7,7 +7,7 @@ date: 2025-08-01
 toc: true
 ---
 
-::: {.center style="color: #420217; face: bold;"}
+::: {.center style="color: #820263; face: bold;"}
 *"Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning
 into an emergency case!".*
 :::
@@ -15,15 +15,15 @@ into an emergency case!".*
 ## Introduction
 
 Research often evokes images of laboratories, statistics, and long journal articles. For many
-paediatric trainees, it is viewed as a necessary obstacle — the “thesis you must do” before
+paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before
 completing the fellowship program. However, research is much more than just a requirement; it is an
 essential part of clinical excellence. In a region like West Africa, where context-specific evidence
 is often missing, research becomes a tool not only for learning but also for leading.
 
 Every time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to
 improve your service delivery, you are engaging in the curiosity that drives research. This article
-aims to help you understand why research should matter deeply to you as a paediatrician-in-training
-— and how it can shape your future practice.
+aims to help you understand why research should matter deeply to you as a pediatrician-in-training,
+and how it can shape your future practice.
 
 ## Objectives
 
@@ -74,14 +74,12 @@ but helps generate it.
 You may not think of yourself as a researcher, not yet. But you already have what it takes: a
 curious mind, clinical experience, and a desire to make a difference. The rest is teachable.
 
-Over the next several weeks, this blog series will guide you through the research process with
-practical steps, from choosing a topic and designing a study to analyzing data and publishing.
-Research isn’t as intimidating as it seems, but it's a path you can walk, one step at a time. Each
-blog covers a small part of the process, keeping reading under 10 minutes. Every clinician,
-resident, researcher, and anyone interested in research can easily find time to read these posts and
-increase their knowledge.
+Over the next several weeks, a blog will be written and shared each week. It is hoped that the
+series will guide you through the research process with practical steps, from choosing a topic and
+designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but
+it's a journey you can take one step at a time. Each blog focuses on a small part of this process,
+keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but
+about shaping your career, improving child health, and advancing the practice of medicine in West
+Africa.
 
-This is not just about passing a requirement but about shaping your career, improving child health,
-and contributing to paediatrics and medicine in West Africa.
-
-**Welcome to your research year. Let’s begin.**
+**Welcome to your research year. Let’s begin.**🚶🚶🚶

@@ -56,137 +56,81 @@
     "text": "Dr. Samuel Blay Nguah is a pediatrician and medical statistician based in Kumasi, the second-largest city in Ghana. He is a Senior Lecturer in the Department of Child Health of the School of Medicine and Dentistry, Kwame Nkrumah University of Science and Technology.\nHe has been a practicing consultant pediatrician at the Komfo Anokye Teaching Hospital since 2010 and as a doctor since 2000. He has a special interest in Paediatric Cardiology, caring for children with congenital and acquired heart diseases since 2007.\nAs a medical statistician, he has actively participated in many surveys and research, with well over 50 publications in peer-reviewed medical journals. He is an ardent user of the R software for data analysis and visualization. He frequently gives talks to resident doctors in training on topics, including research methods and biostatistics.\nHis hobbies include reading, swimming, and gardening."
   },
   {
-    "objectID": "fellowship/week-1/week-1.html",
-    "href": "fellowship/week-1/week-1.html",
-    "title": "Week 1",
+    "objectID": "fellowship/week-2/week-2.html",
+    "href": "fellowship/week-2/week-2.html",
+    "title": "Week 2",
     "section": "",
-    "text": "“Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning into an emergency case!”."
+    "text": "“Choosing a thesis topic is like choosing a life partner: go with just good looks (or trendiness), and you might suffer for years.”"
   },
   {
-    "objectID": "fellowship/week-1/week-1.html#introduction",
-    "href": "fellowship/week-1/week-1.html#introduction",
-    "title": "Week 1",
+    "objectID": "fellowship/week-2/week-2.html#recap",
+    "href": "fellowship/week-2/week-2.html#recap",
+    "title": "Week 2",
+    "section": "Recap…",
+    "text": "Recap…\nLast week, we agreed that research isn’t just an academic checkbox; it’s a professional tool that lets paediatricians shape care beyond the clinic. Now, let’s move from why research matters to how to begin it, with the right topic."
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#introduction",
+    "href": "fellowship/week-2/week-2.html#introduction",
+    "title": "Week 2",
     "section": "Introduction",
-    "text": "Introduction\nResearch often evokes images of laboratories, statistics, and long journal articles. For many paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before completing the fellowship program. However, research is much more than just a requirement; it is an essential part of clinical excellence. In a region like West Africa, where context-specific evidence is often missing, research becomes a tool not only for learning but also for leading.\nEvery time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to improve your service delivery, you are engaging in the curiosity that drives research. This article aims to help you understand why research should matter deeply to you as a pediatrician-in-training, and how it can shape your future practice."
+    "text": "Introduction\nSo, you’re ready to start your thesis. You have your white coat, a stethoscope, and enough caffeine to power a minor city. But when asked, “What’s your research topic?” you freeze like a child caught with biscuit crumbs on their face.\nChoosing a research topic is often the first real hurdle residents face, not because they lack ideas, but because they have too many, or worse, none that are feasible. This article serves as your guide through the fog, helping you select a topic that’s academically sound, clinically meaningful, and realistically achievable (before retirement)."
   },
   {
-    "objectID": "fellowship/week-1/week-1.html#objectives",
-    "href": "fellowship/week-1/week-1.html#objectives",
-    "title": "Week 1",
-    "section": "Objectives",
-    "text": "Objectives\nBy the end of this short article, you should be able to:\n\nRecognize the importance of research in clinical paediatrics, especially in low-resource environments.\nRecognise how research enhances patient care, policy, and personal development.\nRecognize that you already possess the fundamental mindset of a researcher."
+    "objectID": "fellowship/week-2/week-2.html#the-anatomy-of-a-good-research-topic",
+    "href": "fellowship/week-2/week-2.html#the-anatomy-of-a-good-research-topic",
+    "title": "Week 2",
+    "section": "The Anatomy of a Good Research Topic",
+    "text": "The Anatomy of a Good Research Topic\nA good research topic lies at the intersection of interest, relevance, feasibility, and scientific value. Like the classic Venn diagram: if your topic only ticks one or two of these, you’re heading for trouble.\n\nInterest: Pick Something You Genuinely Care About\nYou’re going to spend the next 1–2 years reading, writing, and talking about this topic. If it doesn’t excite you on Day 1, it certainly won’t on Day 201.\n\nExample: If you enjoy neonatology, don’t force yourself into a study on adolescent substance use just because someone said it’s “publishable.”\n\n\n\nRelevance: Will This Matter in Your Context?\nA study on cystic fibrosis might be scientifically rich, but unless you’re in a regional centre with enough cases, it may not be regionally relevant.\nAsk:\n\nDoes this address a common or emerging clinical problem in Ghana or West Africa?\nWill it add value to policy, practice, or further research?\n\nA study on antimicrobial resistance in under-fives with sepsis is both regionally relevant and of public health interest.\n\n\nFeasibility: Do You Have the Time, Data, and Resources?\nAmbition is noble, but so is passing your fellowship. Be wary of multicentre longitudinal studies if you’re juggling night shifts and ward rounds.\n\nTip: Retrospective chart reviews, cross-sectional surveys, short cohort studies, and facility-based studies are often more realistic for a first-time researcher and a fellowship thesis.\n\nA cross-sectional study on asthma control among school-aged children attending your facility? Completely achievable!\nA 10-year follow-up study of post-ICU neurodevelopmental outcomes? Good luck (unless you’ve got funding, a team, and a time machine).\n\n\nScientific Value: What Will the Field Gain?\nAvoid “me-too” topics. A third repetition of “knowledge of neonatal jaundice among caregivers” in the same region, using the same tool, might not break any academic ground, unless you’re adding a novel twist or intervention.\nLook at what’s already published locally and regionally. Use PubMed, African Journals Online (AJOL), and Google Scholar. Embrace Artificial Intelligence if you still have a phobia of it. It will help a lot in this regard.\nConsider:\n\nHas this topic been done before?\nIf yes, can I improve the methodology or explore a different angle?\n\n\n\nMentor Input\nDiscuss with supervisors or clinicians; they can help narrow down and refine your idea."
   },
   {
-    "objectID": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
-    "href": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
-    "title": "Week 1",
-    "section": "Why Should You Care About Research?",
-    "text": "Why Should You Care About Research?\n\nResearch Builds Better Clinicians\nContrary to popular belief, research is not the opposite of clinical work; it enhances it. Clinicians who engage with research develop sharper critical thinking skills. They are more likely to read journals analytically, question clinical practices, and make evidence-informed decisions. In a world where medical misinformation spreads easily, the ability to discern good evidence from poor-quality studies is a vital professional skill.\n\n\nOur Questions Deserve Local Answers\nMost of the evidence that guides paediatric practice worldwide comes from high-income countries. While this knowledge is valuable, it often doesn’t reflect the realities of African healthcare systems: different pathogens, resource limitations, or cultural barriers to care. Only locally generated research can tell us, for example, the actual burden of neonatal jaundice in our setting or the best way to manage asthma in a rural clinic with limited drug availability. Your research as a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence base that reflects our unique realities.\n\n\nResearch Amplifies Your Voice\nMany paediatricians are passionate advocates for children but feel limited to bedside interventions. Research offers a path to broader influence. When your study is published or presented, it enters the professional and policy-making space. Your findings could contribute to national guidelines, influence donor priorities, or inform training curricula. In this way, research transforms your observations into advocacy backed by data.\n\n\nIt Opens Doors You Never Expected\nWhether it’s a travel grant to present at an international conference, a collaboration with a regional team, or an opportunity to lead a quality improvement project, research creates visibility. It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence but helps generate it."
+    "objectID": "fellowship/week-2/week-2.html#where-do-good-topics-come-from",
+    "href": "fellowship/week-2/week-2.html#where-do-good-topics-come-from",
+    "title": "Week 2",
+    "section": "Where Do Good Topics Come From?",
+    "text": "Where Do Good Topics Come From?\n\nClinical Curiosity: Something you’ve noticed during your rotations.\nLiterature Gaps: Unanswered questions in recent journal articles.\nSupervisors & Mentors: Tap into their experience (and sometimes their data!).\nNational Priorities: Align with ongoing health strategies or WHO/Ministry reports\nYour Audit Book: That intriguing trend you found during clinical audit might just be publishable!\n\nFor instance, if you observed that most neonates with jaundice are presenting late despite antenatal education, that’s a question worth studying."
   },
   {
-    "objectID": "fellowship/week-1/week-1.html#closing-thoughts",
-    "href": "fellowship/week-1/week-1.html#closing-thoughts",
-    "title": "Week 1",
-    "section": "Closing Thoughts",
-    "text": "Closing Thoughts\nYou may not think of yourself as a researcher, not yet. But you already have what it takes: a curious mind, clinical experience, and a desire to make a difference. The rest is teachable.\nOver the next several weeks, a blog will be written and shared each week. It is hoped that the series will guide you through the research process with practical steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but it’s a journey you can take one step at a time. Each blog focuses on a small part of this process, keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but about shaping your career, improving child health, and advancing the practice of medicine in West Africa.\nWelcome to your research year. Let’s begin.🚶🚶🚶"
+    "objectID": "fellowship/week-2/week-2.html#red-flags-to-avoid",
+    "href": "fellowship/week-2/week-2.html#red-flags-to-avoid",
+    "title": "Week 2",
+    "section": "Red Flags To Avoid",
+    "text": "Red Flags To Avoid\n\nTopics that are too broad (“Nutrition in children”)\nTopics driven only by data availability (Don’t reverse-engineer research just because you have a dusty folder of lab results)\n“Hot” topics outside your scope (E.g., Machine learning in NICUs… unless you have the team and tech)\nAnything dependent on “pending” funding or ethics approval from 4 hospitals"
   },
   {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html",
-    "href": "adv-stats-2024/PracticalTwo/index.html",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "",
-    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
+    "objectID": "fellowship/week-2/week-2.html#a-practical-scenario",
+    "href": "fellowship/week-2/week-2.html#a-practical-scenario",
+    "title": "Week 2",
+    "section": "A Practical Scenario",
+    "text": "A Practical Scenario\nDr. Ama is a senior paediatric resident at the Komfo Anokye Teaching Hospital. She has been working in the Paediatric Emergency Unit and has noticed that many children with severe anaemia are also testing positive for malaria.\nShe begins to wonder:\n\n“Are children with severe anaemia more likely to have malaria, or is this just a coincidence?”\n\n\nStep-by-Step Process to Generate the Topic\n\nStep 1: Observation and Clinical Curiosity\nShe reflects on:\n\nThe frequency of severe anaemia among under-fives.\nThe high malaria burden in the region.\nOccasional delays in diagnosis due to a lack of rapid testing\n\n\nIdea Trigger: There seems to be a link between malaria and anaemia. Can this be studied systematically?\n\n\n\nStep 2: Literature Review\nShe performs a brief search on PubMed, using terms like:\n\n“malaria and anaemia in children in Ghana”\n“prevalence of malaria-induced anaemia”\n“factors associated with severe anaemia”\n\nShe finds:\n\nSeveral studies confirmed the association.\nBut few studies focused on her specific region or were linked to seasonal variations or delays in diagnosis.\n\n\nGap Identified: While malaria–anaemia links are known, there is limited data for her locality, especially regarding the timing of diagnosis and treatment.\n\n\n\nStep 3: Discussion with Supervisor or Mentor\nShe shares her thoughts with her supervisor, who responds:\n\n“That’s a good observation. But consider narrowing it. Maybe look at children under 5 years, admitted for anaemia, and determine how many also had malaria by microscopy vs RDT.”\n\n\nRefinement: Supervisor advises to narrow the scope and make it measurable.\n\n\n\nStep 4: Assess Feasibility\nShe considers:\n\nData availability: The Hospital has blood film records, RDT results, and complete blood counts.\nSample size: Over 300 anaemia admissions in the past year.\nTime: She can complete this study in under 12 months.\n\n\nFeasible: Data is available, and ethical clearance is possible.\n\n\n\nStep 5: Define the Research Topic and Objectives\nShe drafts her topic:\n\n“Prevalence And Seasonal Trend of Malaria in Children Under 5 Years Admitted with Anaemia at Komfo Anokye Teaching Hospital”\n\nObjectives:\n\nTo determine the proportion of anemic children under five who test positive for malaria.\nTo compare the diagnostic yield between RDT and blood film microscopy.\nTo explore seasonal trends in malaria-associated anaemia.\n\n\n\nFinal Research Topic (SMART)\n\n“Malaria Infection Among Children Under Five Years Admitted With Anaemia at Komfo Anokye Teaching Hospital: A Cross-Sectional Study”\n\n\nSpecific – children &lt;5 with anaemia.\nMeasurable – malaria test results.\nAchievable – uses existing data.\nRelevant – targets a major child health problem.\nTime-bound – single hospital, defined period.\n\nMission Accomplished (Without any spy gadgets!) 🥷🥷🥷"
   },
   {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "Objectives",
-    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
+    "objectID": "fellowship/week-2/week-2.html#summary",
+    "href": "fellowship/week-2/week-2.html#summary",
+    "title": "Week 2",
+    "section": "Summary",
+    "text": "Summary\nChoosing a research topic is not just the first step; it’s a foundational one. Don’t rush it. Be guided by:\n\nWhat you care about\nWhat’s relevant to your training and region\nWhat you can complete within your time and resources\nWhat adds a meaningful contribution to paediatric care"
   },
   {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "To do",
-    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
+    "objectID": "fellowship/week-2/week-2.html#take-home-message",
+    "href": "fellowship/week-2/week-2.html#take-home-message",
+    "title": "Week 2",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nYour thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading (without inducing seizures)."
   },
   {
-    "objectID": "adv-stats-2024/PracticalSix/index.html",
-    "href": "adv-stats-2024/PracticalSix/index.html",
-    "title": "Practical 6: Sample size determination",
-    "section": "",
-    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
+    "objectID": "fellowship/week-2/week-2.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-2/week-2.html#next-week-on-paediatric-research-insights",
+    "title": "Week 2",
+    "section": "Next Week on Paediatric Research Insights…",
+    "text": "Next Week on Paediatric Research Insights…\nWe’ll turn your chosen topic into a research question that gets your supervisor nodding and your ethics committee smiling (or at least not frowning). See you next week! 👋🏾"
   },
   {
-    "objectID": "adv-stats-2024/PracticalFive/index.html",
-    "href": "adv-stats-2024/PracticalFive/index.html",
-    "title": "Practical 5: Regression",
-    "section": "",
-    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "title": "Practical 5: Regression",
-    "section": "Objectives",
-    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html",
-    "href": "adv-stats-2024/PracticaFour/index.html",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "",
-    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "Objectives",
-    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html",
-    "href": "adv-stats-2024/PracticalOne/index.html",
-    "title": "Practical 1: Data preparation",
-    "section": "",
-    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "title": "Practical 1: Data preparation",
-    "section": "Objectives",
-    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
-    "href": "adv-stats-2024/PracticalOne/index.html#practical",
-    "title": "Practical 1: Data preparation",
-    "section": "Practical",
-    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "title": "Practical 1: Data preparation",
-    "section": "To do",
-    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html",
-    "href": "adv-stats-2024/PracticalThree/index.html",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "",
-    "text": "This is the third practical lesson where we learn how about hypothesis testing"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "Objectives",
-    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
+    "objectID": "fellowship/week-2/week-2.html#references",
+    "href": "fellowship/week-2/week-2.html#references",
+    "title": "Week 2",
+    "section": "References",
+    "text": "References\n\nRatan, S. K., Anand, T., & Ratan, J. (2019). Formulation of research question–Stepwise approach. Journal of Indian Association of Pediatric Surgeons, 24(1), 15–20. https://doi.org/10.4103/jiaps.JIAPS_76_18\nFarrugia, P., Petrisor, B. A., Farrokhyar, F., & Bhandari, M. (2010). Research questions, hypotheses and objectives. Canadian Journal of Surgery, 53(4), 278–281. PMID: 20646403\nIlesanmi OS, Afolabi AA. (2019). Challenges of research and documentation among medical residents in Nigeria: A nationwide survey. Nigerian Journal of Medicine, 28(4):413-418. PMID: 32124462"
   },
   {
     "objectID": "adv-stats-2024/welcome/index.html",
@@ -238,11 +182,144 @@
     "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
   },
   {
+    "objectID": "adv-stats-2024/PracticalThree/index.html",
+    "href": "adv-stats-2024/PracticalThree/index.html",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "",
+    "text": "This is the third practical lesson where we learn how about hypothesis testing"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "Objectives",
+    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html",
+    "href": "adv-stats-2024/PracticalOne/index.html",
+    "title": "Practical 1: Data preparation",
+    "section": "",
+    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "title": "Practical 1: Data preparation",
+    "section": "Objectives",
+    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
+    "href": "adv-stats-2024/PracticalOne/index.html#practical",
+    "title": "Practical 1: Data preparation",
+    "section": "Practical",
+    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "title": "Practical 1: Data preparation",
+    "section": "To do",
+    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html",
+    "href": "adv-stats-2024/PracticaFour/index.html",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "",
+    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "Objectives",
+    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html",
+    "href": "adv-stats-2024/PracticalFive/index.html",
+    "title": "Practical 5: Regression",
+    "section": "",
+    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "title": "Practical 5: Regression",
+    "section": "Objectives",
+    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalSix/index.html",
+    "href": "adv-stats-2024/PracticalSix/index.html",
+    "title": "Practical 6: Sample size determination",
+    "section": "",
+    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html",
+    "href": "adv-stats-2024/PracticalTwo/index.html",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "",
+    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "To do",
+    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html",
+    "href": "fellowship/week-1/week-1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "“Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning into an emergency case!”."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#introduction",
+    "href": "fellowship/week-1/week-1.html#introduction",
+    "title": "Week 1",
+    "section": "Introduction",
+    "text": "Introduction\nResearch often evokes images of laboratories, statistics, and long journal articles. For many paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before completing the fellowship program. However, research is much more than just a requirement; it is an essential part of clinical excellence. In a region like West Africa, where context-specific evidence is often missing, research becomes a tool not only for learning but also for leading.\nEvery time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to improve your service delivery, you are engaging in the curiosity that drives research. This article aims to help you understand why research should matter deeply to you as a pediatrician-in-training, and how it can shape your future practice."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#objectives",
+    "href": "fellowship/week-1/week-1.html#objectives",
+    "title": "Week 1",
+    "section": "Objectives",
+    "text": "Objectives\nBy the end of this short article, you should be able to:\n\nRecognize the importance of research in clinical paediatrics, especially in low-resource environments.\nRecognise how research enhances patient care, policy, and personal development.\nRecognize that you already possess the fundamental mindset of a researcher."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
+    "href": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
+    "title": "Week 1",
+    "section": "Why Should You Care About Research?",
+    "text": "Why Should You Care About Research?\n\nResearch Builds Better Clinicians\nContrary to popular belief, research is not the opposite of clinical work; it enhances it. Clinicians who engage with research develop sharper critical thinking skills. They are more likely to read journals analytically, question clinical practices, and make evidence-informed decisions. In a world where medical misinformation spreads easily, the ability to discern good evidence from poor-quality studies is a vital professional skill.\n\n\nOur Questions Deserve Local Answers\nMost of the evidence that guides paediatric practice worldwide comes from high-income countries. While this knowledge is valuable, it often doesn’t reflect the realities of African healthcare systems: different pathogens, resource limitations, or cultural barriers to care. Only locally generated research can tell us, for example, the actual burden of neonatal jaundice in our setting or the best way to manage asthma in a rural clinic with limited drug availability. Your research as a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence base that reflects our unique realities.\n\n\nResearch Amplifies Your Voice\nMany paediatricians are passionate advocates for children but feel limited to bedside interventions. Research offers a path to broader influence. When your study is published or presented, it enters the professional and policy-making space. Your findings could contribute to national guidelines, influence donor priorities, or inform training curricula. In this way, research transforms your observations into advocacy backed by data.\n\n\nIt Opens Doors You Never Expected\nWhether it’s a travel grant to present at an international conference, a collaboration with a regional team, or an opportunity to lead a quality improvement project, research creates visibility. It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence but helps generate it."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#closing-thoughts",
+    "href": "fellowship/week-1/week-1.html#closing-thoughts",
+    "title": "Week 1",
+    "section": "Closing Thoughts",
+    "text": "Closing Thoughts\nYou may not think of yourself as a researcher, not yet. But you already have what it takes: a curious mind, clinical experience, and a desire to make a difference. The rest is teachable.\nOver the next several weeks, a blog will be written and shared each week. It is hoped that the series will guide you through the research process with practical steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but it’s a journey you can take one step at a time. Each blog focuses on a small part of this process, keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but about shaping your career, improving child health, and advancing the practice of medicine in West Africa.\nWelcome to your research year. Let’s begin.🚶🚶🚶"
+  },
+  {
     "objectID": "fellowship.html",
     "href": "fellowship.html",
     "title": "Fellowship",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 1, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 1, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "membership/counselling/index.html",

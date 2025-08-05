@@ -1,0 +1,231 @@
+---
+title: "Week 2"
+categories: [Research]
+description: "**From Curiosity to Question: Finding Your Perfect Research Topic**" 
+date: 2025-08-08
+toc: true
+---
+
+::: {style="color: #2b50aa; text-align: center;"}
+*“Choosing a thesis topic is like choosing a life partner: go with just good looks (or trendiness),
+and you might suffer for years.”*
+:::
+
+## Recap…
+
+Last week, we agreed that research isn't just an academic checkbox; it’s a professional tool that
+lets paediatricians shape care beyond the clinic. Now, let’s move from **why** research matters to
+**how** to begin it, with the right topic.
+
+## Introduction
+
+So, you’re ready to start your thesis. You have your white coat, a stethoscope, and enough caffeine
+to power a minor city. But when asked, “What’s your research topic?” you freeze like a child caught
+with biscuit crumbs on their face.
+
+Choosing a research topic is often the first real hurdle residents face, not because they lack
+ideas, but because they **have too many**, or worse, **none that are feasible**. This article serves
+as your guide through the fog, helping you select a topic that’s academically sound, clinically
+meaningful, and realistically achievable (before retirement).
+
+## The Anatomy of a Good Research Topic
+
+A good research topic lies at the intersection of *interest*, *relevance*, *feasibility*, and
+*scientific value*. Like the classic Venn diagram: if your topic only ticks one or two of these,
+you’re heading for trouble.
+
+### Interest: Pick Something You Genuinely Care About
+
+You’re going to spend the next 1–2 years reading, writing, and talking about this topic. If it
+doesn’t excite you on Day 1, it certainly won’t on Day 201.
+
+> **Example:** If you enjoy neonatology, don’t force yourself into a study on adolescent substance
+> use just because someone said it’s “publishable.”
+
+### Relevance: Will This Matter in Your Context?
+
+A study on cystic fibrosis might be scientifically rich, but unless you’re in a regional centre with
+enough cases, it may not be regionally relevant.
+
+Ask:
+
+-   Does this address a common or emerging clinical problem in Ghana or West Africa?
+-   Will it add value to policy, practice, or further research?
+
+A study on antimicrobial resistance in under-fives with sepsis is both regionally relevant and of
+public health interest.
+
+### Feasibility: Do You Have the Time, Data, and Resources?
+
+Ambition is noble, but so is passing your fellowship. Be wary of multicentre longitudinal studies if
+you’re juggling night shifts and ward rounds.
+
+> **Tip**: Retrospective chart reviews, cross-sectional surveys, short cohort studies, and
+> facility-based studies are often more realistic for a first-time researcher and a fellowship
+> thesis.
+
+A cross-sectional study on asthma control among school-aged children attending your facility?
+Completely achievable!
+
+A 10-year follow-up study of post-ICU neurodevelopmental outcomes? Good luck (unless you’ve got
+funding, a team, and a time machine).
+
+### Scientific Value: What Will the Field Gain?
+
+Avoid “me-too” topics. A third repetition of “*knowledge of neonatal jaundice among caregivers*” in
+the same region, using the same tool, might not break any academic ground, unless you’re adding a
+novel twist or intervention.
+
+Look at what’s already published locally and regionally. Use **PubMed**, **African Journals Online
+(AJOL)**, and **Google Scholar**. Embrace Artificial Intelligence if you still have a phobia of it.
+It will help a lot in this regard.
+
+Consider:
+
+-   Has this topic been done before?
+-   If yes, can I improve the methodology or explore a different angle?
+
+### Mentor Input
+
+Discuss with supervisors or clinicians; they can help narrow down and refine your idea.
+
+## Where Do Good Topics Come From?
+
+-   **Clinical Curiosity:** Something you’ve noticed during your rotations.
+-   **Literature Gaps:** Unanswered questions in recent journal articles.
+-   **Supervisors & Mentors:** Tap into their experience (and sometimes their data!).
+-   **National Priorities:** Align with ongoing health strategies or WHO/Ministry reports
+-   **Your Audit Book:** That intriguing trend you found during clinical audit might just be
+    publishable!
+
+For instance, if you observed that most neonates with jaundice are presenting late despite antenatal
+education, that’s a question worth studying.
+
+## Red Flags To Avoid
+
+-   Topics that are too broad (“Nutrition in children”)
+-   Topics driven only by data availability (Don’t reverse-engineer research just because you have a
+    dusty folder of lab results)
+-   “Hot” topics outside your scope (E.g., Machine learning in NICUs… unless you have the team and
+    tech)
+-   Anything dependent on “pending” funding or ethics approval from 4 hospitals
+
+## A Practical Scenario
+
+Dr. Ama is a senior paediatric resident at the Komfo Anokye Teaching Hospital. She has been working
+in the Paediatric Emergency Unit and has noticed that many children with s**evere anaemia** are also
+testing **positive for malaria**.
+
+She begins to wonder:
+
+> "Are children with severe anaemia more likely to have malaria, or is this just a coincidence?"
+
+### Step-by-Step Process to Generate the Topic
+
+#### **Step 1**: Observation and Clinical Curiosity
+
+She reflects on:
+
+-   The frequency of **severe anaemia** among under-fives.
+-   The high **malaria burden** in the region.
+-   Occasional **delays in diagnosis** due to a lack of rapid testing
+
+> **Idea Trigger**: There seems to be a link between malaria and anaemia. Can this be studied
+> systematically?
+
+#### **Step 2**: Literature Review
+
+She performs a brief search on **PubMed**, using terms like:
+
+-   *"malaria and anaemia in children in Ghana"*
+-   *"prevalence of malaria-induced anaemia"*
+-   *"factors associated with severe anaemia"*
+
+She finds:
+
+-   Several studies confirmed the association.
+-   But few studies focused on her specific region or were linked to seasonal variations or delays
+    in diagnosis.
+
+> **Gap Identified**: While malaria–anaemia links are known, there is limited data for her locality,
+> especially regarding the timing of diagnosis and treatment.
+
+#### **Step 3:** Discussion with Supervisor or Mentor
+
+She shares her thoughts with her supervisor, who responds:
+
+-   “That’s a good observation. But consider narrowing it. Maybe look at children under 5 years,
+    admitted for anaemia, and determine how many also had malaria by **microscopy vs RDT**.”
+
+> **Refinement**: Supervisor advises to narrow the scope and make it measurable.
+
+#### **Step 4:** Assess Feasibility
+
+She considers:
+
+-   **Data availability**: The Hospital has blood film records, RDT results, and complete blood
+    counts.
+-   **Sample size**: Over 300 anaemia admissions in the past year.
+-   **Time:** She can complete this study in under 12 months.
+
+> **Feasible**: Data is available, and ethical clearance is possible.
+
+#### **Step 5:** Define the Research Topic and Objectives
+
+She drafts her topic:
+
+> **"Prevalence And Seasonal Trend of Malaria in Children Under 5 Years Admitted with Anaemia at
+> Komfo Anokye Teaching Hospital"**
+
+Objectives:
+
+1.  To determine the proportion of anemic children under five who test positive for malaria.
+2.  To compare the diagnostic yield between RDT and blood film microscopy.
+3.  To explore seasonal trends in malaria-associated anaemia.
+
+#### **Final Research Topic (SMART)**
+
+> **“Malaria Infection Among Children Under Five Years Admitted With Anaemia at Komfo Anokye
+> Teaching Hospital: A Cross-Sectional Study”**
+
+-   **Specific** – children \<5 with anaemia.
+-   **Measurable** – malaria test results.
+-   **Achievable** – uses existing data.
+-   **Relevant** – targets a major child health problem.
+-   **Time-bound** – single hospital, defined period.
+
+Mission Accomplished (Without any spy gadgets!) **🥷🥷🥷**
+
+## Summary
+
+Choosing a research topic is not just the first step; it’s a foundational one. Don’t rush it. Be
+guided by:
+
+-   What you care about
+-   What’s relevant to your training and region
+-   What you can complete within your time and resources
+-   What adds a meaningful contribution to paediatric care
+
+## Take-Home Message
+
+Your thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and
+worth reading (without inducing seizures).
+
+## Next Week on Paediatric Research Insights…
+
+We’ll turn your chosen topic into a research question that gets your supervisor nodding and your
+ethics committee smiling (or at least not frowning). See you next week! 👋🏾
+
+## **References**
+
+1.  Ratan, S. K., Anand, T., & Ratan, J. (2019). Formulation of research question–Stepwise approach.
+    *Journal of Indian Association of Pediatric Surgeons*, 24(1), 15–20.
+    <https://doi.org/10.4103/jiaps.JIAPS_76_18>
+
+2.  Farrugia, P., Petrisor, B. A., Farrokhyar, F., & Bhandari, M. (2010). Research questions,
+    hypotheses and objectives. *Canadian Journal of Surgery*, 53(4), 278–281. PMID:
+    [20646403](https://pubmed.ncbi.nlm.nih.gov/20646403/)
+
+3.  Ilesanmi OS, Afolabi AA. (2019). Challenges of research and documentation among medical
+    residents in Nigeria: A nationwide survey. *Nigerian Journal of Medicine*, 28(4):413-418. PMID:
+    [32124462](https://pubmed.ncbi.nlm.nih.gov/32124462/)

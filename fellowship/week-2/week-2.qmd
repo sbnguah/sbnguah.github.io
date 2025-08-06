@@ -6,9 +6,8 @@ date: 2025-08-08
 toc: true
 ---
 
-::: {style="color: #2b50aa; text-align: center;"}
-*“Choosing a thesis topic is like choosing a life partner: go with just good looks (or trendiness),
-and you might suffer for years.”*
+::: {style="color: #39729e; text-align: center;"}
+*“A journey that begins with steady steps will not lose the path at the crossroads*.*”*
 :::
 
 ## Recap…
@@ -20,8 +19,8 @@ lets paediatricians shape care beyond the clinic. Now, let’s move from **why**
 ## Introduction
 
 So, you’re ready to start your thesis. You have your white coat, a stethoscope, and enough caffeine
-to power a minor city. But when asked, “What’s your research topic?” you freeze like a child caught
-with biscuit crumbs on their face.
+to power a minor city. But when asked, “What’s your research topic?” you freeze like a
+child...Ouch!.
 
 Choosing a research topic is often the first real hurdle residents face, not because they lack
 ideas, but because they **have too many**, or worse, **none that are feasible**. This article serves

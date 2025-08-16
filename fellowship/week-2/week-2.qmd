@@ -1,8 +1,9 @@
 ---
 title: "Week 2"
-categories: [Research]
+categories: [Research, Proposal]
 description: "**From Curiosity to Question: Finding Your Perfect Research Topic**" 
-date: 2025-08-08
+author: "Dr. Samuel Blay Nguah"
+date: 2025-08-09
 toc: true
 ---
 
@@ -19,8 +20,7 @@ lets paediatricians shape care beyond the clinic. Now, let’s move from **why**
 ## Introduction
 
 So, you’re ready to start your thesis. You have your white coat, a stethoscope, and enough caffeine
-to power a minor city. But when asked, “What’s your research topic?” you freeze like a
-child...Ouch!.
+to power a minor city. But when asked, “What’s your research topic?” you freeze like a child...Ouch!
 
 Choosing a research topic is often the first real hurdle residents face, not because they lack
 ideas, but because they **have too many**, or worse, **none that are feasible**. This article serves
@@ -66,7 +66,7 @@ you’re juggling night shifts and ward rounds.
 A cross-sectional study on asthma control among school-aged children attending your facility?
 Completely achievable!
 
-A 10-year follow-up study of post-ICU neurodevelopmental outcomes? Good luck (unless you’ve got
+A 10-year follow-up study of post-ICU neurodevelopmental outcomes? Good luck! (unless you’ve got
 funding, a team, and a time machine).
 
 ### Scientific Value: What Will the Field Gain?
@@ -186,6 +186,8 @@ Objectives:
 
 > **“Malaria Infection Among Children Under Five Years Admitted With Anaemia at Komfo Anokye
 > Teaching Hospital: A Cross-Sectional Study”**
+
+A careful observation of this title reveals the following qualities:
 
 -   **Specific** – children \<5 with anaemia.
 -   **Measurable** – malaria test results.

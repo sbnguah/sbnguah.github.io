@@ -1,9 +1,9 @@
 ---
 title: "Week 1"
 author: "Dr. Samuel Blay Nguah"
-categories: [Research]
+categories: [Research, Intro]
 description: "**Welcome to Research: Why Every Paediatrician Should Care**" 
-date: 2025-08-01
+date: 2025-08-02
 toc: true
 ---
 

@@ -1,0 +1,130 @@
+---
+title: "Week 3"
+categories: [Research, Proposal]
+description: "**What Makes a Good Research Question: The PICOT Approach**"
+author: "Dr. Samuel Blay Nguah"
+date: 2025-08-16
+toc: true
+---
+
+**“Wisdom is like a baobab tree; no one individual can embrace it.”**
+
+## Recap...
+
+Last week, we discovered that your thesis topic doesn’t need to cure cancer, but it should be clear,
+focused, answerable, and worth reading. This week, we explore the process of developing a research
+question that evokes happiness, even in the most depressed skeptic.
+
+## Introduction
+
+A research question is the backbone of your thesis. Get it wrong, and you’ll limp through the entire
+process. Get it right, and everything else, from your design to your discussion, flows naturally.
+
+The challenge? Many residents start with vague questions like:
+
+1.  “Does malaria affect children?” (Spoiler: yes, it does.)
+2.  “What is the effect of malnutrition?” (On what? Whom? When?)
+
+This is where **PICOT** comes in. It is not a fancy Italian coffee, but a tool to keep your research
+question structured, sharp, and answerable. Let us dive into it...
+
+## The PICOT Framework Explained
+
+PICOT stands for:\
+**P – Population**: Who are you studying?\
+**I – Intervention (or exposure)**: What’s being applied, tested, or observed?\
+**C – Comparison**: What are you comparing it against (if applicable)?\
+**O – Outcome**: What measurable effect are you interested in?\
+**T – Time**: Over what period?
+
+Together, these elements transform a loose idea into a focused, researchable question. So, let us
+dissect it!
+
+### Population (P)
+
+Be specific. Instead of “children,” say “children under five presenting to the Paediatric Emergency
+Unit at Korle Bu.”
+
+👉 Bad: “Does asthma affect children?”\
+👉 Better: “Among school-aged children in Accra…”
+
+### Intervention (I)
+
+This could be a treatment, risk factor, diagnostic test, or exposure.
+
+👉 Example: “Use of inhaled corticosteroids” or “exclusive breastfeeding.”
+
+### Comparison (C)
+
+Sometimes optional, but always helpful. What’s the alternative? Placebo? No treatment? Standard
+practice?
+
+👉 Example: “**Inhaled corticosteroids** vs. **short-acting beta agonists alone**.”
+
+### Outcome (O)
+
+This should be measurable, not vague. Avoid “improved health.” Think: “reduction in asthma
+exacerbations,” “increase in haemoglobin levels,” or “improved growth velocity.” These are specific
+and measurable!
+
+### Time (T)
+
+Although not always necessary, it adds clarity.\
+👉 Example: “Over a six-month follow-up.”
+
+## Putting It All Together: From Vague to Vivid
+
+Let’s walk through a paediatric example.
+
+-   **Vague Question**: “Does breastfeeding help babies?”
+-   **PICOT Question**: “Among infants less than 6 months old in Kumasi (**P)**, does exclusive
+    breastfeeding for the first 6 months (**I)**, compared to mixed feeding (**C**), reduce the
+    incidence of diarrhoeal diseases (**O**) during infancy **(T**)?”
+
+See the difference? One belongs in a WhatsApp chat, the other belongs in your thesis protocol.
+
+## Why PICOT Matters
+
+1.  **Guides Study Design**: Your question dictates whether you run a cross-sectional survey, a
+    cohort study, or a clinical trial.
+2.  **Clarifies Variables**: No more mid-thesis panic when you realise you never defined your
+    outcome.
+3.  **Keeps You Focused**: With PICOT, you avoid drifting into irrelevant territory.
+4.  **Impresses Examiners**: A well-structured question signals a well-prepared candidate.
+
+> A 2010 review highlighted that structured research questions using PICOT were associated with
+> stronger study design and more transparent reporting (Richardson et al., 1995; Huang et al.,
+> 2006).
+
+## Summary
+
+The PICOT framework is your thesis compass. It ensures your research question is not only
+straightforward but also **doable**. By explicitly defining the **who, what, compared to what,
+expected result, and timeframe**, you’ll save yourself headaches later on.
+
+## Take-Home Message
+
+Never write a research question that could be answered with a shrug. With PICOT, your question
+becomes focused, measurable, and worthy of a fellowship thesis.
+
+## Next Week on Paediatric Research Insights…
+
+We’ll dissect the **“***Anatomy of a Good Research Proposal***”**, think of it as the skeletal
+system of your thesis, without which your research collapses like a jellyfish.
+
+Until then, may your research questions be sharp, your supervisors impressed, and your comparison
+groups cooperative. See you next week...bring your skeleton key! 🦴📚
+
+## References
+
+1.  Richardson WS, Wilson MC, Nishikawa J, Hayward RS. The well-built clinical question: a key to
+    evidence-based decisions. *ACP J Club*. 1995 Nov-Dec;123(3):A12–3. PMID:
+    [7582737](https://pubmed.ncbi.nlm.nih.gov/7582737/)
+
+2.  Huang X, Lin J, Demner-Fushman D. Evaluation of PICO as a knowledge representation for clinical
+    questions. *AMIA Annu Symp Proc*. 2006;2006:359-63. PMID:
+    [17238363](https://pubmed.ncbi.nlm.nih.gov/17238363/)
+
+3.  Riva JJ, Malik KM, Burnie SJ, Endicott AR, Busse JW. What is your research question? An
+    introduction to the PICOT format for clinicians. *J Can Chiropr Assoc*. 2012 Sep;56(3):167-71.
+    PMID: [22997465](https://pubmed.ncbi.nlm.nih.gov/22997465/)

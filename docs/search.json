@@ -56,256 +56,81 @@
     "text": "Dr. Samuel Blay Nguah is a pediatrician and medical statistician based in Kumasi, the second-largest city in Ghana. He is a Senior Lecturer in the Department of Child Health of the School of Medicine and Dentistry, Kwame Nkrumah University of Science and Technology.\nHe has been a practicing consultant pediatrician at the Komfo Anokye Teaching Hospital since 2010 and as a doctor since 2000. He has a special interest in Paediatric Cardiology, caring for children with congenital and acquired heart diseases since 2007.\nAs a medical statistician, he has actively participated in many surveys and research, with well over 50 publications in peer-reviewed medical journals. He is an ardent user of the R software for data analysis and visualization. He frequently gives talks to resident doctors in training on topics, including research methods and biostatistics.\nHis hobbies include reading, swimming, and gardening."
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html",
-    "href": "fellowship/week-3/week3_picot_article.html",
-    "title": "Week 3",
+    "objectID": "fellowship/week-4/week4_proposal_article.html",
+    "href": "fellowship/week-4/week4_proposal_article.html",
+    "title": "Week 4",
     "section": "",
-    "text": "“Wisdom is like a baobab tree; no one individual can embrace it.”"
+    "text": "“He who does not know one thing knows another.”"
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#recap",
-    "href": "fellowship/week-3/week3_picot_article.html#recap",
-    "title": "Week 3",
+    "objectID": "fellowship/week-4/week4_proposal_article.html#recap",
+    "href": "fellowship/week-4/week4_proposal_article.html#recap",
+    "title": "Week 4",
     "section": "Recap…",
-    "text": "Recap…\nLast week, we discovered that your thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading. This week, we explore the process of developing a research question that evokes happiness, even in the most depressed skeptic."
+    "text": "Recap…\nLast week, we discovered that a strong research question is like a stool: PICOT gives it the five legs it needs to stand. Today, we’ll learn how to weave that stool into a proposal sturdy enough to carry examiners."
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#introduction",
-    "href": "fellowship/week-3/week3_picot_article.html#introduction",
-    "title": "Week 3",
+    "objectID": "fellowship/week-4/week4_proposal_article.html#introduction",
+    "href": "fellowship/week-4/week4_proposal_article.html#introduction",
+    "title": "Week 4",
     "section": "Introduction",
-    "text": "Introduction\nA research question is the backbone of your thesis. Get it wrong, and you’ll limp through the entire process. Get it right, and everything else, from your design to your discussion, flows naturally.\nThe challenge? Many residents start with vague questions like:\n\n“Does malaria affect children?” (Spoiler: yes, it does.)\n“What is the effect of malnutrition?” (On what? Whom? When?)\n\nThis is where PICOT comes in. It is not a fancy Italian coffee, but a tool to keep your research question structured, sharp, and answerable. Let us dive into it…"
+    "text": "Introduction\nEvery researcher has that “aha!” moment. It could be a puzzling observation on the ward, a nagging pattern in the outpatient clinic, or a burning question whispered during mortality meetings. But in academia, and especially in WACP and GCPS fellowship training, ideas alone are not currency. An idea without a proposal is like a recipe without ingredients: impressive-sounding, but you’ll never get fed.\nA research proposal is your way of showing examiners, supervisors, and colleagues that you can transform curiosity into credible science. It is not simply “a hurdle before Part II.” It serves as your training ground for grant applications, collaborative projects, and the broader research world. If you can write a good fellowship proposal, you’re well on your way to writing protocols for WHO, UNICEF, or your Ministry of Health. And let’s be honest: it’s also your ticket to surviving rounds of corrections from…"
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
-    "href": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
-    "title": "Week 3",
-    "section": "The PICOT Framework Explained",
-    "text": "The PICOT Framework Explained\nPICOT stands for:\nP – Population: Who are you studying?\nI – Intervention (or exposure): What’s being applied, tested, or observed?\nC – Comparison: What are you comparing it against (if applicable)?\nO – Outcome: What measurable effect are you interested in?\nT – Time: Over what period?\nTogether, these elements transform a loose idea into a focused, researchable question. So, let us dissect it!\n\nPopulation (P)\nBe specific. Instead of “children,” say “children under five presenting to the Paediatric Emergency Unit at Korle Bu.”\n👉 Bad: “Does asthma affect children?”\n👉 Better: “Among school-aged children in Accra…”\n\n\nIntervention (I)\nThis could be a treatment, risk factor, diagnostic test, or exposure.\n👉 Example: “Use of inhaled corticosteroids” or “exclusive breastfeeding.”\n\n\nComparison (C)\nSometimes optional, but always helpful. What’s the alternative? Placebo? No treatment? Standard practice?\n👉 Example: “Inhaled corticosteroids vs. short-acting beta agonists alone.”\n\n\nOutcome (O)\nThis should be measurable, not vague. Avoid “improved health.” Think: “reduction in asthma exacerbations,” “increase in haemoglobin levels,” or “improved growth velocity.” These are specific and measurable!\n\n\nTime (T)\nAlthough not always necessary, it adds clarity.\n👉 Example: “Over a six-month follow-up.”"
+    "objectID": "fellowship/week-4/week4_proposal_article.html#the-purpose-of-a-proposal",
+    "href": "fellowship/week-4/week4_proposal_article.html#the-purpose-of-a-proposal",
+    "title": "Week 4",
+    "section": "The Purpose of a Proposal",
+    "text": "The Purpose of a Proposal\nThink of your proposal as a map, contract, and sales pitch rolled into one.\n\nAs a map, it guides your steps from idea to data collection to final write-up.\nAs a contract, it sets boundaries: no “mission creep,” no reinventing the wheel halfway.\nAs a sales pitch, it convinces examiners and supervisors that your study is feasible, ethical, and essential.\n\nWithout a proposal, you’re like a surgeon walking into the theatre without instruments; enthusiastic, yes, but dangerously unprepared.\nReviewers, whether in Accra, Abuja, or Freetown, are looking for three main things (Hulley et al., 2013; PMID: 24071097):\n1. Clarity — Do you know what you’re doing?\n2. Feasibility — Can you realistically complete it as a resident with limited time and resources?\n3. Relevance — Will the findings matter for children in West Africa?"
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
-    "href": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
-    "title": "Week 3",
-    "section": "Putting It All Together: From Vague to Vivid",
-    "text": "Putting It All Together: From Vague to Vivid\nLet’s walk through a paediatric example.\n\nVague Question: “Does breastfeeding help babies?”\nPICOT Question: “Among infants less than 6 months old in Kumasi (P), does exclusive breastfeeding for the first 6 months (I), compared to mixed feeding (C), reduce the incidence of diarrhoeal diseases (O) during infancy (T)?”\n\nSee the difference? One belongs in a WhatsApp chat, the other belongs in your thesis protocol."
+    "objectID": "fellowship/week-4/week4_proposal_article.html#anatomy-of-a-proposal-gcps-vs-wacp",
+    "href": "fellowship/week-4/week4_proposal_article.html#anatomy-of-a-proposal-gcps-vs-wacp",
+    "title": "Week 4",
+    "section": "Anatomy of a Proposal – GCPS vs WACP",
+    "text": "Anatomy of a Proposal – GCPS vs WACP\nHere’s where it gets interesting. Both Colleges want the same essential elements: a strong rationale, clear objectives, a robust methodology, and ethics. But the way they dress the bride is slightly different.\n\nGCPS is detailed and process-oriented. They want:\n\nTitle page\nAbstract (500 words)\nTable of contents\nIntroduction & rationale\nAims/objectives\nLiterature review (1500 words)\nMaterials and methods\nData management & analysis\nEthical/legal considerations\nLogistics, timeline, budget\nReferences\nAppendices\n\nWACP, on the other hand, is concise and examiner-focused. They want:\n\nTitle page with detailed candidate/supervisor info\nIntroduction (≤300 words)\nLiterature review (≤1500 words)\nStudy design & methodology (≤1000 words)\nRelevance (≤200 words)\nReferences\nEthical approval\nVerification page (with signatures)\nPage for official use\n\n\nIf GCPS is like a buffet, with every dish laid out, WACP is like a finely plated gourmet meal: smaller portions, but highly scrutinised."
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
-    "href": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
-    "title": "Week 3",
-    "section": "Why PICOT Matters",
-    "text": "Why PICOT Matters\n\nGuides Study Design: Your question dictates whether you run a cross-sectional survey, a cohort study, or a clinical trial.\nClarifies Variables: No more mid-thesis panic when you realise you never defined your outcome.\nKeeps You Focused: With PICOT, you avoid drifting into irrelevant territory.\nImpresses Examiners: A well-structured question signals a well-prepared candidate.\n\n\nA 2010 review highlighted that structured research questions using PICOT were associated with stronger study design and more transparent reporting (Richardson et al., 1995; Huang et al., 2006)."
+    "objectID": "fellowship/week-4/week4_proposal_article.html#breaking-down-key-sections",
+    "href": "fellowship/week-4/week4_proposal_article.html#breaking-down-key-sections",
+    "title": "Week 4",
+    "section": "Breaking Down Key Sections",
+    "text": "Breaking Down Key Sections\n\nTitle\nShould be short, specific, and informative. Avoid: “A Study of Malaria in Children.” Instead: “Prevalence and Risk Factors of Severe Malaria among Under-Five Children in Tamale Teaching Hospital.”\n\n\nIntroduction & Rationale\nThis is your chance to show why your question matters. Set the stage with local data, link to global literature, and highlight the gap. WACP allows 300 words; GCPS gives you more room, but don’t waste it with unnecessary storytelling.\n\n\nObjectives & Research Questions\nThese must flow logically from your rationale. Examiners are allergic to vague objectives. Write SMART (Specific, Measurable, Achievable, Relevant, Time-bound).\nBad: “To study anaemia in children.”\nGood: “To determine the prevalence and severity of anaemia among under-five children admitted at Cape Coast Teaching Hospital between Jan and Dec 2025.”\n\n\nLiterature Review\nThis section is both your credibility test and your GPS. A well-done review shows you understand what has been studied, where gaps remain, and how your project adds value. Both Colleges insist on African literature. Use recent published sources but also cite local theses and regional studies (Wong et al., 2021; PMID: 33486548).\n\n\nMethods\nThis is the beating heart of your proposal. Define:\n- Study design (cross-sectional, cohort, case-control, clinical trial)\n- Population, inclusion/exclusion criteria\n- Sampling strategy\n- Sample size (with justification; examiners love formulas!)\n- Data collection tools\n- Data management and analysis plan\nA good rule: if someone else reads your methods, they should be able to repeat your study without calling you at midnight.\n\n\nEthics\nBoth Colleges want assurance that you will not traumatise children, breach confidentiality, or overburden parents. Always name the ethics committee you applied to. Mention informed consent/assent, confidentiality, and data protection.\n\n\nRelevance\nWACP caps this at 200 words. Don’t just say “It will help children.” Be specific: “Findings will guide policy on asthma management in Ghana and provide baseline data for future multicentre studies.”\n\n\nBudget, Timeline, and Logistics\nOnly GCPS explicitly requires these, but don’t ignore them for WACP. A Gantt chart is your best friend. Supervisors love to see that you’ve planned how to balance clinics, night calls, and fieldwork."
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#summary",
-    "href": "fellowship/week-3/week3_picot_article.html#summary",
-    "title": "Week 3",
+    "objectID": "fellowship/week-4/week4_proposal_article.html#common-pitfalls-to-avoid",
+    "href": "fellowship/week-4/week4_proposal_article.html#common-pitfalls-to-avoid",
+    "title": "Week 4",
+    "section": "Common Pitfalls to Avoid",
+    "text": "Common Pitfalls to Avoid\n\nOverambition: “I will follow 10,000 children for 5 years.” My friend, you’ll finish residency with white hair.\nVague methods: “Data will be analysed.” How? With SPSS? STATA? Excel?\nCut-and-paste literature review: Examiners can spot plagiarism faster than children smell fried plantain.\nIgnoring ethics: Nothing irritates examiners more."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#example-in-practice",
+    "href": "fellowship/week-4/week4_proposal_article.html#example-in-practice",
+    "title": "Week 4",
+    "section": "Example in Practice",
+    "text": "Example in Practice\nResearch question: What is the prevalence of overweight and obesity among school-aged children in Accra?\nProposal structure:\n- Title: Prevalence and Risk Factors of Overweight and Obesity among Primary School Children in Accra, Ghana.\n- Introduction: Childhood obesity is rising globally and in Africa (PMID: 36738719). Data from Ghana is limited.\n- Objectives: To determine prevalence, identify associated factors, and compare urban vs peri-urban schools.\n- Literature Review: Summarise Ghanaian studies and SSA prevalence rates.\n- Methods: Cross-sectional study, cluster sampling of schools, anthropometric measures, WHO BMI z-scores, logistic regression.\n- Ethics: Parental consent, child assent, data anonymisation.\n- Relevance: Findings will inform school-based health interventions.\n- Budget/Timeline: Weighing scales, transport, data entry clerk, 9 months total."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#summary",
+    "href": "fellowship/week-4/week4_proposal_article.html#summary",
+    "title": "Week 4",
     "section": "Summary",
-    "text": "Summary\nThe PICOT framework is your thesis compass. It ensures your research question is not only straightforward but also doable. By explicitly defining the who, what, compared to what, expected result, and timeframe, you’ll save yourself headaches later on."
+    "text": "Summary\nA proposal is more than paperwork. It is your research promise to your supervisors, your College, and the children whose lives your findings may improve. Whether GCPS or WACP, examiners want to see clarity, feasibility, ethics, and relevance."
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#take-home-message",
-    "href": "fellowship/week-3/week3_picot_article.html#take-home-message",
-    "title": "Week 3",
+    "objectID": "fellowship/week-4/week4_proposal_article.html#take-home-message",
+    "href": "fellowship/week-4/week4_proposal_article.html#take-home-message",
+    "title": "Week 4",
     "section": "Take-Home Message",
-    "text": "Take-Home Message\nNever write a research question that could be answered with a shrug. With PICOT, your question becomes focused, measurable, and worthy of a fellowship thesis."
+    "text": "Take-Home Message\nA strong proposal is a blend of curiosity, structure, and discipline. Ideas excite; proposals convince. And in fellowship training, only the latter will get you across the finish line."
   },
   {
-    "objectID": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
-    "href": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
-    "title": "Week 3",
+    "objectID": "fellowship/week-4/week4_proposal_article.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-4/week4_proposal_article.html#next-week-on-paediatric-research-insights",
+    "title": "Week 4",
     "section": "Next Week on Paediatric Research Insights…",
-    "text": "Next Week on Paediatric Research Insights…\nWe’ll dissect the “Anatomy of a Good Research Proposal”, think of it as the skeletal system of your thesis, without which your research collapses like a jellyfish.\nUntil then, may your research questions be sharp, your supervisors impressed, and your comparison groups cooperative. See you next week…bring your skeleton key! 🦴📚"
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#references",
-    "href": "fellowship/week-3/week3_picot_article.html#references",
-    "title": "Week 3",
-    "section": "References",
-    "text": "References\n\nRichardson WS, Wilson MC, Nishikawa J, Hayward RS. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995 Nov-Dec;123(3):A12–3. PMID: 7582737\nHuang X, Lin J, Demner-Fushman D. Evaluation of PICO as a knowledge representation for clinical questions. AMIA Annu Symp Proc. 2006;2006:359-63. PMID: 17238363\nRiva JJ, Malik KM, Burnie SJ, Endicott AR, Busse JW. What is your research question? An introduction to the PICOT format for clinicians. J Can Chiropr Assoc. 2012 Sep;56(3):167-71. PMID: 22997465"
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html",
-    "href": "fellowship/week-1/week-1.html",
-    "title": "Week 1",
-    "section": "",
-    "text": "“Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning into an emergency case!”."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#introduction",
-    "href": "fellowship/week-1/week-1.html#introduction",
-    "title": "Week 1",
-    "section": "Introduction",
-    "text": "Introduction\nResearch often evokes images of laboratories, statistics, and long journal articles. For many paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before completing the fellowship program. However, research is much more than just a requirement; it is an essential part of clinical excellence. In a region like West Africa, where context-specific evidence is often missing, research becomes a tool not only for learning but also for leading.\nEvery time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to improve your service delivery, you are engaging in the curiosity that drives research. This article aims to help you understand why research should matter deeply to you as a pediatrician-in-training, and how it can shape your future practice."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#objectives",
-    "href": "fellowship/week-1/week-1.html#objectives",
-    "title": "Week 1",
-    "section": "Objectives",
-    "text": "Objectives\nBy the end of this short article, you should be able to:\n\nRecognize the importance of research in clinical paediatrics, especially in low-resource environments.\nRecognise how research enhances patient care, policy, and personal development.\nRecognize that you already possess the fundamental mindset of a researcher."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
-    "href": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
-    "title": "Week 1",
-    "section": "Why Should You Care About Research?",
-    "text": "Why Should You Care About Research?\n\nResearch Builds Better Clinicians\nContrary to popular belief, research is not the opposite of clinical work; it enhances it. Clinicians who engage with research develop sharper critical thinking skills. They are more likely to read journals analytically, question clinical practices, and make evidence-informed decisions. In a world where medical misinformation spreads easily, the ability to discern good evidence from poor-quality studies is a vital professional skill.\n\n\nOur Questions Deserve Local Answers\nMost of the evidence that guides paediatric practice worldwide comes from high-income countries. While this knowledge is valuable, it often doesn’t reflect the realities of African healthcare systems: different pathogens, resource limitations, or cultural barriers to care. Only locally generated research can tell us, for example, the actual burden of neonatal jaundice in our setting or the best way to manage asthma in a rural clinic with limited drug availability. Your research as a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence base that reflects our unique realities.\n\n\nResearch Amplifies Your Voice\nMany paediatricians are passionate advocates for children but feel limited to bedside interventions. Research offers a path to broader influence. When your study is published or presented, it enters the professional and policy-making space. Your findings could contribute to national guidelines, influence donor priorities, or inform training curricula. In this way, research transforms your observations into advocacy backed by data.\n\n\nIt Opens Doors You Never Expected\nWhether it’s a travel grant to present at an international conference, a collaboration with a regional team, or an opportunity to lead a quality improvement project, research creates visibility. It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence but helps generate it."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#closing-thoughts",
-    "href": "fellowship/week-1/week-1.html#closing-thoughts",
-    "title": "Week 1",
-    "section": "Closing Thoughts",
-    "text": "Closing Thoughts\nYou may not think of yourself as a researcher, not yet. But you already have what it takes: a curious mind, clinical experience, and a desire to make a difference. The rest is teachable.\nOver the next several weeks, a blog will be written and shared each week. It is hoped that the series will guide you through the research process with practical steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but it’s a journey you can take one step at a time. Each blog focuses on a small part of this process, keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but about shaping your career, improving child health, and advancing the practice of medicine in West Africa.\nWelcome to your research year. Let’s begin.🚶🚶🚶"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html",
-    "href": "adv-stats-2024/PracticalTwo/index.html",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "",
-    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "Objectives",
-    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "To do",
-    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalSix/index.html",
-    "href": "adv-stats-2024/PracticalSix/index.html",
-    "title": "Practical 6: Sample size determination",
-    "section": "",
-    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html",
-    "href": "adv-stats-2024/PracticalFive/index.html",
-    "title": "Practical 5: Regression",
-    "section": "",
-    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "title": "Practical 5: Regression",
-    "section": "Objectives",
-    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html",
-    "href": "adv-stats-2024/PracticaFour/index.html",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "",
-    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "Objectives",
-    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html",
-    "href": "adv-stats-2024/PracticalOne/index.html",
-    "title": "Practical 1: Data preparation",
-    "section": "",
-    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "title": "Practical 1: Data preparation",
-    "section": "Objectives",
-    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
-    "href": "adv-stats-2024/PracticalOne/index.html#practical",
-    "title": "Practical 1: Data preparation",
-    "section": "Practical",
-    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "title": "Practical 1: Data preparation",
-    "section": "To do",
-    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html",
-    "href": "adv-stats-2024/PracticalThree/index.html",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "",
-    "text": "This is the third practical lesson where we learn how about hypothesis testing"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "Objectives",
-    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html",
-    "href": "adv-stats-2024/welcome/index.html",
-    "title": "Data Description",
-    "section": "",
-    "text": "This post describes the data set to be used in the workshop."
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#ancdata",
-    "href": "adv-stats-2024/welcome/index.html#ancdata",
-    "title": "Data Description",
-    "section": "ANCData",
-    "text": "ANCData\nDescription\nThis dataset can be downloaded from here. It contains records of high-risk pregnant women under a trial on new and old methods of antenatal care in two clinics. The outcome was perinatal mortality. There are 755 observations with the following 3 variables.\n\ndeath: A categorical variable indicating if death occurred in the infant.\nanc: Indicates which type of ANC method was used.\nclinic: Indicates which clinic the patient was seen at."
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#blood",
-    "href": "adv-stats-2024/welcome/index.html#blood",
-    "title": "Data Description",
-    "section": "blood",
-    "text": "blood\nDescription\nThis dataset can be downloaded from here. It contains records of a cross-sectional study of the blood results of 50 children. It has the following 7 variables.\n\nstno: The study ID.\nage: Age in completed months of the study participants.\nwgt: Weight in kilogram\nhgt: Height in cms\nhb: Blood hemoglobin concentration in g/dL\nwbc: White blood cell count\nhct: Blood hematocrit in %"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#titanic",
-    "href": "adv-stats-2024/welcome/index.html#titanic",
-    "title": "Data Description",
-    "section": "titanic",
-    "text": "titanic\nDescription\nThis dataset can be downloaded from here. It contains records of the fateful journey by the Titanic cruise ship. It has the following 5 variables.\n\nclass: The class in which the person was.\nage: Age in completed years.\nsex: Sex\nsurvived: Whether the person survived the sinking of the ship\ndied: Whether the person died as a result of the accident"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#schisto",
-    "href": "adv-stats-2024/welcome/index.html#schisto",
-    "title": "Data Description",
-    "section": "schisto",
-    "text": "schisto\nDescription\nThis dataset can be downloaded from here. It was obtained from 367 pupils in a community in Ghana. The cross-sectional study was to determine the effect of urinary schistosomiasis on the nutritional status as well as blood indices of school children. It has the following 15 variables.\n\nSerial0: The study ID.\nQ3Age: Age in completed years.\nQ4Sex: The sex of the pupil.\nQ35weight: Weight in kilogram\nQ36Height: Height in cms\nQ6Religion: Religious affiliation\nEducationalstatus: Level of education\nQ15PipeBorne: Does the pupil use bipe-borne water at home? 0 = No, 1 = Yes\nQ15Well: Does the pupil use well water at home? 0 = No, 1 = Yes\nQ15River: Does the pupil use river water at home? 0 = No, 1 = Yes\nHB: Blood hemoglobin concentration in g/dL\nSH: Shistosomiasis ova in the urine. Nil, +, ++, and +++\nHCT: Blood hematocrit in %\nMCV: Mean Corpuscular Volume\nMCH: Mean Corpuscular Hemoglobin"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#newdrug",
-    "href": "adv-stats-2024/welcome/index.html#newdrug",
-    "title": "Data Description",
-    "section": "NewDrug",
-    "text": "NewDrug\nDescription\nThis dataset can be downloaded from here. It was obtained in a randomized controlled trial of a new drug against a control drug. It measured the mean blood pressure of study participants before and after the drugs were administered. It has the following 6 variables.\n\nid: Study ID\ntreat: Treatment given\nage: Age in completed years.\nsex: Gender of participant\nbp1: Mean arterial BP before treatment\nbp2: Mean arterial BP after treatment"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#outbreak",
-    "href": "adv-stats-2024/welcome/index.html#outbreak",
-    "title": "Data Description",
-    "section": "Outbreak",
-    "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
+    "text": "Next Week on Paediatric Research Insights…\nNow that we know the anatomy of a good proposal, next week we zoom into its beating heart: “Writing the Introduction of the Proposal.”\nSo polish your drafts, keep your supervisors caffeinated, and remember, a proposal is like cooking jollof. Everyone swears theirs is the best, but only the one with the right ingredients, steps, and timing avoids burning the pot. See you next week! 🚶🚶🚶\n\nReferences\n\nHulley SB, Cummings SR, Browner WS, et al. Designing Clinical Research. 4th ed. Lippincott Williams & Wilkins; 2013. PMID: 24071097.\n\nWong CH, Wong SF, Poon JT, et al. How to write a research proposal. Int J Surg. 2021 Feb;85:41-46. PMID: 33486548.\n\nManyanga T, et al. Prevalence of overweight and obesity among school-age children in sub-Saharan Africa. BMC Obes. 2014;1:5. PMID: 36738719."
   },
   {
     "objectID": "fellowship/week-2/week-2.html",
@@ -385,11 +210,263 @@
     "text": "References\n\nRatan, S. K., Anand, T., & Ratan, J. (2019). Formulation of research question–Stepwise approach. Journal of Indian Association of Pediatric Surgeons, 24(1), 15–20. https://doi.org/10.4103/jiaps.JIAPS_76_18\nFarrugia, P., Petrisor, B. A., Farrokhyar, F., & Bhandari, M. (2010). Research questions, hypotheses and objectives. Canadian Journal of Surgery, 53(4), 278–281. PMID: 20646403\nIlesanmi OS, Afolabi AA. (2019). Challenges of research and documentation among medical residents in Nigeria: A nationwide survey. Nigerian Journal of Medicine, 28(4):413-418. PMID: 32124462"
   },
   {
+    "objectID": "adv-stats-2024/welcome/index.html",
+    "href": "adv-stats-2024/welcome/index.html",
+    "title": "Data Description",
+    "section": "",
+    "text": "This post describes the data set to be used in the workshop."
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#ancdata",
+    "href": "adv-stats-2024/welcome/index.html#ancdata",
+    "title": "Data Description",
+    "section": "ANCData",
+    "text": "ANCData\nDescription\nThis dataset can be downloaded from here. It contains records of high-risk pregnant women under a trial on new and old methods of antenatal care in two clinics. The outcome was perinatal mortality. There are 755 observations with the following 3 variables.\n\ndeath: A categorical variable indicating if death occurred in the infant.\nanc: Indicates which type of ANC method was used.\nclinic: Indicates which clinic the patient was seen at."
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#blood",
+    "href": "adv-stats-2024/welcome/index.html#blood",
+    "title": "Data Description",
+    "section": "blood",
+    "text": "blood\nDescription\nThis dataset can be downloaded from here. It contains records of a cross-sectional study of the blood results of 50 children. It has the following 7 variables.\n\nstno: The study ID.\nage: Age in completed months of the study participants.\nwgt: Weight in kilogram\nhgt: Height in cms\nhb: Blood hemoglobin concentration in g/dL\nwbc: White blood cell count\nhct: Blood hematocrit in %"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#titanic",
+    "href": "adv-stats-2024/welcome/index.html#titanic",
+    "title": "Data Description",
+    "section": "titanic",
+    "text": "titanic\nDescription\nThis dataset can be downloaded from here. It contains records of the fateful journey by the Titanic cruise ship. It has the following 5 variables.\n\nclass: The class in which the person was.\nage: Age in completed years.\nsex: Sex\nsurvived: Whether the person survived the sinking of the ship\ndied: Whether the person died as a result of the accident"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#schisto",
+    "href": "adv-stats-2024/welcome/index.html#schisto",
+    "title": "Data Description",
+    "section": "schisto",
+    "text": "schisto\nDescription\nThis dataset can be downloaded from here. It was obtained from 367 pupils in a community in Ghana. The cross-sectional study was to determine the effect of urinary schistosomiasis on the nutritional status as well as blood indices of school children. It has the following 15 variables.\n\nSerial0: The study ID.\nQ3Age: Age in completed years.\nQ4Sex: The sex of the pupil.\nQ35weight: Weight in kilogram\nQ36Height: Height in cms\nQ6Religion: Religious affiliation\nEducationalstatus: Level of education\nQ15PipeBorne: Does the pupil use bipe-borne water at home? 0 = No, 1 = Yes\nQ15Well: Does the pupil use well water at home? 0 = No, 1 = Yes\nQ15River: Does the pupil use river water at home? 0 = No, 1 = Yes\nHB: Blood hemoglobin concentration in g/dL\nSH: Shistosomiasis ova in the urine. Nil, +, ++, and +++\nHCT: Blood hematocrit in %\nMCV: Mean Corpuscular Volume\nMCH: Mean Corpuscular Hemoglobin"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#newdrug",
+    "href": "adv-stats-2024/welcome/index.html#newdrug",
+    "title": "Data Description",
+    "section": "NewDrug",
+    "text": "NewDrug\nDescription\nThis dataset can be downloaded from here. It was obtained in a randomized controlled trial of a new drug against a control drug. It measured the mean blood pressure of study participants before and after the drugs were administered. It has the following 6 variables.\n\nid: Study ID\ntreat: Treatment given\nage: Age in completed years.\nsex: Gender of participant\nbp1: Mean arterial BP before treatment\nbp2: Mean arterial BP after treatment"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#outbreak",
+    "href": "adv-stats-2024/welcome/index.html#outbreak",
+    "title": "Data Description",
+    "section": "Outbreak",
+    "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html",
+    "href": "adv-stats-2024/PracticalThree/index.html",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "",
+    "text": "This is the third practical lesson where we learn how about hypothesis testing"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "Objectives",
+    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html",
+    "href": "adv-stats-2024/PracticalOne/index.html",
+    "title": "Practical 1: Data preparation",
+    "section": "",
+    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "title": "Practical 1: Data preparation",
+    "section": "Objectives",
+    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
+    "href": "adv-stats-2024/PracticalOne/index.html#practical",
+    "title": "Practical 1: Data preparation",
+    "section": "Practical",
+    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "title": "Practical 1: Data preparation",
+    "section": "To do",
+    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html",
+    "href": "adv-stats-2024/PracticaFour/index.html",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "",
+    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "Objectives",
+    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html",
+    "href": "adv-stats-2024/PracticalFive/index.html",
+    "title": "Practical 5: Regression",
+    "section": "",
+    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "title": "Practical 5: Regression",
+    "section": "Objectives",
+    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalSix/index.html",
+    "href": "adv-stats-2024/PracticalSix/index.html",
+    "title": "Practical 6: Sample size determination",
+    "section": "",
+    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html",
+    "href": "adv-stats-2024/PracticalTwo/index.html",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "",
+    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "To do",
+    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html",
+    "href": "fellowship/week-1/week-1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "“Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning into an emergency case!”."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#introduction",
+    "href": "fellowship/week-1/week-1.html#introduction",
+    "title": "Week 1",
+    "section": "Introduction",
+    "text": "Introduction\nResearch often evokes images of laboratories, statistics, and long journal articles. For many paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before completing the fellowship program. However, research is much more than just a requirement; it is an essential part of clinical excellence. In a region like West Africa, where context-specific evidence is often missing, research becomes a tool not only for learning but also for leading.\nEvery time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to improve your service delivery, you are engaging in the curiosity that drives research. This article aims to help you understand why research should matter deeply to you as a pediatrician-in-training, and how it can shape your future practice."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#objectives",
+    "href": "fellowship/week-1/week-1.html#objectives",
+    "title": "Week 1",
+    "section": "Objectives",
+    "text": "Objectives\nBy the end of this short article, you should be able to:\n\nRecognize the importance of research in clinical paediatrics, especially in low-resource environments.\nRecognise how research enhances patient care, policy, and personal development.\nRecognize that you already possess the fundamental mindset of a researcher."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
+    "href": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
+    "title": "Week 1",
+    "section": "Why Should You Care About Research?",
+    "text": "Why Should You Care About Research?\n\nResearch Builds Better Clinicians\nContrary to popular belief, research is not the opposite of clinical work; it enhances it. Clinicians who engage with research develop sharper critical thinking skills. They are more likely to read journals analytically, question clinical practices, and make evidence-informed decisions. In a world where medical misinformation spreads easily, the ability to discern good evidence from poor-quality studies is a vital professional skill.\n\n\nOur Questions Deserve Local Answers\nMost of the evidence that guides paediatric practice worldwide comes from high-income countries. While this knowledge is valuable, it often doesn’t reflect the realities of African healthcare systems: different pathogens, resource limitations, or cultural barriers to care. Only locally generated research can tell us, for example, the actual burden of neonatal jaundice in our setting or the best way to manage asthma in a rural clinic with limited drug availability. Your research as a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence base that reflects our unique realities.\n\n\nResearch Amplifies Your Voice\nMany paediatricians are passionate advocates for children but feel limited to bedside interventions. Research offers a path to broader influence. When your study is published or presented, it enters the professional and policy-making space. Your findings could contribute to national guidelines, influence donor priorities, or inform training curricula. In this way, research transforms your observations into advocacy backed by data.\n\n\nIt Opens Doors You Never Expected\nWhether it’s a travel grant to present at an international conference, a collaboration with a regional team, or an opportunity to lead a quality improvement project, research creates visibility. It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence but helps generate it."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#closing-thoughts",
+    "href": "fellowship/week-1/week-1.html#closing-thoughts",
+    "title": "Week 1",
+    "section": "Closing Thoughts",
+    "text": "Closing Thoughts\nYou may not think of yourself as a researcher, not yet. But you already have what it takes: a curious mind, clinical experience, and a desire to make a difference. The rest is teachable.\nOver the next several weeks, a blog will be written and shared each week. It is hoped that the series will guide you through the research process with practical steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but it’s a journey you can take one step at a time. Each blog focuses on a small part of this process, keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but about shaping your career, improving child health, and advancing the practice of medicine in West Africa.\nWelcome to your research year. Let’s begin.🚶🚶🚶"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html",
+    "href": "fellowship/week-3/week3_picot_article.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "“Wisdom is like a baobab tree; no one individual can embrace it.”"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#recap",
+    "href": "fellowship/week-3/week3_picot_article.html#recap",
+    "title": "Week 3",
+    "section": "Recap…",
+    "text": "Recap…\nLast week, we discovered that your thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading. This week, we explore the process of developing a research question that evokes happiness, even in the most depressed skeptic."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#introduction",
+    "href": "fellowship/week-3/week3_picot_article.html#introduction",
+    "title": "Week 3",
+    "section": "Introduction",
+    "text": "Introduction\nA research question is the backbone of your thesis. Get it wrong, and you’ll limp through the entire process. Get it right, and everything else, from your design to your discussion, flows naturally.\nThe challenge? Many residents start with vague questions like:\n\n“Does malaria affect children?” (Spoiler: yes, it does.)\n“What is the effect of malnutrition?” (On what? Whom? When?)\n\nThis is where PICOT comes in. It is not a fancy Italian coffee, but a tool to keep your research question structured, sharp, and answerable. Let us dive into it…"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
+    "href": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
+    "title": "Week 3",
+    "section": "The PICOT Framework Explained",
+    "text": "The PICOT Framework Explained\nPICOT stands for:\nP – Population: Who are you studying?\nI – Intervention (or exposure): What’s being applied, tested, or observed?\nC – Comparison: What are you comparing it against (if applicable)?\nO – Outcome: What measurable effect are you interested in?\nT – Time: Over what period?\nTogether, these elements transform a loose idea into a focused, researchable question. So, let us dissect it!\n\nPopulation (P)\nBe specific. Instead of “children,” say “children under five presenting to the Paediatric Emergency Unit at Korle Bu.”\n👉 Bad: “Does asthma affect children?”\n👉 Better: “Among school-aged children in Accra…”\n\n\nIntervention (I)\nThis could be a treatment, risk factor, diagnostic test, or exposure.\n👉 Example: “Use of inhaled corticosteroids” or “exclusive breastfeeding.”\n\n\nComparison (C)\nSometimes optional, but always helpful. What’s the alternative? Placebo? No treatment? Standard practice?\n👉 Example: “Inhaled corticosteroids vs. short-acting beta agonists alone.”\n\n\nOutcome (O)\nThis should be measurable, not vague. Avoid “improved health.” Think: “reduction in asthma exacerbations,” “increase in haemoglobin levels,” or “improved growth velocity.” These are specific and measurable!\n\n\nTime (T)\nAlthough not always necessary, it adds clarity.\n👉 Example: “Over a six-month follow-up.”"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
+    "href": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
+    "title": "Week 3",
+    "section": "Putting It All Together: From Vague to Vivid",
+    "text": "Putting It All Together: From Vague to Vivid\nLet’s walk through a paediatric example.\n\nVague Question: “Does breastfeeding help babies?”\nPICOT Question: “Among infants less than 6 months old in Kumasi (P), does exclusive breastfeeding for the first 6 months (I), compared to mixed feeding (C), reduce the incidence of diarrhoeal diseases (O) during infancy (T)?”\n\nSee the difference? One belongs in a WhatsApp chat, the other belongs in your thesis protocol."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
+    "href": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
+    "title": "Week 3",
+    "section": "Why PICOT Matters",
+    "text": "Why PICOT Matters\n\nGuides Study Design: Your question dictates whether you run a cross-sectional survey, a cohort study, or a clinical trial.\nClarifies Variables: No more mid-thesis panic when you realise you never defined your outcome.\nKeeps You Focused: With PICOT, you avoid drifting into irrelevant territory.\nImpresses Examiners: A well-structured question signals a well-prepared candidate.\n\n\nA 2010 review highlighted that structured research questions using PICOT were associated with stronger study design and more transparent reporting (Richardson et al., 1995; Huang et al., 2006)."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#summary",
+    "href": "fellowship/week-3/week3_picot_article.html#summary",
+    "title": "Week 3",
+    "section": "Summary",
+    "text": "Summary\nThe PICOT framework is your thesis compass. It ensures your research question is not only straightforward but also doable. By explicitly defining the who, what, compared to what, expected result, and timeframe, you’ll save yourself headaches later on."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#take-home-message",
+    "href": "fellowship/week-3/week3_picot_article.html#take-home-message",
+    "title": "Week 3",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nNever write a research question that could be answered with a shrug. With PICOT, your question becomes focused, measurable, and worthy of a fellowship thesis."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
+    "title": "Week 3",
+    "section": "Next Week on Paediatric Research Insights…",
+    "text": "Next Week on Paediatric Research Insights…\nWe’ll dissect the “Anatomy of a Good Research Proposal”, think of it as the skeletal system of your thesis, without which your research collapses like a jellyfish.\nUntil then, may your research questions be sharp, your supervisors impressed, and your comparison groups cooperative. See you next week…bring your skeleton key! 🦴📚"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#references",
+    "href": "fellowship/week-3/week3_picot_article.html#references",
+    "title": "Week 3",
+    "section": "References",
+    "text": "References\n\nRichardson WS, Wilson MC, Nishikawa J, Hayward RS. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995 Nov-Dec;123(3):A12–3. PMID: 7582737\nHuang X, Lin J, Demner-Fushman D. Evaluation of PICO as a knowledge representation for clinical questions. AMIA Annu Symp Proc. 2006;2006:359-63. PMID: 17238363\nRiva JJ, Malik KM, Burnie SJ, Endicott AR, Busse JW. What is your research question? An introduction to the PICOT format for clinicians. J Can Chiropr Assoc. 2012 Sep;56(3):167-71. PMID: 22997465"
+  },
+  {
     "objectID": "fellowship.html",
     "href": "fellowship.html",
     "title": "Fellowship",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nWhat Makes a Good Research Question: The PICOT Approach\n\n\n\n\n\nAug 16, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 9, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\nIntro\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 2, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Protocol: Anatomy of a Good Research Proposal\n\n\n\n\n\nAug 23, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nWhat Makes a Good Research Question: The PICOT Approach\n\n\n\n\n\nAug 16, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 9, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\nIntro\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 2, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "membership/counselling/index.html",

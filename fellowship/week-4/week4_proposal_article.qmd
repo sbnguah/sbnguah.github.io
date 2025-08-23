@@ -1,0 +1,201 @@
+---
+title: "Week 4"
+categories: [Research, Proposal]
+description: "**From Curiosity to Protocol: Anatomy of a Good Research Proposal**"
+author: "Dr. Samuel Blay Nguah"
+date: 2025-08-23
+toc: true
+---
+
+***“He who does not know one thing knows another.”***
+
+## Recap...
+
+Last week, we discovered that a strong research question is like a stool: PICOT gives it the five
+legs it needs to stand. Today, we’ll learn how to weave that stool into a proposal sturdy enough to
+carry examiners.
+
+## Introduction
+
+Every researcher has that “aha!” moment. It could be a puzzling observation on the ward, a nagging
+pattern in the outpatient clinic, or a burning question whispered during mortality meetings. But in
+academia, and especially in **WACP and GCPS fellowship training**, ideas alone are not currency. An
+idea without a proposal is like a recipe without ingredients: impressive-sounding, but you’ll never
+get fed.
+
+A **research proposal** is your way of showing examiners, supervisors, and colleagues that you can
+transform curiosity into credible science. It is not simply “a hurdle before Part II.” It serves as
+your training ground for grant applications, collaborative projects, and the broader research world.
+If you can write a good fellowship proposal, you’re well on your way to writing protocols for WHO,
+UNICEF, or your Ministry of Health. And let’s be honest: it’s also your ticket to surviving rounds
+of corrections from...
+
+## The Purpose of a Proposal
+
+Think of your proposal as a **map, contract, and sales pitch rolled into one**.
+
+-   As a **map**, it guides your steps from idea to data collection to final write-up.
+-   As a **contract**, it sets boundaries: no “mission creep,” no reinventing the wheel halfway.
+-   As a **sales pitch**, it convinces examiners and supervisors that your study is feasible,
+    ethical, and essential.
+
+Without a proposal, you’re like a surgeon walking into the theatre without instruments;
+enthusiastic, yes, but dangerously unprepared.
+
+Reviewers, whether in Accra, Abuja, or Freetown, are looking for three main things (Hulley et al.,
+2013; PMID: 24071097):\
+1. **Clarity** — Do you know what you’re doing?\
+2. **Feasibility** — Can you realistically complete it as a resident with limited time and
+resources?\
+3. **Relevance** — Will the findings matter for children in West Africa?
+
+## Anatomy of a Proposal – GCPS vs WACP
+
+Here’s where it gets interesting. Both Colleges want the same essential elements: a strong
+rationale, clear objectives, a robust methodology, and ethics. But the way they dress the bride is
+slightly different.
+
+-   **GCPS** is detailed and process-oriented. They want:
+    1.  Title page
+    2.  Abstract (500 words)
+    3.  Table of contents
+    4.  Introduction & rationale
+    5.  Aims/objectives
+    6.  Literature review (1500 words)
+    7.  Materials and methods
+    8.  Data management & analysis
+    9.  Ethical/legal considerations
+    10. Logistics, timeline, budget
+    11. References
+    12. Appendices
+-   **WACP**, on the other hand, is concise and examiner-focused. They want:
+    1.  Title page with detailed candidate/supervisor info
+    2.  Introduction (≤300 words)
+    3.  Literature review (≤1500 words)
+    4.  Study design & methodology (≤1000 words)
+    5.  Relevance (≤200 words)
+    6.  References
+    7.  Ethical approval
+    8.  Verification page (with signatures)
+    9.  Page for official use
+
+If GCPS is like a buffet, with every dish laid out, WACP is like a finely plated gourmet meal:
+smaller portions, but highly scrutinised.
+
+## Breaking Down Key Sections
+
+### Title
+
+Should be **short, specific, and informative**. Avoid: *“A Study of Malaria in Children.”* Instead:
+*“Prevalence and Risk Factors of Severe Malaria among Under-Five Children in Tamale Teaching
+Hospital.”*
+
+### Introduction & Rationale
+
+This is your chance to show why your question matters. Set the stage with local data, link to global
+literature, and highlight the gap. WACP allows 300 words; GCPS gives you more room, but don’t waste
+it with unnecessary storytelling.
+
+### Objectives & Research Questions
+
+These must flow logically from your rationale. Examiners are allergic to vague objectives. Write
+SMART (Specific, Measurable, Achievable, Relevant, Time-bound).
+
+Bad: *“To study anaemia in children.”*\
+Good: *“To determine the prevalence and severity of anaemia among under-five children admitted at
+Cape Coast Teaching Hospital between Jan and Dec 2025.”*
+
+### Literature Review
+
+This section is both your **credibility test** and your **GPS**. A well-done review shows you
+understand what has been studied, where gaps remain, and how your project adds value. Both Colleges
+insist on African literature. Use recent published sources but also cite local theses and regional
+studies (Wong et al., 2021; PMID: 33486548).
+
+### Methods
+
+This is the beating heart of your proposal. Define:\
+- Study design (cross-sectional, cohort, case-control, clinical trial)\
+- Population, inclusion/exclusion criteria\
+- Sampling strategy\
+- Sample size (with justification; examiners love formulas!)\
+- Data collection tools\
+- Data management and analysis plan
+
+A good rule: if someone else reads your methods, they should be able to repeat your study without
+calling you at midnight.
+
+### Ethics
+
+Both Colleges want assurance that you will not traumatise children, breach confidentiality, or
+overburden parents. Always name the ethics committee you applied to. Mention informed
+consent/assent, confidentiality, and data protection.
+
+### Relevance
+
+WACP caps this at 200 words. Don’t just say *“It will help children.”* Be specific: *“Findings will
+guide policy on asthma management in Ghana and provide baseline data for future multicentre
+studies.”*
+
+### Budget, Timeline, and Logistics
+
+Only GCPS explicitly requires these, but don’t ignore them for WACP. A Gantt chart is your best
+friend. Supervisors love to see that you’ve planned how to balance clinics, night calls, and
+fieldwork.
+
+## Common Pitfalls to Avoid
+
+-   **Overambition**: “I will follow 10,000 children for 5 years.” My friend, you’ll finish
+    residency with white hair.
+-   **Vague methods**: “Data will be analysed.” How? With SPSS? STATA? Excel?
+-   **Cut-and-paste literature review**: Examiners can spot plagiarism faster than children smell
+    fried plantain.
+-   **Ignoring ethics**: Nothing irritates examiners more.
+
+## Example in Practice
+
+Research question: *What is the prevalence of overweight and obesity among school-aged children in
+Accra?*
+
+Proposal structure:\
+- **Title**: Prevalence and Risk Factors of Overweight and Obesity among Primary School Children in
+Accra, Ghana.\
+- **Introduction**: Childhood obesity is rising globally and in Africa (PMID: 36738719). Data from
+Ghana is limited.\
+- **Objectives**: To determine prevalence, identify associated factors, and compare urban vs
+peri-urban schools.\
+- **Literature Review**: Summarise Ghanaian studies and SSA prevalence rates.\
+- **Methods**: Cross-sectional study, cluster sampling of schools, anthropometric measures, WHO BMI
+z-scores, logistic regression.\
+- **Ethics**: Parental consent, child assent, data anonymisation.\
+- **Relevance**: Findings will inform school-based health interventions.\
+- **Budget/Timeline**: Weighing scales, transport, data entry clerk, 9 months total.
+
+## Summary
+
+A proposal is more than paperwork. It is your **research promise** to your supervisors, your
+College, and the children whose lives your findings may improve. Whether GCPS or WACP, examiners
+want to see **clarity, feasibility, ethics, and relevance.**
+
+## Take-Home Message
+
+A strong proposal is a blend of curiosity, structure, and discipline. Ideas excite; proposals
+convince. And in fellowship training, only the latter will get you across the finish line.
+
+## Next Week on Paediatric Research Insights…
+
+Now that we know the anatomy of a good proposal, next week we zoom into its beating heart: *“Writing
+the Introduction of the Proposal.”*
+
+So polish your drafts, keep your supervisors caffeinated, and remember, a proposal is like cooking
+jollof. Everyone swears theirs is the best, but only the one with the right ingredients, steps, and
+timing avoids burning the pot. **See you next week!** 🚶🚶🚶
+
+### References
+
+1.  Hulley SB, Cummings SR, Browner WS, et al. Designing Clinical Research. 4th ed. Lippincott
+    Williams & Wilkins; 2013. PMID: 24071097.\
+2.  Wong CH, Wong SF, Poon JT, et al. How to write a research proposal. Int J Surg. 2021
+    Feb;85:41-46. PMID: 33486548.\
+3.  Manyanga T, et al. Prevalence of overweight and obesity among school-age children in sub-Saharan
+    Africa. BMC Obes. 2014;1:5. PMID: 36738719.

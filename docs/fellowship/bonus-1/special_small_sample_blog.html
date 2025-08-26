@@ -169,13 +169,16 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#acknowledge-the-limitations-upfront" id="toc-acknowledge-the-limitations-upfront" class="nav-link" data-scroll-target="#acknowledge-the-limitations-upfront"><strong>Acknowledge the Limitations Upfront</strong></a></li>
   <li><a href="#descriptive-statistics-are-your-best-friend" id="toc-descriptive-statistics-are-your-best-friend" class="nav-link" data-scroll-target="#descriptive-statistics-are-your-best-friend"><strong>Descriptive Statistics are Your Best Friend</strong></a></li>
+  </ul></li>
+  <li><a href="#tip" id="toc-tip" class="nav-link" data-scroll-target="#tip">Tip</a>
+  <ul class="collapse">
   <li><a href="#choose-statistical-tests-carefully" id="toc-choose-statistical-tests-carefully" class="nav-link" data-scroll-target="#choose-statistical-tests-carefully"><strong>Choose Statistical Tests Carefully</strong></a></li>
   <li><a href="#focus-on-clinical-significance-not-just-p-values" id="toc-focus-on-clinical-significance-not-just-p-values" class="nav-link" data-scroll-target="#focus-on-clinical-significance-not-just-p-values"><strong>Focus on Clinical Significance, Not Just p-values</strong></a></li>
   <li><a href="#use-visual-storytelling" id="toc-use-visual-storytelling" class="nav-link" data-scroll-target="#use-visual-storytelling"><strong>Use Visual Storytelling</strong></a></li>
   <li><a href="#be-transparent-in-reporting" id="toc-be-transparent-in-reporting" class="nav-link" data-scroll-target="#be-transparent-in-reporting"><strong>Be Transparent in Reporting</strong></a></li>
   <li><a href="#consider-alternative-approaches" id="toc-consider-alternative-approaches" class="nav-link" data-scroll-target="#consider-alternative-approaches"><strong>Consider Alternative Approaches</strong></a></li>
-  <li><a href="#frame-your-conclusions-appropriately" id="toc-frame-your-conclusions-appropriately" class="nav-link" data-scroll-target="#frame-your-conclusions-appropriately"><strong>Frame Your Conclusions Appropriately</strong></a></li>
   </ul></li>
+  <li><a href="#in-conclusions" id="toc-in-conclusions" class="nav-link" data-scroll-target="#in-conclusions"><strong>In Conclusions</strong></a></li>
   <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
@@ -262,6 +265,10 @@ Get This!
 <li>Use <strong>Median</strong> and <strong>interquartile ranges (IQR)</strong> rather than means and standard deviations for continuous variables.</li>
 <li>When using figures, it’s better to use graphs that display individual data points, such as <strong>dotplots</strong>, <strong>scatterplots</strong> (<a href="#fig-one" class="quarto-xref">Figure&nbsp;1</a>), <strong>boxplots with jitter</strong> (<a href="#fig-two" class="quarto-xref">Figure&nbsp;2</a>), but not histograms.</li>
 </ol>
+</section>
+</section>
+<section id="tip" class="level2">
+<h2 class="anchored" data-anchor-id="tip">Tip</h2>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -275,7 +282,6 @@ Tip
 <p>Avoid drowning in percentages that exaggerate minor differences. Saying “2 out of 5 children (40%) could look way smaller in <em>percentage terms</em> compared to”3 out of 5 (60%)” when the numeric difference is only one!</p>
 </div>
 </div>
-</section>
 <section id="choose-statistical-tests-carefully" class="level3">
 <h3 class="anchored" data-anchor-id="choose-statistical-tests-carefully"><strong>Choose Statistical Tests Carefully</strong></h3>
 <p>Many tests assume large samples and normal distributions. With a small sample size, those assumptions may not hold. Consider:</p>
@@ -287,6 +293,8 @@ Tip
 </ul></li>
 <li><strong>Exact methods</strong>: Some software allows exact p-values that are valid for small samples.</li>
 <li><strong>Effect sizes</strong> and <strong>confidence intervals</strong>: Even if p-values are non-significant, reporting effect sizes (e.g., odds ratios with wide CIs) is valuable.</li>
+<li><strong>Multivariate regression</strong> has become an integral part of most fellowship theses, but it is not your friend when the sample size is small. Instead, discuss with your statistician if there is a need for regression. If so, a parsimonious approach is usually required, where not more than two covariates are included in the regression at a time. Alternative regression approaches are <strong>Penalized</strong> or <strong>Exact logistic regression</strong>. None of these, however, permits one to present the data as confirmatory and not exploratory.</li>
+<li>Other statistical analysis approaches may involve <strong>Bayesian methods</strong>, <strong>Simulation</strong>, and <strong>Bootstrapping</strong>. These are surely beyond the scope of this text.</li>
 </ul>
 <div class="cell">
 <div class="cell-output-display">
@@ -330,7 +338,7 @@ Example
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Imagine you are comparing two treatments for severe malaria. Out of 30 children, mortality was 4/15 in group A and 1/15 in group B. The Fisher’s exact test may not reach statistical significance. However, a <strong>relative risk of 0.25</strong> is clinically meaningful and worth reporting its large confidence interval, with a note on limited power.</p>
+<p>Imagine you are comparing two treatments for severe malaria. Out of 30 children, mortality was 4/15 in group A and 1/15 in group B. The Fisher’s exact test may not reach statistical significance. However, a <strong>relative risk of 0.25</strong> is clinically meaningful and worth reporting with its often large confidence interval, with a note on limited power.</p>
 </div>
 </div>
 </section>
@@ -360,18 +368,16 @@ Example
 <ul>
 <li><strong>Pooling data</strong>: Combine cases across several years or sites if feasible. This is likely the reason behind GCPS’s acceptance of retrospective studies.</li>
 <li><strong>Case series or descriptive studies</strong>: Frame the work as exploratory, rather than confirmatory.</li>
-<li><strong>Bayesian methods</strong>: Bayesian statistics can incorporate prior knowledge and handle small datasets more flexibly. While advanced, they are increasingly recognised in medical research.</li>
-<li><strong>Simulation and bootstrapping</strong>: Some software allows resampling to estimate confidence intervals in small samples.</li>
 </ul>
 </section>
-<section id="frame-your-conclusions-appropriately" class="level3">
-<h3 class="anchored" data-anchor-id="frame-your-conclusions-appropriately"><strong>Frame Your Conclusions Appropriately</strong></h3>
+</section>
+<section id="in-conclusions" class="level2">
+<h2 class="anchored" data-anchor-id="in-conclusions"><strong>In Conclusions</strong></h2>
 <p>The golden rule: <strong>do not overstate findings</strong>. Avoid sweeping claims like “Treatment X is superior.” Instead, say:</p>
 <blockquote class="blockquote">
 <p>“In this small cohort, Treatment X was associated with lower mortality. Larger studies are needed to confirm this finding.”</p>
 </blockquote>
 <p>This shows maturity, and examiners will respect your caution.</p>
-</section>
 </section>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>

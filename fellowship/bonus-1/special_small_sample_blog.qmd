@@ -57,9 +57,9 @@ When numbers are small, the data itself deserves to be shown. The general advice
     **dotplots**, **scatterplots** (@fig-one), **boxplots with jitter** (@fig-two), but not
     histograms.
 
-::: callout-tip
 ## Tip
 
+::: callout-tip
 Avoid drowning in percentages that exaggerate minor differences. Saying “2 out of 5 children (40%)
 could look way smaller in *percentage terms* compared to "3 out of 5 (60%)” when the numeric
 difference is only one!
@@ -76,6 +76,14 @@ assumptions may not hold. Consider:
 -   **Exact methods**: Some software allows exact p-values that are valid for small samples.
 -   **Effect sizes** and **confidence intervals**: Even if p-values are non-significant, reporting
     effect sizes (e.g., odds ratios with wide CIs) is valuable.
+-   **Multivariate regression** has become an integral part of most fellowship theses, but it is not
+    your friend when the sample size is small. Instead, discuss with your statistician if there is a
+    need for regression. If so, a parsimonious approach is usually required, where not more than two
+    covariates are included in the regression at a time. Alternative regression approaches are
+    **Penalized** or **Exact logistic regression**. None of these, however, permits one to present
+    the data as confirmatory and not exploratory.
+-   Other statistical analysis approaches may involve **Bayesian methods**, **Simulation**, and
+    **Bootstrapping**. These are surely beyond the scope of this text.
 
 ```{r}
 #| fig-cap: "Scatter plot showing individual points"
@@ -139,15 +147,15 @@ be evident.
 
 Imagine you are comparing two treatments for severe malaria. Out of 30 children, mortality was 4/15
 in group A and 1/15 in group B. The Fisher’s exact test may not reach statistical significance.
-However, a **relative risk of 0.25** is clinically meaningful and worth reporting its large
-confidence interval, with a note on limited power.
+However, a **relative risk of 0.25** is clinically meaningful and worth reporting with its often
+large confidence interval, with a note on limited power.
 :::
 
 ### **Use Visual Storytelling**
 
 Graphs are particularly powerful in small datasets. Consider:
 
--    **Dot plots** or **scatterplots**: Show every patient, highlighting the individuality of small
+-   **Dot plots** or **scatterplots**: Show every patient, highlighting the individuality of small
     data (@fig-one).
 -   **Box-and-whisker plots**: To summarise distributions while showing variability. (@fig-two)
 -   **Line plots**: For repeated measures (e.g., weight or haemoglobin before and after
@@ -173,12 +181,8 @@ When the sample size is small, expand your toolkit:
 -   **Pooling data**: Combine cases across several years or sites if feasible. This is likely the
     reason behind GCPS's acceptance of retrospective studies.
 -   **Case series or descriptive studies**: Frame the work as exploratory, rather than confirmatory.
--   **Bayesian methods**: Bayesian statistics can incorporate prior knowledge and handle small
-    datasets more flexibly. While advanced, they are increasingly recognised in medical research.
--   **Simulation and bootstrapping**: Some software allows resampling to estimate confidence
-    intervals in small samples.
 
-### **Frame Your Conclusions Appropriately**
+## **In Conclusions**
 
 The golden rule: **do not overstate findings**. Avoid sweeping claims like “Treatment X is
 superior.” Instead, say:

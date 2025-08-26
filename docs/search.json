@@ -210,6 +210,139 @@
     "text": "References\n\nRatan, S. K., Anand, T., & Ratan, J. (2019). Formulation of research question–Stepwise approach. Journal of Indian Association of Pediatric Surgeons, 24(1), 15–20. https://doi.org/10.4103/jiaps.JIAPS_76_18\nFarrugia, P., Petrisor, B. A., Farrokhyar, F., & Bhandari, M. (2010). Research questions, hypotheses and objectives. Canadian Journal of Surgery, 53(4), 278–281. PMID: 20646403\nIlesanmi OS, Afolabi AA. (2019). Challenges of research and documentation among medical residents in Nigeria: A nationwide survey. Nigerian Journal of Medicine, 28(4):413-418. PMID: 32124462"
   },
   {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html",
+    "title": "Special Post",
+    "section": "",
+    "text": "“Even the small crocodile leaves its mark on the river.”"
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#introduction",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#introduction",
+    "title": "Special Post",
+    "section": "Introduction",
+    "text": "Introduction\nThey say size doesn’t matter, until you submit your thesis with only 30 patients, and your statistician looks at you the way a pediatrician looks at a child who swallowed a coin: concerned, but not entirely surprised.\nIn our regular series, we were dissecting the anatomy of a research proposal. Today, let’s take a detour into a common headache senior residents face: What to do when your study population is small.\nIn clinical research, we are taught that bigger is better. Larger sample sizes reduce error, increase statistical power, and make our findings more generalisable. But in the real world of paediatric research, especially in sub-Saharan Africa, we sometimes have to make do with small numbers. Rare conditions, resource limitations, or the simple reality of being a resident with a short training window can leave you staring at an Excel sheet with only 30 rows of data. Does this mean your study is doomed? Not at all. Small studies can still be rigorous, meaningful, and presentable in a fellowship thesis, if analysed and presented wisely. Let’s explore how to handle such data without losing credibility (or your sanity!)."
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#what-to-do",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#what-to-do",
+    "title": "Special Post",
+    "section": "What To Do…",
+    "text": "What To Do…\n\nAcknowledge the Limitations Upfront\nThe first rule of small sample size is honesty. You must clearly acknowledge that your study may lack statistical power and may be prone to Type II error (false negatives). This doesn’t invalidate the study, but it helps set expectations for reviewers and examiners.\n\n\n\n\n\n\nGet This!\n\n\n\nIf you study neuroblastoma cases in a single centre and only get 28 eligible patients, that is not a weakness; it reflects the rarity of the condition.\n\n\n\n\nDescriptive Statistics are Your Best Friend\nWhen numbers are small, the data itself deserves to be shown. The general advice is:\n\nUse tables and graphs generously, as showing detail is the hallmark of reporting on small data.\nUse Counts and Percentages for categorical variables.\nUse Median and interquartile ranges (IQR) rather than means and standard deviations for continuous variables.\nWhen using figures, it’s better to use graphs that display individual data points, such as dotplots, scatterplots (Figure 1), boxplots with jitter (Figure 2), but not histograms.\n\n\n\n\n\n\n\nTip\n\n\n\nAvoid drowning in percentages that exaggerate minor differences. Saying “2 out of 5 children (40%) could look way smaller in percentage terms compared to”3 out of 5 (60%)” when the numeric difference is only one!\n\n\n\n\nChoose Statistical Tests Carefully\nMany tests assume large samples and normal distributions. With a small sample size, those assumptions may not hold. Consider:\n\nNon-parametric tests:\n\nMann–Whitney U test instead of the t-test.\nFisher’s exact test instead of chi-square (especially when expected counts &lt;5).\n\nExact methods: Some software allows exact p-values that are valid for small samples.\nEffect sizes and confidence intervals: Even if p-values are non-significant, reporting effect sizes (e.g., odds ratios with wide CIs) is valuable.\n\n\n\n\n\n\n\n\n\nFigure 1: Scatter plot showing individual points\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Boxplot with points shown\n\n\n\n\n\n\n\nFocus on Clinical Significance, Not Just p-values\nWith a small sample, statistical significance may be elusive. But clinical importance can still be evident.\n\n\n\n\n\n\nExample\n\n\n\nImagine you are comparing two treatments for severe malaria. Out of 30 children, mortality was 4/15 in group A and 1/15 in group B. The Fisher’s exact test may not reach statistical significance. However, a relative risk of 0.25 is clinically meaningful and worth reporting its large confidence interval, with a note on limited power.\n\n\n\n\nUse Visual Storytelling\nGraphs are particularly powerful in small datasets. Consider:\n\nDot plots or scatterplots: Show every patient, highlighting the individuality of small data (Figure 1).\nBox-and-whisker plots: To summarise distributions while showing variability. (Figure 2)\nLine plots: For repeated measures (e.g., weight or haemoglobin before and after intervention).\n\nA simple, clean figure often speaks louder than a complex p-value.\n\n\nBe Transparent in Reporting\nTransparency builds trust. Always report:\n\nThe actual numerator and denominator (“7 out of 30”), not just percentages.\nAny missing data and how you handled them.\nWhether you used one-tailed or two-tailed tests (this will be explained in subsequent blogs).\n\nReviewers are less likely to criticise your small sample if you show integrity in how you present it.\n\n\nConsider Alternative Approaches\nWhen the sample size is small, expand your toolkit:\n\nPooling data: Combine cases across several years or sites if feasible. This is likely the reason behind GCPS’s acceptance of retrospective studies.\nCase series or descriptive studies: Frame the work as exploratory, rather than confirmatory.\nBayesian methods: Bayesian statistics can incorporate prior knowledge and handle small datasets more flexibly. While advanced, they are increasingly recognised in medical research.\nSimulation and bootstrapping: Some software allows resampling to estimate confidence intervals in small samples.\n\n\n\nFrame Your Conclusions Appropriately\nThe golden rule: do not overstate findings. Avoid sweeping claims like “Treatment X is superior.” Instead, say:\n\n“In this small cohort, Treatment X was associated with lower mortality. Larger studies are needed to confirm this finding.”\n\nThis shows maturity, and examiners will respect your caution."
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#summary",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#summary",
+    "title": "Special Post",
+    "section": "Summary",
+    "text": "Summary\nWorking with small samples is common in paediatric fellowship research. While such studies may lack power, they can still provide valuable insights if analysed carefully. Focus on descriptive statistics, use non-parametric tests, highlight effect sizes, present your data visually, and above all, be transparent. When your sample is small, don’t panic. Clarity, honesty, and creativity can transform 30 rows of data into a credible and meaningful thesis chapter.\nSo yes, size matters, but presentation matters more. After all, even a small bowl of jollof can make you happy if it’s well-cooked. 🍲 See you soon!"
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#references",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#references",
+    "title": "Special Post",
+    "section": "References",
+    "text": "References\n\nFaber J, Fonseca LM. How sample size influences research outcomes. Dental Press J Orthod. 2014;19(4):27–9. PMID: 25279518\n\nHackshaw A. Small studies: strengths and limitations. Eur Respir J. 2008;32(5):1141–3. PMID: 18978131\n\nLydersen S, Fagerland MW, Laake P. Recommended tests for association in 2×2 tables. Stat Med. 2009;28(7):1159–75. PMID: 19170020"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html",
+    "href": "adv-stats-2024/PracticalTwo/index.html",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "",
+    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "To do",
+    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalSix/index.html",
+    "href": "adv-stats-2024/PracticalSix/index.html",
+    "title": "Practical 6: Sample size determination",
+    "section": "",
+    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html",
+    "href": "adv-stats-2024/PracticalFive/index.html",
+    "title": "Practical 5: Regression",
+    "section": "",
+    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "title": "Practical 5: Regression",
+    "section": "Objectives",
+    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html",
+    "href": "adv-stats-2024/PracticaFour/index.html",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "",
+    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "Objectives",
+    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html",
+    "href": "adv-stats-2024/PracticalOne/index.html",
+    "title": "Practical 1: Data preparation",
+    "section": "",
+    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "title": "Practical 1: Data preparation",
+    "section": "Objectives",
+    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
+    "href": "adv-stats-2024/PracticalOne/index.html#practical",
+    "title": "Practical 1: Data preparation",
+    "section": "Practical",
+    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "title": "Practical 1: Data preparation",
+    "section": "To do",
+    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html",
+    "href": "adv-stats-2024/PracticalThree/index.html",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "",
+    "text": "This is the third practical lesson where we learn how about hypothesis testing"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "Objectives",
+    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
+  },
+  {
     "objectID": "adv-stats-2024/welcome/index.html",
     "href": "adv-stats-2024/welcome/index.html",
     "title": "Data Description",
@@ -257,104 +390,6 @@
     "title": "Data Description",
     "section": "Outbreak",
     "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html",
-    "href": "adv-stats-2024/PracticalThree/index.html",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "",
-    "text": "This is the third practical lesson where we learn how about hypothesis testing"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "Objectives",
-    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html",
-    "href": "adv-stats-2024/PracticalOne/index.html",
-    "title": "Practical 1: Data preparation",
-    "section": "",
-    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "title": "Practical 1: Data preparation",
-    "section": "Objectives",
-    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
-    "href": "adv-stats-2024/PracticalOne/index.html#practical",
-    "title": "Practical 1: Data preparation",
-    "section": "Practical",
-    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "title": "Practical 1: Data preparation",
-    "section": "To do",
-    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html",
-    "href": "adv-stats-2024/PracticaFour/index.html",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "",
-    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "Objectives",
-    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html",
-    "href": "adv-stats-2024/PracticalFive/index.html",
-    "title": "Practical 5: Regression",
-    "section": "",
-    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "title": "Practical 5: Regression",
-    "section": "Objectives",
-    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalSix/index.html",
-    "href": "adv-stats-2024/PracticalSix/index.html",
-    "title": "Practical 6: Sample size determination",
-    "section": "",
-    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html",
-    "href": "adv-stats-2024/PracticalTwo/index.html",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "",
-    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "Objectives",
-    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "To do",
-    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
   },
   {
     "objectID": "fellowship/week-1/week-1.html",
@@ -466,7 +501,7 @@
     "href": "fellowship.html",
     "title": "Fellowship",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Protocol: Anatomy of a Good Research Proposal\n\n\n\n\n\nAug 23, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nWhat Makes a Good Research Question: The PICOT Approach\n\n\n\n\n\nAug 16, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 9, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\nIntro\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 2, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSpecial Post\n\n\n\n\n\n\nResearch\n\n\nData analysis\n\n\nSample Size\n\n\n\nSmall but Mighty: How To Analyse And Present Data When Your Study Population Is Small\n\n\n\n\n\nAug 26, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Protocol: Anatomy of a Good Research Proposal\n\n\n\n\n\nAug 23, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nWhat Makes a Good Research Question: The PICOT Approach\n\n\n\n\n\nAug 16, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 9, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\nIntro\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 2, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "membership/counselling/index.html",

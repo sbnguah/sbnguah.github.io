@@ -54,8 +54,8 @@ When numbers are small, the data itself deserves to be shown. The general advice
 3.  Use **Median** and **interquartile ranges (IQR)** rather than means and standard deviations for
     continuous variables.
 4.  When using figures, it's better to use graphs that display individual data points, such as
-    **dotplots**, **scatterplots** (@fig-one), **boxplots with jitter** (@fig-two), but not
-    histograms.
+    **dotplots (**@fig-three**)**, **scatterplots** (@fig-one), **boxplots with jitter** (@fig-two),
+    but not histograms.
 
 ## Tip
 
@@ -84,6 +84,9 @@ assumptions may not hold. Consider:
     the data as confirmatory and not exploratory.
 -   Other statistical analysis approaches may involve **Bayesian methods**, **Simulation**, and
     **Bootstrapping**. These are surely beyond the scope of this text.
+
+Yes, I know. Statistics always makes you feel that cringe in your tummy, but hallelujah, you are
+still reading. 😃😃
 
 ```{r}
 #| fig-cap: "Scatter plot showing individual points"
@@ -137,6 +140,33 @@ readstata13::read.dta13("C:\\Dataset\\BP.dta") %>%
         legend.position = "NULL")
 ```
 
+```{r}
+#| fig-cap: "Dotplot with points shown"
+#| label: fig-three
+#| warning: false
+#| message: false
+#| echo: false
+#| fig-width: 5
+#| fig-height: 3.5
+
+readstata13::read.dta13("C:\\Dataset\\BP.dta") %>% 
+    filter(!is.na(saltadd)) %>% 
+    select(saltadd, sbp) %>% 
+    sample_n(size = 45)  %>%
+    ggplot(aes(x = sbp, y = saltadd, fill = saltadd))+
+    geom_dotplot(binaxis = "x", dotsize = 1, col = "black", stackratio = 1)+
+    labs(
+        x = "Added Salt",
+        y = "Systolic Blood Pressure (mmHg)")+
+    theme_bw() +
+    theme(
+        legend.position = "NULL")+
+    labs(
+        y ="Convulsion",
+        x = "Systolic Blood Pressure"
+    )
+```
+
 ### **Focus on Clinical Significance, Not Just p-values**
 
 With a small sample, statistical significance may be elusive. But **clinical importance** can still
@@ -174,18 +204,10 @@ Transparency builds trust. Always report:
 Reviewers are less likely to criticise your small sample if you show integrity in how you present
 it.
 
-### **Consider Alternative Approaches**
-
-When the sample size is small, expand your toolkit:
-
--   **Pooling data**: Combine cases across several years or sites if feasible. This is likely the
-    reason behind GCPS's acceptance of retrospective studies.
--   **Case series or descriptive studies**: Frame the work as exploratory, rather than confirmatory.
-
 ## **In Conclusions**
 
-The golden rule: **do not overstate findings**. Avoid sweeping claims like “Treatment X is
-superior.” Instead, say:
+The golden rule: **do not overstate findings**. Avoid sweeping claims like “Treatment X is superior
+to...” or "females were significantly more likely to..." Instead, say:
 
 > “In this small cohort, Treatment X was associated with lower mortality. Larger studies are needed
 > to confirm this finding.”
@@ -206,8 +228,8 @@ you happy if it’s well-cooked. 🍲 See you soon!
 ## References
 
 1.  Faber J, Fonseca LM. How sample size influences research outcomes. *Dental Press J Orthod*.
-    2014;19(4):27–9. PMID: 25279518\
+    2014;19(4):27–9. PMID: 25279518
 2.  Hackshaw A. Small studies: strengths and limitations. *Eur Respir J*. 2008;32(5):1141–3. PMID:
-    18978131\
+    18978131
 3.  Lydersen S, Fagerland MW, Laake P. Recommended tests for association in 2×2 tables. *Stat Med*.
     2009;28(7):1159–75. PMID: 19170020

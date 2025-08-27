@@ -176,7 +176,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#focus-on-clinical-significance-not-just-p-values" id="toc-focus-on-clinical-significance-not-just-p-values" class="nav-link" data-scroll-target="#focus-on-clinical-significance-not-just-p-values"><strong>Focus on Clinical Significance, Not Just p-values</strong></a></li>
   <li><a href="#use-visual-storytelling" id="toc-use-visual-storytelling" class="nav-link" data-scroll-target="#use-visual-storytelling"><strong>Use Visual Storytelling</strong></a></li>
   <li><a href="#be-transparent-in-reporting" id="toc-be-transparent-in-reporting" class="nav-link" data-scroll-target="#be-transparent-in-reporting"><strong>Be Transparent in Reporting</strong></a></li>
-  <li><a href="#consider-alternative-approaches" id="toc-consider-alternative-approaches" class="nav-link" data-scroll-target="#consider-alternative-approaches"><strong>Consider Alternative Approaches</strong></a></li>
   </ul></li>
   <li><a href="#in-conclusions" id="toc-in-conclusions" class="nav-link" data-scroll-target="#in-conclusions"><strong>In Conclusions</strong></a></li>
   <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
@@ -263,7 +262,7 @@ Get This!
 <li>Use <strong>tables</strong> and <strong>graphs</strong> generously, as showing detail is the hallmark of reporting on small data.</li>
 <li>Use <strong>Counts</strong> and <strong>Percentages</strong> for categorical variables.</li>
 <li>Use <strong>Median</strong> and <strong>interquartile ranges (IQR)</strong> rather than means and standard deviations for continuous variables.</li>
-<li>When using figures, it’s better to use graphs that display individual data points, such as <strong>dotplots</strong>, <strong>scatterplots</strong> (<a href="#fig-one" class="quarto-xref">Figure&nbsp;1</a>), <strong>boxplots with jitter</strong> (<a href="#fig-two" class="quarto-xref">Figure&nbsp;2</a>), but not histograms.</li>
+<li>When using figures, it’s better to use graphs that display individual data points, such as <strong>dotplots (</strong>@fig-three<strong>)</strong>, <strong>scatterplots</strong> (<a href="#fig-one" class="quarto-xref">Figure&nbsp;1</a>), <strong>boxplots with jitter</strong> (<a href="#fig-two" class="quarto-xref">Figure&nbsp;2</a>), but not histograms.</li>
 </ol>
 </section>
 </section>
@@ -296,6 +295,7 @@ Tip
 <li><strong>Multivariate regression</strong> has become an integral part of most fellowship theses, but it is not your friend when the sample size is small. Instead, discuss with your statistician if there is a need for regression. If so, a parsimonious approach is usually required, where not more than two covariates are included in the regression at a time. Alternative regression approaches are <strong>Penalized</strong> or <strong>Exact logistic regression</strong>. None of these, however, permits one to present the data as confirmatory and not exploratory.</li>
 <li>Other statistical analysis approaches may involve <strong>Bayesian methods</strong>, <strong>Simulation</strong>, and <strong>Bootstrapping</strong>. These are surely beyond the scope of this text.</li>
 </ul>
+<p>Yes, I know. Statistics always makes you feel that cringe in your tummy, but hallelujah, you are still reading. 😃😃</p>
 <div class="cell">
 <div class="cell-output-display">
 <div id="fig-one" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -319,6 +319,20 @@ Figure&nbsp;1: Scatter plot showing individual points
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-two-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;2: Boxplot with points shown
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div id="fig-three" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-three-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="special_small_sample_blog_files/figure-html/fig-three-1.png" class="img-fluid figure-img" width="480">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-three-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: Dotplot with points shown
 </figcaption>
 </figure>
 </div>
@@ -362,18 +376,10 @@ Example
 </ul>
 <p>Reviewers are less likely to criticise your small sample if you show integrity in how you present it.</p>
 </section>
-<section id="consider-alternative-approaches" class="level3">
-<h3 class="anchored" data-anchor-id="consider-alternative-approaches"><strong>Consider Alternative Approaches</strong></h3>
-<p>When the sample size is small, expand your toolkit:</p>
-<ul>
-<li><strong>Pooling data</strong>: Combine cases across several years or sites if feasible. This is likely the reason behind GCPS’s acceptance of retrospective studies.</li>
-<li><strong>Case series or descriptive studies</strong>: Frame the work as exploratory, rather than confirmatory.</li>
-</ul>
-</section>
 </section>
 <section id="in-conclusions" class="level2">
 <h2 class="anchored" data-anchor-id="in-conclusions"><strong>In Conclusions</strong></h2>
-<p>The golden rule: <strong>do not overstate findings</strong>. Avoid sweeping claims like “Treatment X is superior.” Instead, say:</p>
+<p>The golden rule: <strong>do not overstate findings</strong>. Avoid sweeping claims like “Treatment X is superior to…” or “females were significantly more&nbsp;likely&nbsp;to…” Instead, say:</p>
 <blockquote class="blockquote">
 <p>“In this small cohort, Treatment X was associated with lower mortality. Larger studies are needed to confirm this finding.”</p>
 </blockquote>
@@ -387,10 +393,8 @@ Example
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
 <ol type="1">
-<li>Faber J, Fonseca LM. How sample size influences research outcomes. <em>Dental Press J Orthod</em>. 2014;19(4):27–9. PMID: 25279518<br>
-</li>
-<li>Hackshaw A. Small studies: strengths and limitations. <em>Eur Respir J</em>. 2008;32(5):1141–3. PMID: 18978131<br>
-</li>
+<li>Faber J, Fonseca LM. How sample size influences research outcomes. <em>Dental Press J Orthod</em>. 2014;19(4):27–9. PMID: 25279518</li>
+<li>Hackshaw A. Small studies: strengths and limitations. <em>Eur Respir J</em>. 2008;32(5):1141–3. PMID: 18978131</li>
 <li>Lydersen S, Fagerland MW, Laake P. Recommended tests for association in 2×2 tables. <em>Stat Med</em>. 2009;28(7):1159–75. PMID: 19170020</li>
 </ol>
 

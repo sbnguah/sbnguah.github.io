@@ -54,8 +54,8 @@ When numbers are small, the data itself deserves to be shown. The general advice
 3.  Use **Median** and **interquartile ranges (IQR)** rather than means and standard deviations for
     continuous variables.
 4.  When using figures, it's better to use graphs that display individual data points, such as
-    **dotplots (**@fig-three**)**, **scatterplots** (@fig-one), **boxplots with jitter** (@fig-two),
-    but not histograms.
+    **dotplots (**\@fig-three**)**, **scatterplots** (@fig-one), **boxplots with jitter**
+    (@fig-two), but not histograms.
 
 ## Tip
 

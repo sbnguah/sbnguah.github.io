@@ -1,0 +1,156 @@
+---
+title: "Week 5"
+categories: [Research, Proposal, Intro]
+description: "**Setting the Stage: Writing the Introduction of Your Proposal**"
+author: "Dr. Samuel Blay Nguah"
+date: 2025-08-30
+toc: true
+format: html
+---
+
+::: {.center style="color: #820263; face: bold;"}
+*"A man who is carrying an elephant on his head should not bother himself with a grasshopper by the
+foot."*
+:::
+
+## Recap...
+
+Last week we explored how to transform curiosity into a structured protocol by dissecting the
+anatomy of a good research proposal. This week, we begin diving into the sections of the proposal,
+starting with the Introduction.
+
+## Introduction
+
+If your research proposal were a blockbuster movie, the **Introduction** would be the *trailer*. It
+provides the audience with just enough information to understand the plot, builds excitement, and
+convinces them to purchase a ticket. Sadly, many residents either turn their introduction into a
+**5-hour documentary on the disease itself** or a **30-second advertisement with no substance**.
+Neither approach works.
+
+The introduction is your opportunity to tell the examiners: *“Here’s the problem, here’s why it
+matters, and here’s why my study is needed now.”* It sets the tone for the entire proposal and is
+often the first part reviewers use to decide whether you truly understand your research question.
+
+## Purpose of the Introduction
+
+The introduction should:
+
+1.  Provide the **context** for your study (what’s the bigger picture?)
+2.  Clearly define the **research problem**.
+3.  Highlight the **knowledge gap** you’re addressing.
+4.  Lead naturally to your **objectives and hypotheses**.
+
+Think of it as **funneling**: Start broad (background), narrow down (the specific problem), then
+pinpoint (the gap your study will fill).
+
+## What Makes a Good Introduction?
+
+A good introduction is short, structured, and purposeful. It answers three silent questions in the
+examiner’s mind:
+
+1.  **What’s the context?**\
+    *Why is this topic important in paediatrics, and especially in West Africa?*\
+    **Example**: “Globally, severe malaria is a leading cause of childhood deaths, with sub-Saharan
+    Africa carrying the greatest burden.”
+
+2.  **What’s the gap?**\
+    *What’s missing in current knowledge or data?*\
+    **Example**: “While numerous studies have described severe malaria mortality, predictors of
+    death among children in Kumasi remain poorly characterized.”
+
+3.  **Why now?**\
+    *What makes your research timely and relevant?*\
+    **Example**: “Understanding these predictors could inform triage and clinical management in
+    resource-limited tertiary hospitals.”
+
+## Common Pitfalls
+
+-   **Overloading with facts**: Don’t copy-paste every malaria statistic since 1960.
+-   **Storytelling without focus**: “In 1880, Laveran discovered the malaria parasite…”. Examiners
+    don’t need a history lesson.
+-   **Vagueness**: Writing a whole page without once stating the research problem.
+
+Here’s a real-life blooper from a resident: *“Asthma is a disease. It is common in children. Many
+children suffer from asthma. This study is about asthma.”* That got a firm “Try again!” from their
+supervisor.
+
+## Structure of a Good Introduction
+
+Here’s a 4-paragraph model that works:
+
+1.  **Background** – Describe the global/regional/national context.
+2.  **Local Relevance** – Why does this problem matter in your setting?
+3.  **Gap in Knowledge** – What’s missing in the literature?
+4.  **Research Problem Statement** – Clearly state what your study aims to answer, thereby
+    establishing your objectives.
+
+## Tips for Success
+
+-   **WACP candidates:** Keep within 300 words and articulate the problem, research questions,
+    hypotheses, and objectives clearly.
+-   **GCPS candidates:** You may have more room (300–500 words), but stay concise.
+-   **Statistics:** Sprinkle them like salt; enough to enhance the taste, not too much to choke your
+    reader.
+-   **African Literature:** Always reference at least one local or regional study.
+-   **Clarity:** Write simply. Examiners should feel *carried*, not *dragged*.
+
+## A Sample Introduction...
+
+**Title:** *Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana*
+
+Malaria continues to be a leading cause of childhood morbidity and mortality worldwide. In 2022, an
+estimated 247 million cases of malaria occurred globally, resulting in 619,000 deaths, with children
+under five years accounting for nearly 80% of these deaths (WHO, 2023). Sub-Saharan Africa bears the
+greatest burden, contributing approximately 94% of global malaria cases and deaths.
+
+In Ghana, malaria remains the number one cause of outpatient attendance and childhood hospital
+admissions, with under-five mortality rates still heavily influenced by this preventable disease.
+Severe malaria, characterized by complications such as cerebral malaria, severe anaemia, and
+respiratory distress, is associated with particularly high mortality when not promptly managed. At
+Komfo Anokye Teaching Hospital (KATH) in Kumasi, severe malaria cases are frequently admitted to
+paediatric emergency and intensive care units, with outcomes varying depending on clinical and
+laboratory factors.
+
+Several studies across Africa have identified predictors of mortality in severe malaria, including
+hypoglycaemia, delayed presentation, cerebral involvement, and co-morbid infections (Idro et al.,
+2010; Olumese et al., 2019). However, there is limited data from Ghana, particularly in Kumasi, on
+which factors most strongly predict mortality in children with severe malaria. Understanding these
+predictors in the local context is essential for improving triage protocols, guiding resource
+allocation, and ultimately reducing mortality.
+
+This study, therefore, seeks to identify clinical and laboratory predictors of mortality among
+children under five years admitted with severe malaria at KATH. The findings will contribute
+evidence to support more targeted interventions and enhance early recognition of high-risk patients
+in Ghanaian hospitals.
+
+Bingo!!! There you have it. 😎😎😎
+
+## Take-Home Message
+
+The introduction is your proposal’s trailer; clear, concise, and compelling. It should set the stage
+by highlighting the context, narrowing down to the local problem, identifying the gap, and stating
+the research problem. Avoid bloating it with unnecessary detail or starving it of meaning. If you
+write your introduction well, you not only hook your examiners but also clarify your own research
+focus. Think of it as setting the foundation for a house: shaky introductions lead to shaky
+proposals.
+
+## Next Week on Paediatric Research Insights…
+
+Next week, we’ll move from the *what* to the *why*: **“Writing the Justification of the Proposal”**,
+where you convince examiners that your research deserves attention, effort, and perhaps even
+funding.
+
+So, go forth and write introductions that sparkle like fresh kelewele at midnight, spicy enough to
+get attention but not so overwhelming that no one can finish the plate. *See you next week!*
+
+## References
+
+1.  Mbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research
+    proposal. *CMAJ*. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\
+2.  Idro R, Ndiritu M, Ogutu B, Mithwani S, Maitland K, Berkley J, Crawley J, Fegan G, Neville BG,
+    Peshu N, Marsh K, Newton CR. Burden, features, and outcome of neurological involvement in acute
+    falciparum malaria in Kenyan children. *JAMA*. 2007;297(20):2232–40.
+    doi:10.1001/jama.297.20.2232\
+3.  Olumese P, Snow RW, Omoluabi E, et al. Clinical features predicting mortality in children with
+    severe malaria: evidence from multi-country studies. *Malar J*. 2019;18(1):144.
+    doi:10.1186/s12936-019-2781-0

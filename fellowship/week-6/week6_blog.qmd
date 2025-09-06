@@ -1,0 +1,168 @@
+---
+title: "Week 6"
+description: "**Convince Me! Writing the Justification (Rationale) of the Proposal**"
+author: "Dr. Samuel Blay Nguah"
+categories: [Research, Proposal, Intro]
+date: 2025-09-06
+toc: true
+format: html
+---
+
+## 
+
+::: {.center style="color: #820263; face: bold;"}
+*“Until the lion tells his side of the story, the tale of the hunt will always glorify the hunter.”*
+:::
+
+## Introduction
+
+Every research proposal has a beating heart. No, it’s not the introduction, nor even the
+methodology. The heart is the **justification (or rationale)**, the part that explains *why* the
+study matters at all. A well-crafted justification convinces your examiners that your proposal is
+not just an academic exercise to pass your fellowship exams, but a meaningful piece of work that
+addresses a real and pressing problem.
+
+If the introduction is the *“what”* of your study, the justification is the *“so what.*” And believe
+me, without a good “so what,” your examiners might flip through your proposal the way we sometimes
+flip through the adverts on TV, uninterested, unimpressed, and ready to move on.
+
+## Why is Justification Important?
+
+The justification is your *sales pitch*. It’s where you persuade your examiners that your study is
+not only feasible but also worth doing. Both the **West African College of Physicians (WACP)** and
+the **Ghana College of Physicians and Surgeons (GCPS)** take this section seriously.
+
+Examiners want to know:
+
+-   Why should this problem matter to Ghana, West Africa, or Africa as a whole?
+-   Why now, and not ten years ago?
+-   What difference will your findings make to paediatric practice, policy, or patient outcomes?
+
+In other words, your justification answers the examiner’s hidden question: *“If I let you spend time
+and resources on this, will it be worth it?”*
+
+## From Global to Local
+
+One of the common mistakes residents make is loading the justification with global statistics: WHO
+reports, UNICEF data, or Lancet articles quoting worldwide disease burdens. While useful, these are
+not enough. Examiners in Accra, Kumasi, Lagos, or Freetown will ask: *“Yes, but what about us? Where
+is the African or Ghanaian data?”*
+
+For example, saying, *“Malaria causes over 400,000 deaths annually worldwide,”* is fine, but it
+doesn’t prove why you should do a study in Kumasi. A stronger argument is: *“Despite Ghana’s malaria
+control strategies, the case fatality rate among children under five admitted with severe malaria at
+Komfo Anokye Teaching Hospital remains above the national target.”* Now you have global importance
+*and* local urgency.
+
+Both WACP and GCPS explicitly ask you to cite **African literature** for this reason. Without it,
+your proposal risks sounding like it was cut and pasted from a European or American textbook.
+
+## Highlighting Novelty
+
+Another trap is to sound repetitive. You don’t want your justification to read like the hundred
+malaria proposals your examiners have seen before. The key is **novelty**. Novelty doesn’t always
+mean studying something brand new. It can mean:
+
+-   Studying an existing problem in a new population (e.g., neonates instead of school-aged
+    children).
+-   Using a different approach (e.g., using biomarkers instead of clinical predictors).
+-   Filling a local evidence gap (e.g., few studies in Kumasi despite national data elsewhere).
+
+Think of it this way: Your justification should convince your reader that if your study isn’t done,
+something important will remain unknown.
+
+## Linking to Impact
+
+Impact is the soul of justification. Examiners are busy clinicians and researchers. They are asking:
+*“How will this improve child health in my hospital, district, or country?”*
+
+A strong justification links your research question to potential action. For example:
+
+-   Predictors of mortality in severe malaria can refine triage protocols.
+-   A study on vaccine uptake can guide targeted community education.
+-   An audit of antibiotic use can inform antimicrobial stewardship policies.
+
+Impact does not mean you must save the world. It simply means your study should have the potential
+to make a measurable, relevant difference.
+
+## Balancing Ambition and Feasibility
+
+Every resident dreams of doing a groundbreaking study. But justification also needs **realism**.
+Examiners want to know: *Can this project be done with your time, resources, and setting?* A study
+requiring genetic sequencing when your hospital lab struggles with complete blood counts is not
+feasible.
+
+So, balance ambition with feasibility. You can be impactful without being impossible. Remember, a
+good thesis is not the biggest or most expensive study, but the one that answers a clear question
+well within your limits.
+
+## Analogy: The Grandmother Test
+
+Imagine trying to convince your grandmother to buy you a new phone. If you say, *“I want it because
+everyone else has it,”* she will shake her head. But if you explain, *“I need it because I get
+urgent calls from the hospital about sick children, and my current phone dies suddenly,”* she’ll see
+the urgency.
+
+That’s exactly how your justification should sound: not just *this problem exists*, but *this
+problem matters to us, now, and solving it has clear benefits.*
+
+## Example Justification
+
+**Title:** Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana
+
+Malaria remains the leading cause of childhood morbidity and mortality in Ghana, with severe malaria
+accounting for a significant proportion of hospital admissions and deaths among children under five.
+Despite improvements in malaria control strategies, case fatality rates remain unacceptably high at
+tertiary hospitals, particularly in resource-limited settings such as Kumasi. Identifying predictors
+of mortality in severe malaria is crucial for improving early recognition of high-risk children and
+guiding timely interventions that may save lives.
+
+Several studies in East Africa have reported factors associated with poor outcomes in severe
+malaria, including cerebral involvement, severe anaemia, and delayed presentation. However, few
+studies have comprehensively examined these predictors in Ghana, and none have specifically focused
+on Kumasi. Given the regional variations in clinical presentations and health system capacities,
+local data are urgently needed.
+
+This study will generate evidence directly relevant to clinical care in Kumasi. By identifying the
+predictors of mortality among children under five with severe malaria, it can inform the development
+of locally adapted triage tools and management protocols. The findings may also serve as a baseline
+for evaluating future interventions and contribute to national strategies aimed at reducing
+under-five mortality. Ultimately, the study’s impact extends beyond academic fulfilment — it can
+help save lives.
+
+----------------------------------------------------------------------------------------------------
+
+## Summary & Take-Home Message
+
+There you have it. The justification is your research proposal’s heartbeat. It transforms your study
+from “interesting” to “essential.” A strong justification:
+
+-   Explains why the problem matters.
+-   Grounds it in local data and African context.
+-   Highlights novelty or a knowledge gap.
+-   Links the study to meaningful impact.
+-   Balances ambition with feasibility.
+
+When written well, it convinces examiners that your project is not only worth doing but also worth
+approving quickly. Remember, if the introduction lights the fire, the justification must keep it
+burning brightly.
+
+## Next Week’s Prelude
+
+Next week, we move from “why this study matters” to “what exactly it aims to do”: **“Setting the
+Objectives of the Proposal.”** Get ready to learn how to write SMART objectives that can make or
+break your thesis.
+
+So...write your justification like a persuasive market woman selling her last basket of mangoes:
+confident, urgent, and impossible to ignore. *See you next week!*
+
+## References
+
+1.  Mbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research
+    proposal. *CMAJ*. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\
+2.  Oduro AR, Koram KA, Rogers W, Atuguba F, Ansah P, Anyorigiya T, et al. Severe falciparum malaria
+    in young children of the Kassena-Nankana District of northern Ghana. *Malar J*. 2007;6:96.
+    doi:10.1186/1475-2875-6-96\
+3.  Olumese P, Snow RW, Omoluabi E, et al. Clinical features predicting mortality in children with
+    severe malaria: evidence from multi-country studies. *Malar J*. 2019;18(1):144.
+    doi:10.1186/s12936-019-2781-0

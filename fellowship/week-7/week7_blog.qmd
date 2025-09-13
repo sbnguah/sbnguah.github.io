@@ -1,0 +1,137 @@
+---
+title: "Week 7"
+description: "**Sharpening the Spear – Setting the Objectives of Your**"
+author: "Dr. Samuel Blay Nguah"
+categories: [Research, Proposal, Objectives]
+date: 2025-09-013
+toc: true
+format: html
+---
+
+::: {.center style="color: #820263; face: bold;"}
+*“The hunter who chases two rabbits ends up with none.”*
+:::
+
+## Recap...
+
+Last week, we discovered that the justification is the heartbeat of your proposal; the “*so what*”
+that convinces examiners your study is worth their time and yours.
+
+## Introduction
+
+If your research proposal were a journey, the **objectives** would be your GPS. Without them, you
+risk driving around the Takoradi Market Circle for hours without ever reaching your destination.
+Objectives tell your examiners, your supervisor, and even your future self precisely what you plan
+to achieve.
+
+They are the bridge between your rationale (“why this study matters”) and your methodology (“how I
+will do it”). In other words, the objectives take your grand ideas and translate them into clear,
+measurable steps. Think of them as your thesis contract with the examiners: once approved, you’ll be
+judged on whether you fulfilled them, no more, no less.
+
+## Why Do Objectives Matter?
+
+Objectives matter because they give structure and focus. Without them, your introduction and
+justification may sound impressive but vague. With them, your study suddenly looks doable,
+assessable, and relevant.
+
+In both **WACP** and **GCPS** proposals, examiners expect objectives that are:
+
+1.  **Clear** – No examiner wants to decode your intentions like a crossword puzzle.
+2.  **Specific** – Avoid grand goals like *“eradicate malnutrition in Africa.”* Focus instead on
+    *“assess prevalence of stunting in children under five at XYZ hospital.”*
+3.  **Achievable** – Ambition is good, but remember: you are one resident, not WHO.
+4.  **Relevant** – Tie them to your justification and problem statement.
+5.  **Measurable** – Your data must be able to answer them.
+
+## General vs. Specific Objectives
+
+Residents often confuse the two, so let’s clear it up.
+
+-   **General Objective:** The overall aim of the study. It captures the big picture. Think of it as
+    the headline of your research intentions.
+-   **Specific Objectives:** The smaller, precise steps that will help you achieve the general
+    objective. They are like the bullet points under the headline.
+
+**Example** (Severe malaria in Kumasi):
+
+1.  *General Objective:* To determine predictors of mortality in children under five with severe
+    malaria in Kumasi, Ghana.
+2.  *Specific Objectives:*
+    A.  To describe the clinical characteristics of children under five admitted with severe
+        malaria.
+    B.  To determine the case fatality rate of severe malaria in this population.
+    C.  To identify clinical and laboratory factors associated with mortality.
+
+Notice how each specific objective is measurable and leads logically to the overall aim.
+
+## The SMART Approach
+
+If in doubt, use the SMART checklist:
+
+-   **S**pecific
+-   **M**easurable
+-   **A**chievable
+-   **R**elevant
+-   **T**ime-bound
+
+Residents sometimes skip the “time-bound” part, but it matters. Examiners want assurance that you’re
+not embarking on a lifelong PhD, but a focused fellowship thesis. A time anchor (e.g., “within a
+12-month study period”) reassures them of feasibility.
+
+## Common Mistakes to Avoid
+
+1.  **Overcrowding:** Five or six objectives are too many. Stick to 3–4 specific ones. Otherwise,
+    you risk spreading yourself too thin.
+2.  **Vagueness:** Objectives like *“to study malaria in children”* are too broad. What about
+    malaria? Incidence? Treatment outcomes? Mortality? Be precise.
+3.  **Disconnection:** Sometimes, residents write objectives that don’t match their methods. If your
+    methods can’t answer it, don’t write it.
+4.  **Ambition Overload:** Remember, you’re not saving the entire health system. Avoid objectives
+    that are unrealistic in scope.
+
+## Example Objectives
+
+**Topic:** Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana
+
+-   *General Objective:*\
+    To determine predictors of mortality among children under five admitted with severe malaria at
+    Komfo Anokye Teaching Hospital.
+
+-   *Specific Objectives:*
+
+    1.  To describe demographic and clinical characteristics of children under five admitted with
+        severe malaria.
+    2.  To determine the proportion of children under five who die from severe malaria during
+        hospitalization.
+    3.  To identify clinical and laboratory predictors of mortality among these children.
+
+Notice how each objective is precise, measurable, and feasible within the constraints of a
+fellowship thesis.
+
+## Take-Home Message
+
+Clear, well-crafted objectives are the compass of your thesis. They translate your big idea into
+achievable steps, reassure your examiners, and guide your methods and analysis. Keep them SMART,
+limit them to a manageable number, and ensure they directly link to your justification. Remember:
+objectives are not just for the examiners; they’re your personal guardrails against getting lost in
+the wilderness of data.
+
+## Next Week’s Prelude
+
+Now that we’ve set the objectives, it’s time to tackle the cousin that examiners love to scrutinize:
+**“Stating the Hypothesis.”** Get ready to learn why sometimes you need one, and sometimes you
+don’t.
+
+So...write your objectives as if you’re writing a shopping list: short, clear, and realistic. No one
+goes to Kejetia market with a list that says *“buy happiness.”* *See you next week, and may your
+objectives never be longer than your methods section!*
+
+## References
+
+1.  Hulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. *Designing Clinical Research*. 4th ed.
+    Philadelphia: Lippincott Williams & Wilkins; 2013.\
+2.  Mbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research
+    proposal. *CMAJ*. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\
+3.  Amoako Johnson F, Agyemang C. Research in Africa: The need for strong local evidence to guide
+    policies. *Lancet Glob Health*. 2020;8(2):e145–e146. doi:10.1016/S2214-109X(19)30547-2

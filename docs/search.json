@@ -56,81 +56,704 @@
     "text": "Dr. Samuel Blay Nguah is a pediatrician and medical statistician based in Kumasi, the second-largest city in Ghana. He is a Senior Lecturer in the Department of Child Health of the School of Medicine and Dentistry, Kwame Nkrumah University of Science and Technology.\nHe has been a practicing consultant pediatrician at the Komfo Anokye Teaching Hospital since 2010 and as a doctor since 2000. He has a special interest in Paediatric Cardiology, caring for children with congenital and acquired heart diseases since 2007.\nAs a medical statistician, he has actively participated in many surveys and research, with well over 50 publications in peer-reviewed medical journals. He is an ardent user of the R software for data analysis and visualization. He frequently gives talks to resident doctors in training on topics, including research methods and biostatistics.\nHis hobbies include reading, swimming, and gardening."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#recap",
-    "href": "fellowship/week-8/week8_blog.html#recap",
-    "title": "Week 8",
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html",
+    "title": "Week 9",
+    "section": "",
+    "text": "“Wisdom does not come overnight; it is gathered piece by piece by those who seek the truth.”"
+  },
+  {
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#recap",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#recap",
+    "title": "Week 9",
     "section": "Recap…",
-    "text": "Recap…\nLast week, we untangled the art of setting clear objectives. We agreed that objectives are like the Google Maps directions of your thesis journey: precise, purposeful, and pointing you toward your destination. Now, we take the next logical step, stating your hypothesis."
+    "text": "Recap…\nLast week, we learned how to state a solid hypothesis, your bold prediction that keeps reviewers awake and statisticians employed."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#introduction",
-    "href": "fellowship/week-8/week8_blog.html#introduction",
-    "title": "Week 8",
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#introduction",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#introduction",
+    "title": "Week 9",
     "section": "Introduction",
-    "text": "Introduction\nEvery great research study is driven by curiosity, but curiosity without a hypothesis is like a car without a steering wheel. You may move, but in circles, or worse, into a ditch. A hypothesis provides focus, gives your study predictive power, and frames how your data will eventually be interpreted.\nYet, for many fellowship residents, the word “hypothesis” triggers mild anxiety. Some confuse it with the research question, others overcomplicate it with jargon, and a few write hypotheses that sound more like philosophical musings than testable predictions.\nToday, let’s break down the anatomy of a good hypothesis: what it is, what it isn’t, and how to craft one that can stand before both the WACP and GCPS assessors without being politely returned with red ink."
+    "text": "Introduction\nCongratulations! You’ve defined your research question, justified your study, and crafted clear objectives. Now comes the part that makes many residents sigh, scroll endlessly through PubMed, and whisper to themselves, “Wasn’t this supposed to be the easy part?” Yes, dear reader, it’s time to tackle the literature review.\nThe literature review is the foundation upon which your proposal rests. It demonstrates that you know what’s been done, what’s missing, and why your study is necessary. Think of it as your opportunity to show the assessors that you didn’t wake up one morning and decide to study “something interesting.” Rather, you’ve surveyed the landscape, identified the gaps, and are now ready to build something meaningful on that ground."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#what-exactly-is-a-hypothesis",
-    "href": "fellowship/week-8/week8_blog.html#what-exactly-is-a-hypothesis",
-    "title": "Week 8",
-    "section": "What Exactly is a Hypothesis?",
-    "text": "What Exactly is a Hypothesis?\nA hypothesis is a testable statement that predicts the relationship between two or more variables. It is not just an educated guess; it is a scientifically grounded expectation based on existing evidence.\nFor instance:\n\nResearch question: What factors predict mortality in severe malaria among children under five?H\nHypothesis: Children under five with severe malaria who present with hypoglycemia have a higher risk of mortality compared to those without hypoglycemia.\n\nThe former is curious. The latter is precise and testable."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#why-write-a-literature-review",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#why-write-a-literature-review",
+    "title": "Week 9",
+    "section": "Why Write a Literature Review?",
+    "text": "Why Write a Literature Review?\nA literature review is not an exercise in showing how many articles you can download. Rather, it’s a strategic narrative that:\n\nProvides context for your study.\nShows gaps in existing knowledge.\nDemonstrates familiarity with prior work in your field.\nJustifies your study design and approach.\nLays the groundwork for your hypothesis or research objectives.\n\nIn short, it tells the story of what is known, what is unknown, and what you intend to discover.\nAccording to Green et al. (2006), a well-written literature review “clarifies the conceptual framework of the research and situates it within existing theory and evidence.”¹"
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#null-vs.-alternative-hypotheses",
-    "href": "fellowship/week-8/week8_blog.html#null-vs.-alternative-hypotheses",
-    "title": "Week 8",
-    "section": "Null vs. Alternative Hypotheses",
-    "text": "Null vs. Alternative Hypotheses\nEvery good hypothesis comes in pairs, like gari and beans.\n\nNull hypothesis (H₀): There is no association, effect, or difference.\nExample: Hypoglycemia does not increase mortality risk in children with severe malaria.\nAlternative hypothesis (H₁): There is an association, effect, or difference.\nExample: Hypoglycemia increases mortality risk in children with severe malaria.\n\nWhy both? Because statistics is a skeptical friend. It only allows us to “reject” or “fail to reject” the null, never to “prove” the alternative."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#what-is-a-literature-review",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#what-is-a-literature-review",
+    "title": "Week 9",
+    "section": "What is a Literature Review?",
+    "text": "What is a Literature Review?\nMany senior residents make the same newbie mistake by confusing “reviewing literature” with “listing literature.”. Literature review is:\n\nNot: “Ten studies have shown this. Five studies have shown that.”\nBut: “Most studies in sub-Saharan Africa have focused on hospitalised populations, leaving community-level prevalence under-explored.”\n\nA good review is synthesised, not summarised. It connects the dots instead of scattering them."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#characteristics-of-a-good-hypothesis",
-    "href": "fellowship/week-8/week8_blog.html#characteristics-of-a-good-hypothesis",
-    "title": "Week 8",
-    "section": "Characteristics of a Good Hypothesis",
-    "text": "Characteristics of a Good Hypothesis\nA useful checklist (adapted from Hulley et al., 2013):\n\nTestable: You should be able to design a study that collects data to support or refute it.\nClear and specific: Avoid vague wording like “improves,” “affects,” or “influences” without direction.\nGrounded in literature: No free-floating speculations. Use prior studies to justify.\nRelevant: The outcome should matter clinically or scientifically."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-1-searching-for-the-evidence",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-1-searching-for-the-evidence",
+    "title": "Week 9",
+    "section": "Step 1: Searching for the Evidence",
+    "text": "Step 1: Searching for the Evidence\nStart with broad search terms and then narrow them. Use recognised databases such as PubMed, Google Scholar, and African Journals Online (AJOL) to capture both global and local evidence.\nTips for efficient searching:\n\nUse Boolean operators (“AND”, “OR”, “NOT”) to refine your searches.\nSet filters (last 10 years, humans, children, English).\nKeep a search diary; your assessors might wonder how you identified your sources.\nDon’t forget the grey literature (theses, Ministry of Health reports, WHO bulletins).\n\n\nExample: For “Predictors of mortality in severe malaria in children,” start with “severe malaria AND children AND mortality” and later narrow to “predictors of mortality in severe malaria AND Ghana.”"
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#common-pitfalls-residents-make",
-    "href": "fellowship/week-8/week8_blog.html#common-pitfalls-residents-make",
-    "title": "Week 8",
-    "section": "Common Pitfalls Residents Make",
-    "text": "Common Pitfalls Residents Make\n\nConfusing objectives and hypotheses: Objectives describe what you want to achieve; hypotheses predict what you expect to find.\nBeing too broad: “Socioeconomic status predicts malaria mortality”, too vague. Which aspect? Income? Maternal education? Housing?\nWriting untestable statements: “Children with severe malaria suffer because of poverty.” True, perhaps, but not statistically testable in a single fellowship project.\nForgetting the null: Some candidates only state the alternative. Remember, assessors love to see both sides."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-2-sorting-what-youve-found",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-2-sorting-what-youve-found",
+    "title": "Week 9",
+    "section": "Step 2: Sorting What You’ve Found",
+    "text": "Step 2: Sorting What You’ve Found\nAfter collecting papers, don’t rush to read everything. Skim abstracts first. Keep only what’s relevant to:\n\nYour study population (e.g., children under 5 years).\nYour geographical region (e.g., West Africa).\nYour study question (e.g., mortality predictors).\n\nUse a reference manager like Zotero, Mendeley, or EndNote, and your sanity will thank you later.\nOrganise your papers into thematic folders:\n\nEpidemiology and burden\nRisk factors\nClinical presentation\nManagement and outcomes\nKnowledge gaps\n\nThis thematic organisation will guide your writing structure later."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#when-a-hypothesis-may-not-be-needed",
-    "href": "fellowship/week-8/week8_blog.html#when-a-hypothesis-may-not-be-needed",
-    "title": "Week 8",
-    "section": "When a Hypothesis May Not Be Needed",
-    "text": "When a Hypothesis May Not Be Needed\nNot every proposal requires a hypothesis. For instance, exploratory or descriptive studies (such as chart reviews to document clinical patterns, or surveys assessing the prevalence of a condition) are better framed with research objectives rather than hypotheses. Similarly, qualitative studies often aim to generate insights rather than test predictions, so a clear set of objectives is sufficient."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-3-structuring-your-review",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-3-structuring-your-review",
+    "title": "Week 9",
+    "section": "Step 3: Structuring Your Review",
+    "text": "Step 3: Structuring Your Review\nA literature review generally follows a funnel structure, from the general to the specific:\n\nStart broad: Describe the global picture (e.g., global burden of severe malaria).\nNarrow down: Move to African studies, then to Ghana or your study region.\nZoom in: Highlight specific knowledge gaps directly linked to your research question.\n\nThis approach mirrors what most assessors expect in both WACP and GCPS proposals, a logical flow from context to rationale.\n\nExample:\n- Global: “Severe malaria remains a leading cause of childhood mortality in sub-Saharan Africa.”\n- Regional: “In West Africa, despite improved diagnostic capacity, mortality remains high.”\n- Local: “In Kumasi, data on predictors of mortality among children with severe malaria are limited.”"
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#example-hypothesis-section",
-    "href": "fellowship/week-8/week8_blog.html#example-hypothesis-section",
-    "title": "Week 8",
-    "section": "Example Hypothesis Section",
-    "text": "Example Hypothesis Section\nStudy topic: Predictors of mortality in severe malaria among children under five years in Kumasi, Ghana.\nNull hypothesis (H₀): Clinical and laboratory features such as hypoglycemia, severe anemia, or cerebral malaria are not associated with increased mortality risk among children under five years with severe malaria.\nAlternative hypothesis (H₁): Clinical and laboratory features such as hypoglycemia, severe anemia, or cerebral malaria are associated with increased mortality risk among children under five years with severe malaria.\nNotice the clarity, the linkage to measurable variables, and the fact that these can be directly tested with data."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-4-critical-reading",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-4-critical-reading",
+    "title": "Week 9",
+    "section": "Step 4: Critical Reading",
+    "text": "Step 4: Critical Reading\nDon’t just report what authors found, evaluate it. Ask:\n\nWas the study design appropriate?\nWere the sample sizes adequate?\nHow similar are their settings to mine?\nWhat did they miss?\n\nThis critical analysis shows your maturity as a researcher. It distinguishes a literature review from a literature recital. As Grant & Booth (2009) put it, “A review that merely summarises is of limited value; synthesis that provides new perspectives is the hallmark of scholarship.”²"
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#in-summary",
-    "href": "fellowship/week-8/week8_blog.html#in-summary",
-    "title": "Week 8",
-    "section": "In Summary…",
-    "text": "In Summary…\nA hypothesis is your study’s backbone. It transforms curiosity into a testable, measurable statement. Good hypotheses are clear, specific, and rooted in literature. They come in pairs (null and alternative) and directly map onto your objectives.\nWithout one, your study risks becoming a fishing expedition in the data ocean, lots of activity, very little catch. With a solid hypothesis, you set yourself up for meaningful findings, whether your results surprise you or confirm your expectations."
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-5-identifying-the-gaps",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#step-5-identifying-the-gaps",
+    "title": "Week 9",
+    "section": "Step 5: Identifying the Gaps",
+    "text": "Step 5: Identifying the Gaps\nOnce you’ve summarised and critiqued, highlight what remains unanswered. For instance:\n\n“Although several studies in Ghana have explored severe malaria outcomes, none have specifically examined the role of metabolic derangements as predictors of mortality among children under five.”\n\nThis statement naturally leads to your justification and objectives."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#next-week",
-    "href": "fellowship/week-8/week8_blog.html#next-week",
-    "title": "Week 8",
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#take-home-message",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#take-home-message",
+    "title": "Week 9",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nYour literature review is not a dump of articles; it’s your intellectual argument about what is known, what is not known, and why your study matters. Think of it as your academic GPS; it tells readers where you are coming from, where you are, and where you are headed.\nSo, before you start writing, plan your route. Search smart, organise your findings, and critically appraise your sources. Remember: You are not writing to impress, but to inform."
+  },
+  {
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#next-week",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#next-week",
+    "title": "Week 9",
     "section": "Next Week…",
-    "text": "Next Week…\nNext week, we dive into “Taming the Literature Review” — the part where your laptop has 47 open tabs, your EndNote crashes, and your friends wonder if you’ve disappeared into a PDF jungle.\nUntil then, remember: your hypothesis is not your destiny, it’s just your best bet. So, write it boldly, test it carefully, and let the data speak.\nSee you next week, and may your null hypothesis be rejected only when it truly deserves it!"
+    "text": "Next Week…\nNext week, we’ll roll up our sleeves and tackle “Writing and Synthesising the Literature Review (Part 2)”, where you’ll learn how to blend findings like a master chef, not just serve them raw.\nUntil then, remember: A researcher who copies too much literature ends up reviewing their supervisor’s patience instead of the evidence! See you next week."
   },
   {
-    "objectID": "fellowship/week-8/week8_blog.html#references",
-    "href": "fellowship/week-8/week8_blog.html#references",
-    "title": "Week 8",
+    "objectID": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#references",
+    "href": "fellowship/week-9/Week_9_Literature_Review_Part_1.html#references",
+    "title": "Week 9",
     "section": "References",
-    "text": "References\n\nHulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. Designing Clinical Research. 4th ed. Philadelphia: Lippincott Williams & Wilkins; 2013.\n\nRanganathan P, Aggarwal R. Hypothesis testing: An overview. Indian J Crit Care Med. 2018;22(10):757–762. doi:10.4103/ijccm.IJCCM_369_18.\n\nThiese MS. Observational and interventional study design types; an overview. Biochem Med (Zagreb). 2014;24(2):199–210. doi:10.11613/BM.2014.022."
+    "text": "References\n\nGreen BN, Johnson CD, Adams A. Writing narrative literature reviews for peer-reviewed journals: secrets of the trade. J Chiropr Med. 2006;5(3):101–117.\n\nGrant MJ, Booth A. A typology of reviews: an analysis of 14 review types and associated methodologies. Health Info Libr J. 2009;26(2):91–108."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#recap",
+    "href": "fellowship/week-7/week7_blog.html#recap",
+    "title": "Week 7",
+    "section": "Recap…",
+    "text": "Recap…\nLast week, we discovered that the justification is the heartbeat of your proposal; the “so what” that convinces examiners your study is worth their time and yours."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#introduction",
+    "href": "fellowship/week-7/week7_blog.html#introduction",
+    "title": "Week 7",
+    "section": "Introduction",
+    "text": "Introduction\nIf your research proposal were a journey, the objectives would be your GPS. Without them, you risk driving around the Takoradi Market Circle for hours without ever reaching your destination. Objectives tell your examiners, your supervisor, and even your future self precisely what you plan to achieve.\nThey are the bridge between your rationale (“why this study matters”) and your methodology (“how I will do it”). In other words, the objectives take your grand ideas and translate them into clear, measurable steps. Think of them as your thesis contract with the examiners: once approved, you’ll be judged on whether you fulfilled them, no more, no less."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#why-do-objectives-matter",
+    "href": "fellowship/week-7/week7_blog.html#why-do-objectives-matter",
+    "title": "Week 7",
+    "section": "Why Do Objectives Matter?",
+    "text": "Why Do Objectives Matter?\nObjectives matter because they give structure and focus. Without them, your introduction and justification may sound impressive but vague. With them, your study suddenly looks doable, assessable, and relevant.\nIn both WACP and GCPS proposals, examiners expect objectives that are:\n\nClear – No examiner wants to decode your intentions like a crossword puzzle.\nSpecific – Avoid grand goals like “eradicate malnutrition in Africa.” Focus instead on “assess prevalence of stunting in children under five at XYZ hospital.”\nAchievable – Ambition is good, but remember: you are one resident, not WHO.\nRelevant – Tie them to your justification and problem statement.\nMeasurable – Your data must be able to answer them."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#general-vs.-specific-objectives",
+    "href": "fellowship/week-7/week7_blog.html#general-vs.-specific-objectives",
+    "title": "Week 7",
+    "section": "General vs. Specific Objectives",
+    "text": "General vs. Specific Objectives\nResidents often confuse the two, so let’s clear it up.\n\nGeneral Objective: The overall aim of the study. It captures the big picture. Think of it as the headline of your research intentions.\nSpecific Objectives: The smaller, precise steps that will help you achieve the general objective. They are like the bullet points under the headline.\n\nExample (Severe malaria in Kumasi):\n\nGeneral Objective: To determine predictors of mortality in children under five with severe malaria in Kumasi, Ghana.\nSpecific Objectives:\n\nTo describe the clinical characteristics of children under five admitted with severe malaria.\nTo determine the case fatality rate of severe malaria in this population.\nTo identify clinical and laboratory factors associated with mortality.\n\n\nNotice how each specific objective is measurable and leads logically to the overall aim."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#the-smart-approach",
+    "href": "fellowship/week-7/week7_blog.html#the-smart-approach",
+    "title": "Week 7",
+    "section": "The SMART Approach",
+    "text": "The SMART Approach\nIf in doubt, use the SMART checklist:\n\nSpecific\nMeasurable\nAchievable\nRelevant\nTime-bound\n\nResidents sometimes skip the “time-bound” part, but it matters. Examiners want assurance that you’re not embarking on a lifelong PhD, but a focused fellowship thesis. A time anchor (e.g., “within a 12-month study period”) reassures them of feasibility."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#common-mistakes-to-avoid",
+    "href": "fellowship/week-7/week7_blog.html#common-mistakes-to-avoid",
+    "title": "Week 7",
+    "section": "Common Mistakes to Avoid",
+    "text": "Common Mistakes to Avoid\n\nOvercrowding: Five or six objectives are too many. Stick to 3–4 specific ones. Otherwise, you risk spreading yourself too thin.\nVagueness: Objectives like “to study malaria in children” are too broad. What about malaria? Incidence? Treatment outcomes? Mortality? Be precise.\nDisconnection: Sometimes, residents write objectives that don’t match their methods. If your methods can’t answer it, don’t write it.\nAmbition Overload: Remember, you’re not saving the entire health system. Avoid objectives that are unrealistic in scope."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#example-objectives",
+    "href": "fellowship/week-7/week7_blog.html#example-objectives",
+    "title": "Week 7",
+    "section": "Example Objectives",
+    "text": "Example Objectives\nTopic: Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana\n\nGeneral Objective:\nTo determine predictors of mortality among children under five admitted with severe malaria at Komfo Anokye Teaching Hospital.\nSpecific Objectives:\n\nTo describe demographic and clinical characteristics of children under five admitted with severe malaria.\nTo determine the proportion of children under five who die from severe malaria during hospitalization.\nTo identify clinical and laboratory predictors of mortality among these children.\n\n\nNotice how each objective is precise, measurable, and feasible within the constraints of a fellowship thesis."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#take-home-message",
+    "href": "fellowship/week-7/week7_blog.html#take-home-message",
+    "title": "Week 7",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nClear, well-crafted objectives are the compass of your thesis. They translate your big idea into achievable steps, reassure your examiners, and guide your methods and analysis. Keep them SMART, limit them to a manageable number, and ensure they directly link to your justification. Remember: objectives are not just for the examiners; they’re your personal guardrails against getting lost in the wilderness of data."
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#next-weeks-prelude",
+    "href": "fellowship/week-7/week7_blog.html#next-weeks-prelude",
+    "title": "Week 7",
+    "section": "Next Week’s Prelude",
+    "text": "Next Week’s Prelude\nNow that we’ve set the objectives, it’s time to tackle the cousin that examiners love to scrutinize: “Stating the Hypothesis.” Get ready to learn why sometimes you need one, and sometimes you don’t.\nSo…write your objectives as if you’re writing a shopping list: short, clear, and realistic. No one goes to Kejetia market with a list that says “buy happiness.” See you next week, and may your objectives never be longer than your methods section!"
+  },
+  {
+    "objectID": "fellowship/week-7/week7_blog.html#references",
+    "href": "fellowship/week-7/week7_blog.html#references",
+    "title": "Week 7",
+    "section": "References",
+    "text": "References\n\nHulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. Designing Clinical Research. 4th ed. Philadelphia: Lippincott Williams & Wilkins; 2013.\n\nMbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research proposal. CMAJ. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\n\nAmoako Johnson F, Agyemang C. Research in Africa: The need for strong local evidence to guide policies. Lancet Glob Health. 2020;8(2):e145–e146. doi:10.1016/S2214-109X(19)30547-2"
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html",
+    "href": "fellowship/week-5/week5_blog.html",
+    "title": "Week 5",
+    "section": "",
+    "text": "“A man who is carrying an elephant on his head should not bother himself with a grasshopper by the foot.”"
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#recap",
+    "href": "fellowship/week-5/week5_blog.html#recap",
+    "title": "Week 5",
+    "section": "Recap…",
+    "text": "Recap…\nLast week we explored how to transform curiosity into a structured protocol by dissecting the anatomy of a good research proposal. This week, we begin diving into the sections of the proposal, starting with the Introduction."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#introduction",
+    "href": "fellowship/week-5/week5_blog.html#introduction",
+    "title": "Week 5",
+    "section": "Introduction",
+    "text": "Introduction\nIf your research proposal were a blockbuster movie, the Introduction would be the trailer. It provides the audience with just enough information to understand the plot, builds excitement, and convinces them to purchase a ticket. Sadly, many residents either turn their introduction into a 5-hour documentary on the disease itself or a 30-second advertisement with no substance. Neither approach works.\nThe introduction is your opportunity to tell the examiners: “Here’s the problem, here’s why it matters, and here’s why my study is needed now.” It sets the tone for the entire proposal and is often the first part reviewers use to decide whether you truly understand your research question."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#purpose-of-the-introduction",
+    "href": "fellowship/week-5/week5_blog.html#purpose-of-the-introduction",
+    "title": "Week 5",
+    "section": "Purpose of the Introduction",
+    "text": "Purpose of the Introduction\nThe introduction should:\n\nProvide the context for your study (what’s the bigger picture?)\nClearly define the research problem.\nHighlight the knowledge gap you’re addressing.\nLead naturally to your objectives and hypotheses.\n\nThink of it as funneling: Start broad (background), narrow down (the specific problem), then pinpoint (the gap your study will fill)."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#what-makes-a-good-introduction",
+    "href": "fellowship/week-5/week5_blog.html#what-makes-a-good-introduction",
+    "title": "Week 5",
+    "section": "What Makes a Good Introduction?",
+    "text": "What Makes a Good Introduction?\nA good introduction is short, structured, and purposeful. It answers three silent questions in the examiner’s mind:\n\nWhat’s the context?\nWhy is this topic important in paediatrics, and especially in West Africa?\nExample: “Globally, severe malaria is a leading cause of childhood deaths, with sub-Saharan Africa carrying the greatest burden.”\nWhat’s the gap?\nWhat’s missing in current knowledge or data?\nExample: “While numerous studies have described severe malaria mortality, predictors of death among children in Kumasi remain poorly characterized.”\nWhy now?\nWhat makes your research timely and relevant?\nExample: “Understanding these predictors could inform triage and clinical management in resource-limited tertiary hospitals.”"
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#common-pitfalls",
+    "href": "fellowship/week-5/week5_blog.html#common-pitfalls",
+    "title": "Week 5",
+    "section": "Common Pitfalls",
+    "text": "Common Pitfalls\n\nOverloading with facts: Don’t copy-paste every malaria statistic since 1960.\nStorytelling without focus: “In 1880, Laveran discovered the malaria parasite…”. Examiners don’t need a history lesson.\nVagueness: Writing a whole page without once stating the research problem.\n\nHere’s a real-life blooper from a resident: “Asthma is a disease. It is common in children. Many children suffer from asthma. This study is about asthma.” That got a firm “Try again!” from their supervisor."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#structure-of-a-good-introduction",
+    "href": "fellowship/week-5/week5_blog.html#structure-of-a-good-introduction",
+    "title": "Week 5",
+    "section": "Structure of a Good Introduction",
+    "text": "Structure of a Good Introduction\nHere’s a 4-paragraph model that works:\n\nBackground – Describe the global/regional/national context.\nLocal Relevance – Why does this problem matter in your setting?\nGap in Knowledge – What’s missing in the literature?\nResearch Problem Statement – Clearly state what your study aims to answer, thereby establishing your objectives."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#tips-for-success",
+    "href": "fellowship/week-5/week5_blog.html#tips-for-success",
+    "title": "Week 5",
+    "section": "Tips for Success",
+    "text": "Tips for Success\n\nWACP candidates: Keep within 300 words and articulate the problem, research questions, hypotheses, and objectives clearly.\nGCPS candidates: You may have more room (300–500 words), but stay concise.\nStatistics: Sprinkle them like salt; enough to enhance the taste, not too much to choke your reader.\nAfrican Literature: Always reference at least one local or regional study.\nClarity: Write simply. Examiners should feel carried, not dragged."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#a-sample-introduction",
+    "href": "fellowship/week-5/week5_blog.html#a-sample-introduction",
+    "title": "Week 5",
+    "section": "A Sample Introduction…",
+    "text": "A Sample Introduction…\nTitle: Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana\nMalaria continues to be a leading cause of childhood morbidity and mortality worldwide. In 2022, an estimated 247 million cases of malaria occurred globally, resulting in 619,000 deaths, with children under five years accounting for nearly 80% of these deaths (WHO, 2023). Sub-Saharan Africa bears the greatest burden, contributing approximately 94% of global malaria cases and deaths.\nIn Ghana, malaria remains the number one cause of outpatient attendance and childhood hospital admissions, with under-five mortality rates still heavily influenced by this preventable disease. Severe malaria, characterized by complications such as cerebral malaria, severe anaemia, and respiratory distress, is associated with particularly high mortality when not promptly managed. At Komfo Anokye Teaching Hospital (KATH) in Kumasi, severe malaria cases are frequently admitted to paediatric emergency and intensive care units, with outcomes varying depending on clinical and laboratory factors.\nSeveral studies across Africa have identified predictors of mortality in severe malaria, including hypoglycaemia, delayed presentation, cerebral involvement, and co-morbid infections (Idro et al., 2010; Olumese et al., 2019). However, there is limited data from Ghana, particularly in Kumasi, on which factors most strongly predict mortality in children with severe malaria. Understanding these predictors in the local context is essential for improving triage protocols, guiding resource allocation, and ultimately reducing mortality.\nThis study, therefore, seeks to identify clinical and laboratory predictors of mortality among children under five years admitted with severe malaria at KATH. The findings will contribute evidence to support more targeted interventions and enhance early recognition of high-risk patients in Ghanaian hospitals.\nBingo!!! There you have it. 😎😎😎"
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#take-home-message",
+    "href": "fellowship/week-5/week5_blog.html#take-home-message",
+    "title": "Week 5",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nThe introduction is your proposal’s trailer; clear, concise, and compelling. It should set the stage by highlighting the context, narrowing down to the local problem, identifying the gap, and stating the research problem. Avoid bloating it with unnecessary detail or starving it of meaning. If you write your introduction well, you not only hook your examiners but also clarify your own research focus. Think of it as setting the foundation for a house: shaky introductions lead to shaky proposals."
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-5/week5_blog.html#next-week-on-paediatric-research-insights",
+    "title": "Week 5",
+    "section": "Next Week on Paediatric Research Insights…",
+    "text": "Next Week on Paediatric Research Insights…\nNext week, we’ll move from the what to the why: “Writing the Justification of the Proposal”, where you convince examiners that your research deserves attention, effort, and perhaps even funding.\nSo, go forth and write introductions that sparkle like fresh kelewele at midnight, spicy enough to get attention but not so overwhelming that no one can finish the plate. See you next week!"
+  },
+  {
+    "objectID": "fellowship/week-5/week5_blog.html#references",
+    "href": "fellowship/week-5/week5_blog.html#references",
+    "title": "Week 5",
+    "section": "References",
+    "text": "References\n\nMbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research proposal. CMAJ. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\n\nIdro R, Ndiritu M, Ogutu B, Mithwani S, Maitland K, Berkley J, Crawley J, Fegan G, Neville BG, Peshu N, Marsh K, Newton CR. Burden, features, and outcome of neurological involvement in acute falciparum malaria in Kenyan children. JAMA. 2007;297(20):2232–40. doi:10.1001/jama.297.20.2232\n\nOlumese P, Snow RW, Omoluabi E, et al. Clinical features predicting mortality in children with severe malaria: evidence from multi-country studies. Malar J. 2019;18(1):144. doi:10.1186/s12936-019-2781-0"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html",
+    "href": "fellowship/week-3/week3_picot_article.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "“Wisdom is like a baobab tree; no one individual can embrace it.”"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#recap",
+    "href": "fellowship/week-3/week3_picot_article.html#recap",
+    "title": "Week 3",
+    "section": "Recap…",
+    "text": "Recap…\nLast week, we discovered that your thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading. This week, we explore the process of developing a research question that evokes happiness, even in the most depressed sceptic."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#introduction",
+    "href": "fellowship/week-3/week3_picot_article.html#introduction",
+    "title": "Week 3",
+    "section": "Introduction",
+    "text": "Introduction\nA research question is the backbone of your thesis. Get it wrong, and you’ll limp through the entire process. Get it right, and everything else, from your design to your discussion, flows naturally.\nThe challenge? Many residents start with vague questions like:\n\n“Does malaria affect children?” (Spoiler: yes, it does.)\n“What is the effect of malnutrition?” (On what? Whom? When?)\n\nThis is where PICOT comes in. It is not a fancy Italian coffee, but a tool to keep your research question structured, sharp, and answerable. Let us dive into it…"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
+    "href": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
+    "title": "Week 3",
+    "section": "The PICOT Framework Explained",
+    "text": "The PICOT Framework Explained\nPICOT stands for:\nP – Population: Who are you studying?\nI – Intervention (or exposure): What’s being applied, tested, or observed?\nC – Comparison: What are you comparing it against (if applicable)?\nO – Outcome: What measurable effect are you interested in?\nT – Time: Over what period?\nTogether, these elements transform a loose idea into a focused, researchable question. So, let us dissect it!\n\nPopulation (P)\nBe specific. Instead of “children,” say “children under five presenting to the Paediatric Emergency Unit at Korle Bu.”\n👉 Bad: “Does asthma affect children?”\n👉 Better: “Among school-aged children in Accra…”\n\n\nIntervention (I)\nThis could be a treatment, risk factor, diagnostic test, or exposure.\n👉 Example: “Use of inhaled corticosteroids” or “exclusive breastfeeding.”\n\n\nComparison (C)\nSometimes optional, but always helpful. What’s the alternative? Placebo? No treatment? Standard practice?\n👉 Example: “Inhaled corticosteroids vs. short-acting beta agonists alone.”\n\n\nOutcome (O)\nThis should be measurable, not vague. Avoid “improved health.” Think: “reduction in asthma exacerbations,” “increase in haemoglobin levels,” or “improved growth velocity.” These are specific and measurable!\n\n\nTime (T)\nAlthough not always necessary, it adds clarity.\n👉 Example: “Over a six-month follow-up.”"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
+    "href": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
+    "title": "Week 3",
+    "section": "Putting It All Together: From Vague to Vivid",
+    "text": "Putting It All Together: From Vague to Vivid\nLet’s walk through a paediatric example.\n\nVague Question: “Does breastfeeding help babies?”\nPICOT Question: “Among infants less than 6 months old in Kumasi (P), does exclusive breastfeeding for the first 6 months (I), compared to mixed feeding (C), reduce the incidence of diarrhoeal diseases (O) during infancy (T)?”\n\nSee the difference? One belongs in a WhatsApp chat, the other belongs in your thesis protocol."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
+    "href": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
+    "title": "Week 3",
+    "section": "Why PICOT Matters",
+    "text": "Why PICOT Matters\n\nGuides Study Design: Your question dictates whether you run a cross-sectional survey, a cohort study, or a clinical trial.\nClarifies Variables: No more mid-thesis panic when you realise you never defined your outcome.\nKeeps You Focused: With PICOT, you avoid drifting into irrelevant territory.\nImpresses Examiners: A well-structured question signals a well-prepared candidate.\n\n\nA 2010 review highlighted that structured research questions using PICOT were associated with stronger study design and more transparent reporting (Richardson et al., 1995; Huang et al., 2006)."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#summary",
+    "href": "fellowship/week-3/week3_picot_article.html#summary",
+    "title": "Week 3",
+    "section": "Summary",
+    "text": "Summary\nThe PICOT framework is your thesis compass. It ensures your research question is not only straightforward but also doable. By explicitly defining the who, what, compared to what, expected result, and timeframe, you’ll save yourself headaches later on."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#take-home-message",
+    "href": "fellowship/week-3/week3_picot_article.html#take-home-message",
+    "title": "Week 3",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nNever write a research question that could be answered with a shrug. With PICOT, your question becomes focused, measurable, and worthy of a fellowship thesis."
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
+    "title": "Week 3",
+    "section": "Next Week on Paediatric Research Insights…",
+    "text": "Next Week on Paediatric Research Insights…\nWe’ll dissect the “Anatomy of a Good Research Proposal”, think of it as the skeletal system of your thesis, without which your research collapses like a jellyfish.\nUntil then, may your research questions be sharp, your supervisors impressed, and your comparison groups cooperative. See you next week…bring your skeleton key! 🦴📚"
+  },
+  {
+    "objectID": "fellowship/week-3/week3_picot_article.html#references",
+    "href": "fellowship/week-3/week3_picot_article.html#references",
+    "title": "Week 3",
+    "section": "References",
+    "text": "References\n\nRichardson WS, Wilson MC, Nishikawa J, Hayward RS. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995 Nov-Dec;123(3):A12–3. PMID: 7582737\nHuang X, Lin J, Demner-Fushman D. Evaluation of PICO as a knowledge representation for clinical questions. AMIA Annu Symp Proc. 2006;2006:359-63. PMID: 17238363\nRiva JJ, Malik KM, Burnie SJ, Endicott AR, Busse JW. What is your research question? An introduction to the PICOT format for clinicians. J Can Chiropr Assoc. 2012 Sep;56(3):167-71. PMID: 22997465"
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html",
+    "href": "fellowship/week-1/week-1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "“Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning into an emergency case!”."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#introduction",
+    "href": "fellowship/week-1/week-1.html#introduction",
+    "title": "Week 1",
+    "section": "Introduction",
+    "text": "Introduction\nResearch often evokes images of laboratories, statistics, and long journal articles. For many paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before completing the fellowship program. However, research is much more than just a requirement; it is an essential part of clinical excellence. In a region like West Africa, where context-specific evidence is often missing, research becomes a tool not only for learning but also for leading.\nEvery time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to improve your service delivery, you are engaging in the curiosity that drives research. This article aims to help you understand why research should matter deeply to you as a pediatrician-in-training, and how it can shape your future practice."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#objectives",
+    "href": "fellowship/week-1/week-1.html#objectives",
+    "title": "Week 1",
+    "section": "Objectives",
+    "text": "Objectives\nBy the end of this short article, you should be able to:\n\nRecognize the importance of research in clinical paediatrics, especially in low-resource environments.\nRecognise how research enhances patient care, policy, and personal development.\nRecognize that you already possess the fundamental mindset of a researcher."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
+    "href": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
+    "title": "Week 1",
+    "section": "Why Should You Care About Research?",
+    "text": "Why Should You Care About Research?\n\nResearch Builds Better Clinicians\nContrary to popular belief, research is not the opposite of clinical work; it enhances it. Clinicians who engage with research develop sharper critical thinking skills. They are more likely to read journals analytically, question clinical practices, and make evidence-informed decisions. In a world where medical misinformation spreads easily, the ability to discern good evidence from poor-quality studies is a vital professional skill.\n\n\nOur Questions Deserve Local Answers\nMost of the evidence that guides paediatric practice worldwide comes from high-income countries. While this knowledge is valuable, it often doesn’t reflect the realities of African healthcare systems: different pathogens, resource limitations, or cultural barriers to care. Only locally generated research can tell us, for example, the actual burden of neonatal jaundice in our setting or the best way to manage asthma in a rural clinic with limited drug availability. Your research as a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence base that reflects our unique realities.\n\n\nResearch Amplifies Your Voice\nMany paediatricians are passionate advocates for children but feel limited to bedside interventions. Research offers a path to broader influence. When your study is published or presented, it enters the professional and policy-making space. Your findings could contribute to national guidelines, influence donor priorities, or inform training curricula. In this way, research transforms your observations into advocacy backed by data.\n\n\nIt Opens Doors You Never Expected\nWhether it’s a travel grant to present at an international conference, a collaboration with a regional team, or an opportunity to lead a quality improvement project, research creates visibility. It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence but helps generate it."
+  },
+  {
+    "objectID": "fellowship/week-1/week-1.html#closing-thoughts",
+    "href": "fellowship/week-1/week-1.html#closing-thoughts",
+    "title": "Week 1",
+    "section": "Closing Thoughts",
+    "text": "Closing Thoughts\nYou may not think of yourself as a researcher, not yet. But you already have what it takes: a curious mind, clinical experience, and a desire to make a difference. The rest is teachable.\nOver the next several weeks, a blog will be written and shared each week. It is hoped that the series will guide you through the research process with practical steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but it’s a journey you can take one step at a time. Each blog focuses on a small part of this process, keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but about shaping your career, improving child health, and advancing the practice of medicine in West Africa.\nWelcome to your research year. Let’s begin.🚶🚶🚶"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html",
+    "href": "adv-stats-2024/welcome/index.html",
+    "title": "Data Description",
+    "section": "",
+    "text": "This post describes the data set to be used in the workshop."
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#ancdata",
+    "href": "adv-stats-2024/welcome/index.html#ancdata",
+    "title": "Data Description",
+    "section": "ANCData",
+    "text": "ANCData\nDescription\nThis dataset can be downloaded from here. It contains records of high-risk pregnant women under a trial on new and old methods of antenatal care in two clinics. The outcome was perinatal mortality. There are 755 observations with the following 3 variables.\n\ndeath: A categorical variable indicating if death occurred in the infant.\nanc: Indicates which type of ANC method was used.\nclinic: Indicates which clinic the patient was seen at."
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#blood",
+    "href": "adv-stats-2024/welcome/index.html#blood",
+    "title": "Data Description",
+    "section": "blood",
+    "text": "blood\nDescription\nThis dataset can be downloaded from here. It contains records of a cross-sectional study of the blood results of 50 children. It has the following 7 variables.\n\nstno: The study ID.\nage: Age in completed months of the study participants.\nwgt: Weight in kilogram\nhgt: Height in cms\nhb: Blood hemoglobin concentration in g/dL\nwbc: White blood cell count\nhct: Blood hematocrit in %"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#titanic",
+    "href": "adv-stats-2024/welcome/index.html#titanic",
+    "title": "Data Description",
+    "section": "titanic",
+    "text": "titanic\nDescription\nThis dataset can be downloaded from here. It contains records of the fateful journey by the Titanic cruise ship. It has the following 5 variables.\n\nclass: The class in which the person was.\nage: Age in completed years.\nsex: Sex\nsurvived: Whether the person survived the sinking of the ship\ndied: Whether the person died as a result of the accident"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#schisto",
+    "href": "adv-stats-2024/welcome/index.html#schisto",
+    "title": "Data Description",
+    "section": "schisto",
+    "text": "schisto\nDescription\nThis dataset can be downloaded from here. It was obtained from 367 pupils in a community in Ghana. The cross-sectional study was to determine the effect of urinary schistosomiasis on the nutritional status as well as blood indices of school children. It has the following 15 variables.\n\nSerial0: The study ID.\nQ3Age: Age in completed years.\nQ4Sex: The sex of the pupil.\nQ35weight: Weight in kilogram\nQ36Height: Height in cms\nQ6Religion: Religious affiliation\nEducationalstatus: Level of education\nQ15PipeBorne: Does the pupil use bipe-borne water at home? 0 = No, 1 = Yes\nQ15Well: Does the pupil use well water at home? 0 = No, 1 = Yes\nQ15River: Does the pupil use river water at home? 0 = No, 1 = Yes\nHB: Blood hemoglobin concentration in g/dL\nSH: Shistosomiasis ova in the urine. Nil, +, ++, and +++\nHCT: Blood hematocrit in %\nMCV: Mean Corpuscular Volume\nMCH: Mean Corpuscular Hemoglobin"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#newdrug",
+    "href": "adv-stats-2024/welcome/index.html#newdrug",
+    "title": "Data Description",
+    "section": "NewDrug",
+    "text": "NewDrug\nDescription\nThis dataset can be downloaded from here. It was obtained in a randomized controlled trial of a new drug against a control drug. It measured the mean blood pressure of study participants before and after the drugs were administered. It has the following 6 variables.\n\nid: Study ID\ntreat: Treatment given\nage: Age in completed years.\nsex: Gender of participant\nbp1: Mean arterial BP before treatment\nbp2: Mean arterial BP after treatment"
+  },
+  {
+    "objectID": "adv-stats-2024/welcome/index.html#outbreak",
+    "href": "adv-stats-2024/welcome/index.html#outbreak",
+    "title": "Data Description",
+    "section": "Outbreak",
+    "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html",
+    "href": "adv-stats-2024/PracticalThree/index.html",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "",
+    "text": "This is the third practical lesson where we learn how about hypothesis testing"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
+    "title": "Practical 3: Hypothesis testing",
+    "section": "Objectives",
+    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html",
+    "href": "adv-stats-2024/PracticalOne/index.html",
+    "title": "Practical 1: Data preparation",
+    "section": "",
+    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
+    "title": "Practical 1: Data preparation",
+    "section": "Objectives",
+    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
+    "href": "adv-stats-2024/PracticalOne/index.html#practical",
+    "title": "Practical 1: Data preparation",
+    "section": "Practical",
+    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
+    "title": "Practical 1: Data preparation",
+    "section": "To do",
+    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html",
+    "href": "adv-stats-2024/PracticaFour/index.html",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "",
+    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
+    "title": "Practical 4: ANOVA & Correlation",
+    "section": "Objectives",
+    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html",
+    "href": "adv-stats-2024/PracticalFive/index.html",
+    "title": "Practical 5: Regression",
+    "section": "",
+    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
+    "title": "Practical 5: Regression",
+    "section": "Objectives",
+    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalSix/index.html",
+    "href": "adv-stats-2024/PracticalSix/index.html",
+    "title": "Practical 6: Sample size determination",
+    "section": "",
+    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html",
+    "href": "adv-stats-2024/PracticalTwo/index.html",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "",
+    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
+  },
+  {
+    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
+    "title": "Practical 2: Exploratory data analysis",
+    "section": "To do",
+    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html",
+    "title": "Special Post",
+    "section": "",
+    "text": "“Even the small crocodile leaves its mark on the river.”"
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#introduction",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#introduction",
+    "title": "Special Post",
+    "section": "Introduction",
+    "text": "Introduction\nThey say size doesn’t matter, until you submit your thesis with only 30 patients, and your statistician looks at you the way a pediatrician looks at a child who swallowed a coin: concerned, but not entirely surprised.\nIn our regular series, we were dissecting the anatomy of a research proposal. Today, let’s take a detour into a common headache senior residents face: What to do when your study population is small.\nIn clinical research, we are taught that bigger is better. Larger sample sizes reduce error, increase statistical power, and make our findings more generalisable. But in the real world of paediatric research, especially in sub-Saharan Africa, we sometimes have to make do with small numbers. Rare conditions, resource limitations, or the simple reality of being a resident with a short training window can leave you staring at an Excel sheet with only 30 rows of data. Does this mean your study is doomed? Not at all. Small studies can still be rigorous, meaningful, and presentable in a fellowship thesis, if analysed and presented wisely. Let’s explore how to handle such data without losing credibility (or your sanity!)."
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#what-to-do",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#what-to-do",
+    "title": "Special Post",
+    "section": "What To Do…",
+    "text": "What To Do…\n\nAcknowledge the Limitations Upfront\nThe first rule of small sample size is honesty. You must clearly acknowledge that your study may lack statistical power and may be prone to Type II error (false negatives). This doesn’t invalidate the study, but it helps set expectations for reviewers and examiners.\n\n\n\n\n\n\nGet This!\n\n\n\nIf you study neuroblastoma cases in a single centre and only get 28 eligible patients, that is not a weakness; it reflects the rarity of the condition.\n\n\n\n\nDescriptive Statistics are Your Best Friend\nWhen numbers are small, the data itself deserves to be shown. The general advice is:\n\nUse tables and graphs generously, as showing detail is the hallmark of reporting on small data.\nUse Counts and Percentages for categorical variables.\nUse Median and interquartile ranges (IQR) rather than means and standard deviations for continuous variables.\nWhen using figures, it’s better to use graphs that display individual data points, such as dotplots (@fig-three), scatterplots (Figure 1), boxplots with jitter (Figure 2), but not histograms."
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#tip",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#tip",
+    "title": "Special Post",
+    "section": "Tip",
+    "text": "Tip\n\n\n\n\n\n\nTip\n\n\n\nAvoid drowning in percentages that exaggerate minor differences. Saying “2 out of 5 children (40%) could look way smaller in percentage terms compared to”3 out of 5 (60%)” when the numeric difference is only one!\n\n\n\nChoose Statistical Tests Carefully\nMany tests assume large samples and normal distributions. With a small sample size, those assumptions may not hold. Consider:\n\nNon-parametric tests:\n\nMann–Whitney U test instead of the t-test.\nFisher’s exact test instead of chi-square (especially when expected counts &lt;5).\n\nExact methods: Some software allows exact p-values that are valid for small samples.\nEffect sizes and confidence intervals: Even if p-values are non-significant, reporting effect sizes (e.g., odds ratios with wide CIs) is valuable.\nMultivariate regression has become an integral part of most fellowship theses, but it is not your friend when the sample size is small. Instead, discuss with your statistician if there is a need for regression. If so, a parsimonious approach is usually required, where not more than two covariates are included in the regression at a time. Alternative regression approaches are Penalized or Exact logistic regression. None of these, however, permits one to present the data as confirmatory and not exploratory.\nOther statistical analysis approaches may involve Bayesian methods, Simulation, and Bootstrapping. These are surely beyond the scope of this text.\n\nYes, I know. Statistics always makes you feel that cringe in your tummy, but hallelujah, you are still reading. 😃😃\n\n\n\n\n\n\n\n\nFigure 1: Scatter plot showing individual points\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Boxplot with points shown\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Dotplot with points shown\n\n\n\n\n\n\n\nFocus on Clinical Significance, Not Just p-values\nWith a small sample, statistical significance may be elusive. But clinical importance can still be evident.\n\n\n\n\n\n\nExample\n\n\n\nImagine you are comparing two treatments for severe malaria. Out of 30 children, mortality was 4/15 in group A and 1/15 in group B. The Fisher’s exact test may not reach statistical significance. However, a relative risk of 0.25 is clinically meaningful and worth reporting with its often large confidence interval, with a note on limited power.\n\n\n\n\nUse Visual Storytelling\nGraphs are particularly powerful in small datasets. Consider:\n\nDot plots or scatterplots: Show every patient, highlighting the individuality of small data (Figure 1).\nBox-and-whisker plots: To summarise distributions while showing variability. (Figure 2)\nLine plots: For repeated measures (e.g., weight or haemoglobin before and after intervention).\n\nA simple, clean figure often speaks louder than a complex p-value.\n\n\nBe Transparent in Reporting\nTransparency builds trust. Always report:\n\nThe actual numerator and denominator (“7 out of 30”), not just percentages.\nAny missing data and how you handled them.\nWhether you used one-tailed or two-tailed tests (this will be explained in subsequent blogs).\n\nReviewers are less likely to criticise your small sample if you show integrity in how you present it."
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#in-conclusions",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#in-conclusions",
+    "title": "Special Post",
+    "section": "In Conclusions",
+    "text": "In Conclusions\nThe golden rule: do not overstate findings. Avoid sweeping claims like “Treatment X is superior to…” or “females were significantly more likely to…” Instead, say:\n\n“In this small cohort, Treatment X was associated with lower mortality. Larger studies are needed to confirm this finding.”\n\nThis shows maturity, and examiners will respect your caution."
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#summary",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#summary",
+    "title": "Special Post",
+    "section": "Summary",
+    "text": "Summary\nWorking with small samples is common in paediatric fellowship research. While such studies may lack power, they can still provide valuable insights if analysed carefully. Focus on descriptive statistics, use non-parametric tests, highlight effect sizes, present your data visually, and above all, be transparent. When your sample is small, don’t panic. Clarity, honesty, and creativity can transform 30 rows of data into a credible and meaningful thesis chapter.\nSo yes, size matters, but presentation matters more. After all, even a small bowl of jollof can make you happy if it’s well-cooked. 🍲 See you soon!"
+  },
+  {
+    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#references",
+    "href": "fellowship/bonus-1/special_small_sample_blog.html#references",
+    "title": "Special Post",
+    "section": "References",
+    "text": "References\n\nFaber J, Fonseca LM. How sample size influences research outcomes. Dental Press J Orthod. 2014;19(4):27–9. PMID: 25279518\nHackshaw A. Small studies: strengths and limitations. Eur Respir J. 2008;32(5):1141–3. PMID: 18978131\nLydersen S, Fagerland MW, Laake P. Recommended tests for association in 2×2 tables. Stat Med. 2009;28(7):1159–75. PMID: 19170020"
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html",
+    "href": "fellowship/week-2/week-2.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "“A journey that begins with steady steps will not lose the path at the crossroads.”"
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#recap",
+    "href": "fellowship/week-2/week-2.html#recap",
+    "title": "Week 2",
+    "section": "Recap…",
+    "text": "Recap…\nLast week, we agreed that research isn’t just an academic checkbox; it’s a professional tool that lets paediatricians shape care beyond the clinic. Now, let’s move from why research matters to how to begin it, with the right topic."
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#introduction",
+    "href": "fellowship/week-2/week-2.html#introduction",
+    "title": "Week 2",
+    "section": "Introduction",
+    "text": "Introduction\nSo, you’re ready to start your thesis. You have your white coat, a stethoscope, and enough caffeine to power a minor city. But when asked, “What’s your research topic?” you freeze like a child…Ouch!\nChoosing a research topic is often the first real hurdle residents face, not because they lack ideas, but because they have too many, or worse, none that are feasible. This article serves as your guide through the fog, helping you select a topic that’s academically sound, clinically meaningful, and realistically achievable (before retirement)."
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#the-anatomy-of-a-good-research-topic",
+    "href": "fellowship/week-2/week-2.html#the-anatomy-of-a-good-research-topic",
+    "title": "Week 2",
+    "section": "The Anatomy of a Good Research Topic",
+    "text": "The Anatomy of a Good Research Topic\nA good research topic lies at the intersection of interest, relevance, feasibility, and scientific value. Like the classic Venn diagram: if your topic only ticks one or two of these, you’re heading for trouble.\n\nInterest: Pick Something You Genuinely Care About\nYou’re going to spend the next 1–2 years reading, writing, and talking about this topic. If it doesn’t excite you on Day 1, it certainly won’t on Day 201.\n\nExample: If you enjoy neonatology, don’t force yourself into a study on adolescent substance use just because someone said it’s “publishable.”\n\n\n\nRelevance: Will This Matter in Your Context?\nA study on cystic fibrosis might be scientifically rich, but unless you’re in a regional centre with enough cases, it may not be regionally relevant.\nAsk:\n\nDoes this address a common or emerging clinical problem in Ghana or West Africa?\nWill it add value to policy, practice, or further research?\n\nA study on antimicrobial resistance in under-fives with sepsis is both regionally relevant and of public health interest.\n\n\nFeasibility: Do You Have the Time, Data, and Resources?\nAmbition is noble, but so is passing your fellowship. Be wary of multicentre longitudinal studies if you’re juggling night shifts and ward rounds.\n\nTip: Retrospective chart reviews, cross-sectional surveys, short cohort studies, and facility-based studies are often more realistic for a first-time researcher and a fellowship thesis.\n\nA cross-sectional study on asthma control among school-aged children attending your facility? Completely achievable!\nA 10-year follow-up study of post-ICU neurodevelopmental outcomes? Good luck! (unless you’ve got funding, a team, and a time machine).\n\n\nScientific Value: What Will the Field Gain?\nAvoid “me-too” topics. A third repetition of “knowledge of neonatal jaundice among caregivers” in the same region, using the same tool, might not break any academic ground, unless you’re adding a novel twist or intervention.\nLook at what’s already published locally and regionally. Use PubMed, African Journals Online (AJOL), and Google Scholar. Embrace Artificial Intelligence if you still have a phobia of it. It will help a lot in this regard.\nConsider:\n\nHas this topic been done before?\nIf yes, can I improve the methodology or explore a different angle?\n\n\n\nMentor Input\nDiscuss with supervisors or clinicians; they can help narrow down and refine your idea."
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#where-do-good-topics-come-from",
+    "href": "fellowship/week-2/week-2.html#where-do-good-topics-come-from",
+    "title": "Week 2",
+    "section": "Where Do Good Topics Come From?",
+    "text": "Where Do Good Topics Come From?\n\nClinical Curiosity: Something you’ve noticed during your rotations.\nLiterature Gaps: Unanswered questions in recent journal articles.\nSupervisors & Mentors: Tap into their experience (and sometimes their data!).\nNational Priorities: Align with ongoing health strategies or WHO/Ministry reports\nYour Audit Book: That intriguing trend you found during clinical audit might just be publishable!\n\nFor instance, if you observed that most neonates with jaundice are presenting late despite antenatal education, that’s a question worth studying."
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#red-flags-to-avoid",
+    "href": "fellowship/week-2/week-2.html#red-flags-to-avoid",
+    "title": "Week 2",
+    "section": "Red Flags To Avoid",
+    "text": "Red Flags To Avoid\n\nTopics that are too broad (“Nutrition in children”)\nTopics driven only by data availability (Don’t reverse-engineer research just because you have a dusty folder of lab results)\n“Hot” topics outside your scope (E.g., Machine learning in NICUs… unless you have the team and tech)\nAnything dependent on “pending” funding or ethics approval from 4 hospitals"
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#a-practical-scenario",
+    "href": "fellowship/week-2/week-2.html#a-practical-scenario",
+    "title": "Week 2",
+    "section": "A Practical Scenario",
+    "text": "A Practical Scenario\nDr. Ama is a senior paediatric resident at the Komfo Anokye Teaching Hospital. She has been working in the Paediatric Emergency Unit and has noticed that many children with severe anaemia are also testing positive for malaria.\nShe begins to wonder:\n\n“Are children with severe anaemia more likely to have malaria, or is this just a coincidence?”\n\n\nStep-by-Step Process to Generate the Topic\n\nStep 1: Observation and Clinical Curiosity\nShe reflects on:\n\nThe frequency of severe anaemia among under-fives.\nThe high malaria burden in the region.\nOccasional delays in diagnosis due to a lack of rapid testing\n\n\nIdea Trigger: There seems to be a link between malaria and anaemia. Can this be studied systematically?\n\n\n\nStep 2: Literature Review\nShe performs a brief search on PubMed, using terms like:\n\n“malaria and anaemia in children in Ghana”\n“prevalence of malaria-induced anaemia”\n“factors associated with severe anaemia”\n\nShe finds:\n\nSeveral studies confirmed the association.\nBut few studies focused on her specific region or were linked to seasonal variations or delays in diagnosis.\n\n\nGap Identified: While malaria–anaemia links are known, there is limited data for her locality, especially regarding the timing of diagnosis and treatment.\n\n\n\nStep 3: Discussion with Supervisor or Mentor\nShe shares her thoughts with her supervisor, who responds:\n\n“That’s a good observation. But consider narrowing it. Maybe look at children under 5 years, admitted for anaemia, and determine how many also had malaria by microscopy vs RDT.”\n\n\nRefinement: Supervisor advises to narrow the scope and make it measurable.\n\n\n\nStep 4: Assess Feasibility\nShe considers:\n\nData availability: The Hospital has blood film records, RDT results, and complete blood counts.\nSample size: Over 300 anaemia admissions in the past year.\nTime: She can complete this study in under 12 months.\n\n\nFeasible: Data is available, and ethical clearance is possible.\n\n\n\nStep 5: Define the Research Topic and Objectives\nShe drafts her topic:\n\n“Prevalence And Seasonal Trend of Malaria in Children Under 5 Years Admitted with Anaemia at Komfo Anokye Teaching Hospital”\n\nObjectives:\n\nTo determine the proportion of anemic children under five who test positive for malaria.\nTo compare the diagnostic yield between RDT and blood film microscopy.\nTo explore seasonal trends in malaria-associated anaemia.\n\n\n\nFinal Research Topic (SMART)\n\n“Malaria Infection Among Children Under Five Years Admitted With Anaemia at Komfo Anokye Teaching Hospital: A Cross-Sectional Study”\n\nA careful observation of this title reveals the following qualities:\n\nSpecific – children &lt;5 with anaemia.\nMeasurable – malaria test results.\nAchievable – uses existing data.\nRelevant – targets a major child health problem.\nTime-bound – single hospital, defined period.\n\nMission Accomplished (Without any spy gadgets!) 🥷🥷🥷"
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#summary",
+    "href": "fellowship/week-2/week-2.html#summary",
+    "title": "Week 2",
+    "section": "Summary",
+    "text": "Summary\nChoosing a research topic is not just the first step; it’s a foundational one. Don’t rush it. Be guided by:\n\nWhat you care about\nWhat’s relevant to your training and region\nWhat you can complete within your time and resources\nWhat adds a meaningful contribution to paediatric care"
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#take-home-message",
+    "href": "fellowship/week-2/week-2.html#take-home-message",
+    "title": "Week 2",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nYour thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading (without inducing seizures)."
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-2/week-2.html#next-week-on-paediatric-research-insights",
+    "title": "Week 2",
+    "section": "Next Week on Paediatric Research Insights…",
+    "text": "Next Week on Paediatric Research Insights…\nWe’ll turn your chosen topic into a research question that gets your supervisor nodding and your ethics committee smiling (or at least not frowning). See you next week! 👋🏾"
+  },
+  {
+    "objectID": "fellowship/week-2/week-2.html#references",
+    "href": "fellowship/week-2/week-2.html#references",
+    "title": "Week 2",
+    "section": "References",
+    "text": "References\n\nRatan, S. K., Anand, T., & Ratan, J. (2019). Formulation of research question–Stepwise approach. Journal of Indian Association of Pediatric Surgeons, 24(1), 15–20. https://doi.org/10.4103/jiaps.JIAPS_76_18\nFarrugia, P., Petrisor, B. A., Farrokhyar, F., & Bhandari, M. (2010). Research questions, hypotheses and objectives. Canadian Journal of Surgery, 53(4), 278–281. PMID: 20646403\nIlesanmi OS, Afolabi AA. (2019). Challenges of research and documentation among medical residents in Nigeria: A nationwide survey. Nigerian Journal of Medicine, 28(4):413-418. PMID: 32124462"
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html",
+    "href": "fellowship/week-4/week4_proposal_article.html",
+    "title": "Week 4",
+    "section": "",
+    "text": "“He who does not know one thing knows another.”"
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#recap",
+    "href": "fellowship/week-4/week4_proposal_article.html#recap",
+    "title": "Week 4",
+    "section": "Recap…",
+    "text": "Recap…\nLast week, we discovered that a strong research question is like a stool: PICOT gives it the five legs it needs to stand. Today, we’ll learn how to weave that stool into a proposal sturdy enough to carry examiners."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#introduction",
+    "href": "fellowship/week-4/week4_proposal_article.html#introduction",
+    "title": "Week 4",
+    "section": "Introduction",
+    "text": "Introduction\nEvery researcher has that “aha!” moment. It could be a puzzling observation on the ward, a nagging pattern in the outpatient clinic, or a burning question whispered during mortality meetings. But in academia, and especially in WACP and GCPS fellowship training, ideas alone are not currency. An idea without a proposal is like a recipe without ingredients: impressive-sounding, but you’ll never get fed.\nA research proposal is your way of showing examiners, supervisors, and colleagues that you can transform curiosity into credible science. It is not simply “a hurdle before Part II.” It serves as your training ground for grant applications, collaborative projects, and the broader research world. If you can write a good fellowship proposal, you’re well on your way to writing protocols for WHO, UNICEF, or your Ministry of Health. And let’s be honest: it’s also your ticket to surviving rounds of corrections from…"
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#the-purpose-of-a-proposal",
+    "href": "fellowship/week-4/week4_proposal_article.html#the-purpose-of-a-proposal",
+    "title": "Week 4",
+    "section": "The Purpose of a Proposal",
+    "text": "The Purpose of a Proposal\nThink of your proposal as a map, contract, and sales pitch rolled into one.\n\nAs a map, it guides your steps from idea to data collection to final write-up.\nAs a contract, it sets boundaries: no “mission creep,” no reinventing the wheel halfway.\nAs a sales pitch, it convinces examiners and supervisors that your study is feasible, ethical, and essential.\n\nWithout a proposal, you’re like a surgeon walking into the theatre without instruments; enthusiastic, yes, but dangerously unprepared.\nReviewers, whether in Accra, Abuja, or Freetown, are looking for three main things (Hulley et al., 2013; PMID: 24071097):\n1. Clarity — Do you know what you’re doing?\n2. Feasibility — Can you realistically complete it as a resident with limited time and resources?\n3. Relevance — Will the findings matter for children in West Africa?"
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#anatomy-of-a-proposal-gcps-vs-wacp",
+    "href": "fellowship/week-4/week4_proposal_article.html#anatomy-of-a-proposal-gcps-vs-wacp",
+    "title": "Week 4",
+    "section": "Anatomy of a Proposal – GCPS vs WACP",
+    "text": "Anatomy of a Proposal – GCPS vs WACP\nHere’s where it gets interesting. Both Colleges want the same essential elements: a strong rationale, clear objectives, a robust methodology, and ethics. But the way they dress the bride is slightly different.\n\nGCPS is detailed and process-oriented. They want:\n\nTitle page\nAbstract (500 words)\nTable of contents\nIntroduction & rationale\nAims/objectives\nLiterature review (1500 words)\nMaterials and methods\nData management & analysis\nEthical/legal considerations\nLogistics, timeline, budget\nReferences\nAppendices\n\nWACP, on the other hand, is concise and examiner-focused. They want:\n\nTitle page with detailed candidate/supervisor info\nIntroduction (≤300 words)\nLiterature review (≤1500 words)\nStudy design & methodology (≤1000 words)\nRelevance (≤200 words)\nReferences\nEthical approval\nVerification page (with signatures)\nPage for official use\n\n\nIf GCPS is like a buffet, with every dish laid out, WACP is like a finely plated gourmet meal: smaller portions, but highly scrutinised."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#breaking-down-key-sections",
+    "href": "fellowship/week-4/week4_proposal_article.html#breaking-down-key-sections",
+    "title": "Week 4",
+    "section": "Breaking Down Key Sections",
+    "text": "Breaking Down Key Sections\n\nTitle\nShould be short, specific, and informative. Avoid: “A Study of Malaria in Children.” Instead: “Prevalence and Risk Factors of Severe Malaria among Under-Five Children in Tamale Teaching Hospital.”\n\n\nIntroduction & Rationale\nThis is your chance to show why your question matters. Set the stage with local data, link to global literature, and highlight the gap. WACP allows 300 words; GCPS gives you more room, but don’t waste it with unnecessary storytelling.\n\n\nObjectives & Research Questions\nThese must flow logically from your rationale. Examiners are allergic to vague objectives. Write SMART (Specific, Measurable, Achievable, Relevant, Time-bound).\nBad: “To study anaemia in children.”\nGood: “To determine the prevalence and severity of anaemia among under-five children admitted at Cape Coast Teaching Hospital between Jan and Dec 2025.”\n\n\nLiterature Review\nThis section is both your credibility test and your GPS. A well-done review shows you understand what has been studied, where gaps remain, and how your project adds value. Both Colleges insist on African literature. Use recent published sources but also cite local theses and regional studies (Wong et al., 2021; PMID: 33486548).\n\n\nMethods\nThis is the beating heart of your proposal. Define:\n- Study design (cross-sectional, cohort, case-control, clinical trial)\n- Population, inclusion/exclusion criteria\n- Sampling strategy\n- Sample size (with justification; examiners love formulas!)\n- Data collection tools\n- Data management and analysis plan\nA good rule: if someone else reads your methods, they should be able to repeat your study without calling you at midnight.\n\n\nEthics\nBoth Colleges want assurance that you will not traumatise children, breach confidentiality, or overburden parents. Always name the ethics committee you applied to. Mention informed consent/assent, confidentiality, and data protection.\n\n\nRelevance\nWACP caps this at 200 words. Don’t just say “It will help children.” Be specific: “Findings will guide policy on asthma management in Ghana and provide baseline data for future multicentre studies.”\n\n\nBudget, Timeline, and Logistics\nOnly GCPS explicitly requires these, but don’t ignore them for WACP. A Gantt chart is your best friend. Supervisors love to see that you’ve planned how to balance clinics, night calls, and fieldwork."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#common-pitfalls-to-avoid",
+    "href": "fellowship/week-4/week4_proposal_article.html#common-pitfalls-to-avoid",
+    "title": "Week 4",
+    "section": "Common Pitfalls to Avoid",
+    "text": "Common Pitfalls to Avoid\n\nOverambition: “I will follow 10,000 children for 5 years.” My friend, you’ll finish residency with white hair.\nVague methods: “Data will be analysed.” How? With SPSS? STATA? Excel?\nCut-and-paste literature review: Examiners can spot plagiarism faster than children smell fried plantain.\nIgnoring ethics: Nothing irritates examiners more."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#example-in-practice",
+    "href": "fellowship/week-4/week4_proposal_article.html#example-in-practice",
+    "title": "Week 4",
+    "section": "Example in Practice",
+    "text": "Example in Practice\nResearch question: What is the prevalence of overweight and obesity among school-aged children in Accra?\nProposal structure:\n- Title: Prevalence and Risk Factors of Overweight and Obesity among Primary School Children in Accra, Ghana.\n- Introduction: Childhood obesity is rising globally and in Africa (PMID: 36738719). Data from Ghana is limited.\n- Objectives: To determine prevalence, identify associated factors, and compare urban vs peri-urban schools.\n- Literature Review: Summarise Ghanaian studies and SSA prevalence rates.\n- Methods: Cross-sectional study, cluster sampling of schools, anthropometric measures, WHO BMI z-scores, logistic regression.\n- Ethics: Parental consent, child assent, data anonymisation.\n- Relevance: Findings will inform school-based health interventions.\n- Budget/Timeline: Weighing scales, transport, data entry clerk, 9 months total."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#summary",
+    "href": "fellowship/week-4/week4_proposal_article.html#summary",
+    "title": "Week 4",
+    "section": "Summary",
+    "text": "Summary\nA proposal is more than paperwork. It is your research promise to your supervisors, your College, and the children whose lives your findings may improve. Whether GCPS or WACP, examiners want to see clarity, feasibility, ethics, and relevance."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#take-home-message",
+    "href": "fellowship/week-4/week4_proposal_article.html#take-home-message",
+    "title": "Week 4",
+    "section": "Take-Home Message",
+    "text": "Take-Home Message\nA strong proposal is a blend of curiosity, structure, and discipline. Ideas excite; proposals convince. And in fellowship training, only the latter will get you across the finish line."
+  },
+  {
+    "objectID": "fellowship/week-4/week4_proposal_article.html#next-week-on-paediatric-research-insights",
+    "href": "fellowship/week-4/week4_proposal_article.html#next-week-on-paediatric-research-insights",
+    "title": "Week 4",
+    "section": "Next Week on Paediatric Research Insights…",
+    "text": "Next Week on Paediatric Research Insights…\nNow that we know the anatomy of a good proposal, next week we zoom into its beating heart: “Writing the Introduction of the Proposal.”\nSo polish your drafts, keep your supervisors caffeinated, and remember, a proposal is like cooking jollof. Everyone swears theirs is the best, but only the one with the right ingredients, steps, and timing avoids burning the pot. See you next week! 🚶🚶🚶\n\nReferences\n\nHulley SB, Cummings SR, Browner WS, et al. Designing Clinical Research. 4th ed. Lippincott Williams & Wilkins; 2013. PMID: 24071097.\n\nWong CH, Wong SF, Poon JT, et al. How to write a research proposal. Int J Surg. 2021 Feb;85:41-46. PMID: 33486548.\n\nManyanga T, et al. Prevalence of overweight and obesity among school-age children in sub-Saharan Africa. BMC Obes. 2014;1:5. PMID: 36738719."
   },
   {
     "objectID": "fellowship/week-6/week6_blog.html",
@@ -224,620 +847,88 @@
     "text": "References\n\nMbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research proposal. CMAJ. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\n\nOduro AR, Koram KA, Rogers W, Atuguba F, Ansah P, Anyorigiya T, et al. Severe falciparum malaria in young children of the Kassena-Nankana District of northern Ghana. Malar J. 2007;6:96. doi:10.1186/1475-2875-6-96\n\nOlumese P, Snow RW, Omoluabi E, et al. Clinical features predicting mortality in children with severe malaria: evidence from multi-country studies. Malar J. 2019;18(1):144. doi:10.1186/s12936-019-2781-0"
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html",
-    "href": "fellowship/week-4/week4_proposal_article.html",
-    "title": "Week 4",
-    "section": "",
-    "text": "“He who does not know one thing knows another.”"
-  },
-  {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#recap",
-    "href": "fellowship/week-4/week4_proposal_article.html#recap",
-    "title": "Week 4",
+    "objectID": "fellowship/week-8/week8_blog.html#recap",
+    "href": "fellowship/week-8/week8_blog.html#recap",
+    "title": "Week 8",
     "section": "Recap…",
-    "text": "Recap…\nLast week, we discovered that a strong research question is like a stool: PICOT gives it the five legs it needs to stand. Today, we’ll learn how to weave that stool into a proposal sturdy enough to carry examiners."
+    "text": "Recap…\nLast week, we untangled the art of setting clear objectives. We agreed that objectives are like the Google Maps directions of your thesis journey: precise, purposeful, and pointing you toward your destination. Now, we take the next logical step, stating your hypothesis."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#introduction",
-    "href": "fellowship/week-4/week4_proposal_article.html#introduction",
-    "title": "Week 4",
+    "objectID": "fellowship/week-8/week8_blog.html#introduction",
+    "href": "fellowship/week-8/week8_blog.html#introduction",
+    "title": "Week 8",
     "section": "Introduction",
-    "text": "Introduction\nEvery researcher has that “aha!” moment. It could be a puzzling observation on the ward, a nagging pattern in the outpatient clinic, or a burning question whispered during mortality meetings. But in academia, and especially in WACP and GCPS fellowship training, ideas alone are not currency. An idea without a proposal is like a recipe without ingredients: impressive-sounding, but you’ll never get fed.\nA research proposal is your way of showing examiners, supervisors, and colleagues that you can transform curiosity into credible science. It is not simply “a hurdle before Part II.” It serves as your training ground for grant applications, collaborative projects, and the broader research world. If you can write a good fellowship proposal, you’re well on your way to writing protocols for WHO, UNICEF, or your Ministry of Health. And let’s be honest: it’s also your ticket to surviving rounds of corrections from…"
+    "text": "Introduction\nEvery great research study is driven by curiosity, but curiosity without a hypothesis is like a car without a steering wheel. You may move, but in circles, or worse, into a ditch. A hypothesis provides focus, gives your study predictive power, and frames how your data will eventually be interpreted.\nYet, for many fellowship residents, the word “hypothesis” triggers mild anxiety. Some confuse it with the research question, others overcomplicate it with jargon, and a few write hypotheses that sound more like philosophical musings than testable predictions.\nToday, let’s break down the anatomy of a good hypothesis: what it is, what it isn’t, and how to craft one that can stand before both the WACP and GCPS assessors without being politely returned with red ink."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#the-purpose-of-a-proposal",
-    "href": "fellowship/week-4/week4_proposal_article.html#the-purpose-of-a-proposal",
-    "title": "Week 4",
-    "section": "The Purpose of a Proposal",
-    "text": "The Purpose of a Proposal\nThink of your proposal as a map, contract, and sales pitch rolled into one.\n\nAs a map, it guides your steps from idea to data collection to final write-up.\nAs a contract, it sets boundaries: no “mission creep,” no reinventing the wheel halfway.\nAs a sales pitch, it convinces examiners and supervisors that your study is feasible, ethical, and essential.\n\nWithout a proposal, you’re like a surgeon walking into the theatre without instruments; enthusiastic, yes, but dangerously unprepared.\nReviewers, whether in Accra, Abuja, or Freetown, are looking for three main things (Hulley et al., 2013; PMID: 24071097):\n1. Clarity — Do you know what you’re doing?\n2. Feasibility — Can you realistically complete it as a resident with limited time and resources?\n3. Relevance — Will the findings matter for children in West Africa?"
+    "objectID": "fellowship/week-8/week8_blog.html#what-exactly-is-a-hypothesis",
+    "href": "fellowship/week-8/week8_blog.html#what-exactly-is-a-hypothesis",
+    "title": "Week 8",
+    "section": "What Exactly is a Hypothesis?",
+    "text": "What Exactly is a Hypothesis?\nA hypothesis is a testable statement that predicts the relationship between two or more variables. It is not just an educated guess; it is a scientifically grounded expectation based on existing evidence.\nFor instance:\n\nResearch question: What factors predict mortality in severe malaria among children under five?H\nHypothesis: Children under five with severe malaria who present with hypoglycemia have a higher risk of mortality compared to those without hypoglycemia.\n\nThe former is curious. The latter is precise and testable."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#anatomy-of-a-proposal-gcps-vs-wacp",
-    "href": "fellowship/week-4/week4_proposal_article.html#anatomy-of-a-proposal-gcps-vs-wacp",
-    "title": "Week 4",
-    "section": "Anatomy of a Proposal – GCPS vs WACP",
-    "text": "Anatomy of a Proposal – GCPS vs WACP\nHere’s where it gets interesting. Both Colleges want the same essential elements: a strong rationale, clear objectives, a robust methodology, and ethics. But the way they dress the bride is slightly different.\n\nGCPS is detailed and process-oriented. They want:\n\nTitle page\nAbstract (500 words)\nTable of contents\nIntroduction & rationale\nAims/objectives\nLiterature review (1500 words)\nMaterials and methods\nData management & analysis\nEthical/legal considerations\nLogistics, timeline, budget\nReferences\nAppendices\n\nWACP, on the other hand, is concise and examiner-focused. They want:\n\nTitle page with detailed candidate/supervisor info\nIntroduction (≤300 words)\nLiterature review (≤1500 words)\nStudy design & methodology (≤1000 words)\nRelevance (≤200 words)\nReferences\nEthical approval\nVerification page (with signatures)\nPage for official use\n\n\nIf GCPS is like a buffet, with every dish laid out, WACP is like a finely plated gourmet meal: smaller portions, but highly scrutinised."
+    "objectID": "fellowship/week-8/week8_blog.html#null-vs.-alternative-hypotheses",
+    "href": "fellowship/week-8/week8_blog.html#null-vs.-alternative-hypotheses",
+    "title": "Week 8",
+    "section": "Null vs. Alternative Hypotheses",
+    "text": "Null vs. Alternative Hypotheses\nEvery good hypothesis comes in pairs, like gari and beans.\n\nNull hypothesis (H₀): There is no association, effect, or difference.\nExample: Hypoglycemia does not increase mortality risk in children with severe malaria.\nAlternative hypothesis (H₁): There is an association, effect, or difference.\nExample: Hypoglycemia increases mortality risk in children with severe malaria.\n\nWhy both? Because statistics is a skeptical friend. It only allows us to “reject” or “fail to reject” the null, never to “prove” the alternative."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#breaking-down-key-sections",
-    "href": "fellowship/week-4/week4_proposal_article.html#breaking-down-key-sections",
-    "title": "Week 4",
-    "section": "Breaking Down Key Sections",
-    "text": "Breaking Down Key Sections\n\nTitle\nShould be short, specific, and informative. Avoid: “A Study of Malaria in Children.” Instead: “Prevalence and Risk Factors of Severe Malaria among Under-Five Children in Tamale Teaching Hospital.”\n\n\nIntroduction & Rationale\nThis is your chance to show why your question matters. Set the stage with local data, link to global literature, and highlight the gap. WACP allows 300 words; GCPS gives you more room, but don’t waste it with unnecessary storytelling.\n\n\nObjectives & Research Questions\nThese must flow logically from your rationale. Examiners are allergic to vague objectives. Write SMART (Specific, Measurable, Achievable, Relevant, Time-bound).\nBad: “To study anaemia in children.”\nGood: “To determine the prevalence and severity of anaemia among under-five children admitted at Cape Coast Teaching Hospital between Jan and Dec 2025.”\n\n\nLiterature Review\nThis section is both your credibility test and your GPS. A well-done review shows you understand what has been studied, where gaps remain, and how your project adds value. Both Colleges insist on African literature. Use recent published sources but also cite local theses and regional studies (Wong et al., 2021; PMID: 33486548).\n\n\nMethods\nThis is the beating heart of your proposal. Define:\n- Study design (cross-sectional, cohort, case-control, clinical trial)\n- Population, inclusion/exclusion criteria\n- Sampling strategy\n- Sample size (with justification; examiners love formulas!)\n- Data collection tools\n- Data management and analysis plan\nA good rule: if someone else reads your methods, they should be able to repeat your study without calling you at midnight.\n\n\nEthics\nBoth Colleges want assurance that you will not traumatise children, breach confidentiality, or overburden parents. Always name the ethics committee you applied to. Mention informed consent/assent, confidentiality, and data protection.\n\n\nRelevance\nWACP caps this at 200 words. Don’t just say “It will help children.” Be specific: “Findings will guide policy on asthma management in Ghana and provide baseline data for future multicentre studies.”\n\n\nBudget, Timeline, and Logistics\nOnly GCPS explicitly requires these, but don’t ignore them for WACP. A Gantt chart is your best friend. Supervisors love to see that you’ve planned how to balance clinics, night calls, and fieldwork."
+    "objectID": "fellowship/week-8/week8_blog.html#characteristics-of-a-good-hypothesis",
+    "href": "fellowship/week-8/week8_blog.html#characteristics-of-a-good-hypothesis",
+    "title": "Week 8",
+    "section": "Characteristics of a Good Hypothesis",
+    "text": "Characteristics of a Good Hypothesis\nA useful checklist (adapted from Hulley et al., 2013):\n\nTestable: You should be able to design a study that collects data to support or refute it.\nClear and specific: Avoid vague wording like “improves,” “affects,” or “influences” without direction.\nGrounded in literature: No free-floating speculations. Use prior studies to justify.\nRelevant: The outcome should matter clinically or scientifically."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#common-pitfalls-to-avoid",
-    "href": "fellowship/week-4/week4_proposal_article.html#common-pitfalls-to-avoid",
-    "title": "Week 4",
-    "section": "Common Pitfalls to Avoid",
-    "text": "Common Pitfalls to Avoid\n\nOverambition: “I will follow 10,000 children for 5 years.” My friend, you’ll finish residency with white hair.\nVague methods: “Data will be analysed.” How? With SPSS? STATA? Excel?\nCut-and-paste literature review: Examiners can spot plagiarism faster than children smell fried plantain.\nIgnoring ethics: Nothing irritates examiners more."
+    "objectID": "fellowship/week-8/week8_blog.html#common-pitfalls-residents-make",
+    "href": "fellowship/week-8/week8_blog.html#common-pitfalls-residents-make",
+    "title": "Week 8",
+    "section": "Common Pitfalls Residents Make",
+    "text": "Common Pitfalls Residents Make\n\nConfusing objectives and hypotheses: Objectives describe what you want to achieve; hypotheses predict what you expect to find.\nBeing too broad: “Socioeconomic status predicts malaria mortality”, too vague. Which aspect? Income? Maternal education? Housing?\nWriting untestable statements: “Children with severe malaria suffer because of poverty.” True, perhaps, but not statistically testable in a single fellowship project.\nForgetting the null: Some candidates only state the alternative. Remember, assessors love to see both sides."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#example-in-practice",
-    "href": "fellowship/week-4/week4_proposal_article.html#example-in-practice",
-    "title": "Week 4",
-    "section": "Example in Practice",
-    "text": "Example in Practice\nResearch question: What is the prevalence of overweight and obesity among school-aged children in Accra?\nProposal structure:\n- Title: Prevalence and Risk Factors of Overweight and Obesity among Primary School Children in Accra, Ghana.\n- Introduction: Childhood obesity is rising globally and in Africa (PMID: 36738719). Data from Ghana is limited.\n- Objectives: To determine prevalence, identify associated factors, and compare urban vs peri-urban schools.\n- Literature Review: Summarise Ghanaian studies and SSA prevalence rates.\n- Methods: Cross-sectional study, cluster sampling of schools, anthropometric measures, WHO BMI z-scores, logistic regression.\n- Ethics: Parental consent, child assent, data anonymisation.\n- Relevance: Findings will inform school-based health interventions.\n- Budget/Timeline: Weighing scales, transport, data entry clerk, 9 months total."
+    "objectID": "fellowship/week-8/week8_blog.html#when-a-hypothesis-may-not-be-needed",
+    "href": "fellowship/week-8/week8_blog.html#when-a-hypothesis-may-not-be-needed",
+    "title": "Week 8",
+    "section": "When a Hypothesis May Not Be Needed",
+    "text": "When a Hypothesis May Not Be Needed\nNot every proposal requires a hypothesis. For instance, exploratory or descriptive studies (such as chart reviews to document clinical patterns, or surveys assessing the prevalence of a condition) are better framed with research objectives rather than hypotheses. Similarly, qualitative studies often aim to generate insights rather than test predictions, so a clear set of objectives is sufficient."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#summary",
-    "href": "fellowship/week-4/week4_proposal_article.html#summary",
-    "title": "Week 4",
-    "section": "Summary",
-    "text": "Summary\nA proposal is more than paperwork. It is your research promise to your supervisors, your College, and the children whose lives your findings may improve. Whether GCPS or WACP, examiners want to see clarity, feasibility, ethics, and relevance."
+    "objectID": "fellowship/week-8/week8_blog.html#example-hypothesis-section",
+    "href": "fellowship/week-8/week8_blog.html#example-hypothesis-section",
+    "title": "Week 8",
+    "section": "Example Hypothesis Section",
+    "text": "Example Hypothesis Section\nStudy topic: Predictors of mortality in severe malaria among children under five years in Kumasi, Ghana.\nNull hypothesis (H₀): Clinical and laboratory features such as hypoglycemia, severe anemia, or cerebral malaria are not associated with increased mortality risk among children under five years with severe malaria.\nAlternative hypothesis (H₁): Clinical and laboratory features such as hypoglycemia, severe anemia, or cerebral malaria are associated with increased mortality risk among children under five years with severe malaria.\nNotice the clarity, the linkage to measurable variables, and the fact that these can be directly tested with data."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#take-home-message",
-    "href": "fellowship/week-4/week4_proposal_article.html#take-home-message",
-    "title": "Week 4",
-    "section": "Take-Home Message",
-    "text": "Take-Home Message\nA strong proposal is a blend of curiosity, structure, and discipline. Ideas excite; proposals convince. And in fellowship training, only the latter will get you across the finish line."
+    "objectID": "fellowship/week-8/week8_blog.html#in-summary",
+    "href": "fellowship/week-8/week8_blog.html#in-summary",
+    "title": "Week 8",
+    "section": "In Summary…",
+    "text": "In Summary…\nA hypothesis is your study’s backbone. It transforms curiosity into a testable, measurable statement. Good hypotheses are clear, specific, and rooted in literature. They come in pairs (null and alternative) and directly map onto your objectives.\nWithout one, your study risks becoming a fishing expedition in the data ocean, lots of activity, very little catch. With a solid hypothesis, you set yourself up for meaningful findings, whether your results surprise you or confirm your expectations."
   },
   {
-    "objectID": "fellowship/week-4/week4_proposal_article.html#next-week-on-paediatric-research-insights",
-    "href": "fellowship/week-4/week4_proposal_article.html#next-week-on-paediatric-research-insights",
-    "title": "Week 4",
-    "section": "Next Week on Paediatric Research Insights…",
-    "text": "Next Week on Paediatric Research Insights…\nNow that we know the anatomy of a good proposal, next week we zoom into its beating heart: “Writing the Introduction of the Proposal.”\nSo polish your drafts, keep your supervisors caffeinated, and remember, a proposal is like cooking jollof. Everyone swears theirs is the best, but only the one with the right ingredients, steps, and timing avoids burning the pot. See you next week! 🚶🚶🚶\n\nReferences\n\nHulley SB, Cummings SR, Browner WS, et al. Designing Clinical Research. 4th ed. Lippincott Williams & Wilkins; 2013. PMID: 24071097.\n\nWong CH, Wong SF, Poon JT, et al. How to write a research proposal. Int J Surg. 2021 Feb;85:41-46. PMID: 33486548.\n\nManyanga T, et al. Prevalence of overweight and obesity among school-age children in sub-Saharan Africa. BMC Obes. 2014;1:5. PMID: 36738719."
+    "objectID": "fellowship/week-8/week8_blog.html#next-week",
+    "href": "fellowship/week-8/week8_blog.html#next-week",
+    "title": "Week 8",
+    "section": "Next Week…",
+    "text": "Next Week…\nNext week, we dive into “Taming the Literature Review” — the part where your laptop has 47 open tabs, your EndNote crashes, and your friends wonder if you’ve disappeared into a PDF jungle.\nUntil then, remember: your hypothesis is not your destiny, it’s just your best bet. So, write it boldly, test it carefully, and let the data speak.\nSee you next week, and may your null hypothesis be rejected only when it truly deserves it!"
   },
   {
-    "objectID": "fellowship/week-2/week-2.html",
-    "href": "fellowship/week-2/week-2.html",
-    "title": "Week 2",
-    "section": "",
-    "text": "“A journey that begins with steady steps will not lose the path at the crossroads.”"
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#recap",
-    "href": "fellowship/week-2/week-2.html#recap",
-    "title": "Week 2",
-    "section": "Recap…",
-    "text": "Recap…\nLast week, we agreed that research isn’t just an academic checkbox; it’s a professional tool that lets paediatricians shape care beyond the clinic. Now, let’s move from why research matters to how to begin it, with the right topic."
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#introduction",
-    "href": "fellowship/week-2/week-2.html#introduction",
-    "title": "Week 2",
-    "section": "Introduction",
-    "text": "Introduction\nSo, you’re ready to start your thesis. You have your white coat, a stethoscope, and enough caffeine to power a minor city. But when asked, “What’s your research topic?” you freeze like a child…Ouch!\nChoosing a research topic is often the first real hurdle residents face, not because they lack ideas, but because they have too many, or worse, none that are feasible. This article serves as your guide through the fog, helping you select a topic that’s academically sound, clinically meaningful, and realistically achievable (before retirement)."
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#the-anatomy-of-a-good-research-topic",
-    "href": "fellowship/week-2/week-2.html#the-anatomy-of-a-good-research-topic",
-    "title": "Week 2",
-    "section": "The Anatomy of a Good Research Topic",
-    "text": "The Anatomy of a Good Research Topic\nA good research topic lies at the intersection of interest, relevance, feasibility, and scientific value. Like the classic Venn diagram: if your topic only ticks one or two of these, you’re heading for trouble.\n\nInterest: Pick Something You Genuinely Care About\nYou’re going to spend the next 1–2 years reading, writing, and talking about this topic. If it doesn’t excite you on Day 1, it certainly won’t on Day 201.\n\nExample: If you enjoy neonatology, don’t force yourself into a study on adolescent substance use just because someone said it’s “publishable.”\n\n\n\nRelevance: Will This Matter in Your Context?\nA study on cystic fibrosis might be scientifically rich, but unless you’re in a regional centre with enough cases, it may not be regionally relevant.\nAsk:\n\nDoes this address a common or emerging clinical problem in Ghana or West Africa?\nWill it add value to policy, practice, or further research?\n\nA study on antimicrobial resistance in under-fives with sepsis is both regionally relevant and of public health interest.\n\n\nFeasibility: Do You Have the Time, Data, and Resources?\nAmbition is noble, but so is passing your fellowship. Be wary of multicentre longitudinal studies if you’re juggling night shifts and ward rounds.\n\nTip: Retrospective chart reviews, cross-sectional surveys, short cohort studies, and facility-based studies are often more realistic for a first-time researcher and a fellowship thesis.\n\nA cross-sectional study on asthma control among school-aged children attending your facility? Completely achievable!\nA 10-year follow-up study of post-ICU neurodevelopmental outcomes? Good luck! (unless you’ve got funding, a team, and a time machine).\n\n\nScientific Value: What Will the Field Gain?\nAvoid “me-too” topics. A third repetition of “knowledge of neonatal jaundice among caregivers” in the same region, using the same tool, might not break any academic ground, unless you’re adding a novel twist or intervention.\nLook at what’s already published locally and regionally. Use PubMed, African Journals Online (AJOL), and Google Scholar. Embrace Artificial Intelligence if you still have a phobia of it. It will help a lot in this regard.\nConsider:\n\nHas this topic been done before?\nIf yes, can I improve the methodology or explore a different angle?\n\n\n\nMentor Input\nDiscuss with supervisors or clinicians; they can help narrow down and refine your idea."
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#where-do-good-topics-come-from",
-    "href": "fellowship/week-2/week-2.html#where-do-good-topics-come-from",
-    "title": "Week 2",
-    "section": "Where Do Good Topics Come From?",
-    "text": "Where Do Good Topics Come From?\n\nClinical Curiosity: Something you’ve noticed during your rotations.\nLiterature Gaps: Unanswered questions in recent journal articles.\nSupervisors & Mentors: Tap into their experience (and sometimes their data!).\nNational Priorities: Align with ongoing health strategies or WHO/Ministry reports\nYour Audit Book: That intriguing trend you found during clinical audit might just be publishable!\n\nFor instance, if you observed that most neonates with jaundice are presenting late despite antenatal education, that’s a question worth studying."
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#red-flags-to-avoid",
-    "href": "fellowship/week-2/week-2.html#red-flags-to-avoid",
-    "title": "Week 2",
-    "section": "Red Flags To Avoid",
-    "text": "Red Flags To Avoid\n\nTopics that are too broad (“Nutrition in children”)\nTopics driven only by data availability (Don’t reverse-engineer research just because you have a dusty folder of lab results)\n“Hot” topics outside your scope (E.g., Machine learning in NICUs… unless you have the team and tech)\nAnything dependent on “pending” funding or ethics approval from 4 hospitals"
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#a-practical-scenario",
-    "href": "fellowship/week-2/week-2.html#a-practical-scenario",
-    "title": "Week 2",
-    "section": "A Practical Scenario",
-    "text": "A Practical Scenario\nDr. Ama is a senior paediatric resident at the Komfo Anokye Teaching Hospital. She has been working in the Paediatric Emergency Unit and has noticed that many children with severe anaemia are also testing positive for malaria.\nShe begins to wonder:\n\n“Are children with severe anaemia more likely to have malaria, or is this just a coincidence?”\n\n\nStep-by-Step Process to Generate the Topic\n\nStep 1: Observation and Clinical Curiosity\nShe reflects on:\n\nThe frequency of severe anaemia among under-fives.\nThe high malaria burden in the region.\nOccasional delays in diagnosis due to a lack of rapid testing\n\n\nIdea Trigger: There seems to be a link between malaria and anaemia. Can this be studied systematically?\n\n\n\nStep 2: Literature Review\nShe performs a brief search on PubMed, using terms like:\n\n“malaria and anaemia in children in Ghana”\n“prevalence of malaria-induced anaemia”\n“factors associated with severe anaemia”\n\nShe finds:\n\nSeveral studies confirmed the association.\nBut few studies focused on her specific region or were linked to seasonal variations or delays in diagnosis.\n\n\nGap Identified: While malaria–anaemia links are known, there is limited data for her locality, especially regarding the timing of diagnosis and treatment.\n\n\n\nStep 3: Discussion with Supervisor or Mentor\nShe shares her thoughts with her supervisor, who responds:\n\n“That’s a good observation. But consider narrowing it. Maybe look at children under 5 years, admitted for anaemia, and determine how many also had malaria by microscopy vs RDT.”\n\n\nRefinement: Supervisor advises to narrow the scope and make it measurable.\n\n\n\nStep 4: Assess Feasibility\nShe considers:\n\nData availability: The Hospital has blood film records, RDT results, and complete blood counts.\nSample size: Over 300 anaemia admissions in the past year.\nTime: She can complete this study in under 12 months.\n\n\nFeasible: Data is available, and ethical clearance is possible.\n\n\n\nStep 5: Define the Research Topic and Objectives\nShe drafts her topic:\n\n“Prevalence And Seasonal Trend of Malaria in Children Under 5 Years Admitted with Anaemia at Komfo Anokye Teaching Hospital”\n\nObjectives:\n\nTo determine the proportion of anemic children under five who test positive for malaria.\nTo compare the diagnostic yield between RDT and blood film microscopy.\nTo explore seasonal trends in malaria-associated anaemia.\n\n\n\nFinal Research Topic (SMART)\n\n“Malaria Infection Among Children Under Five Years Admitted With Anaemia at Komfo Anokye Teaching Hospital: A Cross-Sectional Study”\n\nA careful observation of this title reveals the following qualities:\n\nSpecific – children &lt;5 with anaemia.\nMeasurable – malaria test results.\nAchievable – uses existing data.\nRelevant – targets a major child health problem.\nTime-bound – single hospital, defined period.\n\nMission Accomplished (Without any spy gadgets!) 🥷🥷🥷"
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#summary",
-    "href": "fellowship/week-2/week-2.html#summary",
-    "title": "Week 2",
-    "section": "Summary",
-    "text": "Summary\nChoosing a research topic is not just the first step; it’s a foundational one. Don’t rush it. Be guided by:\n\nWhat you care about\nWhat’s relevant to your training and region\nWhat you can complete within your time and resources\nWhat adds a meaningful contribution to paediatric care"
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#take-home-message",
-    "href": "fellowship/week-2/week-2.html#take-home-message",
-    "title": "Week 2",
-    "section": "Take-Home Message",
-    "text": "Take-Home Message\nYour thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading (without inducing seizures)."
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#next-week-on-paediatric-research-insights",
-    "href": "fellowship/week-2/week-2.html#next-week-on-paediatric-research-insights",
-    "title": "Week 2",
-    "section": "Next Week on Paediatric Research Insights…",
-    "text": "Next Week on Paediatric Research Insights…\nWe’ll turn your chosen topic into a research question that gets your supervisor nodding and your ethics committee smiling (or at least not frowning). See you next week! 👋🏾"
-  },
-  {
-    "objectID": "fellowship/week-2/week-2.html#references",
-    "href": "fellowship/week-2/week-2.html#references",
-    "title": "Week 2",
+    "objectID": "fellowship/week-8/week8_blog.html#references",
+    "href": "fellowship/week-8/week8_blog.html#references",
+    "title": "Week 8",
     "section": "References",
-    "text": "References\n\nRatan, S. K., Anand, T., & Ratan, J. (2019). Formulation of research question–Stepwise approach. Journal of Indian Association of Pediatric Surgeons, 24(1), 15–20. https://doi.org/10.4103/jiaps.JIAPS_76_18\nFarrugia, P., Petrisor, B. A., Farrokhyar, F., & Bhandari, M. (2010). Research questions, hypotheses and objectives. Canadian Journal of Surgery, 53(4), 278–281. PMID: 20646403\nIlesanmi OS, Afolabi AA. (2019). Challenges of research and documentation among medical residents in Nigeria: A nationwide survey. Nigerian Journal of Medicine, 28(4):413-418. PMID: 32124462"
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html",
-    "title": "Special Post",
-    "section": "",
-    "text": "“Even the small crocodile leaves its mark on the river.”"
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#introduction",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html#introduction",
-    "title": "Special Post",
-    "section": "Introduction",
-    "text": "Introduction\nThey say size doesn’t matter, until you submit your thesis with only 30 patients, and your statistician looks at you the way a pediatrician looks at a child who swallowed a coin: concerned, but not entirely surprised.\nIn our regular series, we were dissecting the anatomy of a research proposal. Today, let’s take a detour into a common headache senior residents face: What to do when your study population is small.\nIn clinical research, we are taught that bigger is better. Larger sample sizes reduce error, increase statistical power, and make our findings more generalisable. But in the real world of paediatric research, especially in sub-Saharan Africa, we sometimes have to make do with small numbers. Rare conditions, resource limitations, or the simple reality of being a resident with a short training window can leave you staring at an Excel sheet with only 30 rows of data. Does this mean your study is doomed? Not at all. Small studies can still be rigorous, meaningful, and presentable in a fellowship thesis, if analysed and presented wisely. Let’s explore how to handle such data without losing credibility (or your sanity!)."
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#what-to-do",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html#what-to-do",
-    "title": "Special Post",
-    "section": "What To Do…",
-    "text": "What To Do…\n\nAcknowledge the Limitations Upfront\nThe first rule of small sample size is honesty. You must clearly acknowledge that your study may lack statistical power and may be prone to Type II error (false negatives). This doesn’t invalidate the study, but it helps set expectations for reviewers and examiners.\n\n\n\n\n\n\nGet This!\n\n\n\nIf you study neuroblastoma cases in a single centre and only get 28 eligible patients, that is not a weakness; it reflects the rarity of the condition.\n\n\n\n\nDescriptive Statistics are Your Best Friend\nWhen numbers are small, the data itself deserves to be shown. The general advice is:\n\nUse tables and graphs generously, as showing detail is the hallmark of reporting on small data.\nUse Counts and Percentages for categorical variables.\nUse Median and interquartile ranges (IQR) rather than means and standard deviations for continuous variables.\nWhen using figures, it’s better to use graphs that display individual data points, such as dotplots (@fig-three), scatterplots (Figure 1), boxplots with jitter (Figure 2), but not histograms."
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#tip",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html#tip",
-    "title": "Special Post",
-    "section": "Tip",
-    "text": "Tip\n\n\n\n\n\n\nTip\n\n\n\nAvoid drowning in percentages that exaggerate minor differences. Saying “2 out of 5 children (40%) could look way smaller in percentage terms compared to”3 out of 5 (60%)” when the numeric difference is only one!\n\n\n\nChoose Statistical Tests Carefully\nMany tests assume large samples and normal distributions. With a small sample size, those assumptions may not hold. Consider:\n\nNon-parametric tests:\n\nMann–Whitney U test instead of the t-test.\nFisher’s exact test instead of chi-square (especially when expected counts &lt;5).\n\nExact methods: Some software allows exact p-values that are valid for small samples.\nEffect sizes and confidence intervals: Even if p-values are non-significant, reporting effect sizes (e.g., odds ratios with wide CIs) is valuable.\nMultivariate regression has become an integral part of most fellowship theses, but it is not your friend when the sample size is small. Instead, discuss with your statistician if there is a need for regression. If so, a parsimonious approach is usually required, where not more than two covariates are included in the regression at a time. Alternative regression approaches are Penalized or Exact logistic regression. None of these, however, permits one to present the data as confirmatory and not exploratory.\nOther statistical analysis approaches may involve Bayesian methods, Simulation, and Bootstrapping. These are surely beyond the scope of this text.\n\nYes, I know. Statistics always makes you feel that cringe in your tummy, but hallelujah, you are still reading. 😃😃\n\n\n\n\n\n\n\n\nFigure 1: Scatter plot showing individual points\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Boxplot with points shown\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Dotplot with points shown\n\n\n\n\n\n\n\nFocus on Clinical Significance, Not Just p-values\nWith a small sample, statistical significance may be elusive. But clinical importance can still be evident.\n\n\n\n\n\n\nExample\n\n\n\nImagine you are comparing two treatments for severe malaria. Out of 30 children, mortality was 4/15 in group A and 1/15 in group B. The Fisher’s exact test may not reach statistical significance. However, a relative risk of 0.25 is clinically meaningful and worth reporting with its often large confidence interval, with a note on limited power.\n\n\n\n\nUse Visual Storytelling\nGraphs are particularly powerful in small datasets. Consider:\n\nDot plots or scatterplots: Show every patient, highlighting the individuality of small data (Figure 1).\nBox-and-whisker plots: To summarise distributions while showing variability. (Figure 2)\nLine plots: For repeated measures (e.g., weight or haemoglobin before and after intervention).\n\nA simple, clean figure often speaks louder than a complex p-value.\n\n\nBe Transparent in Reporting\nTransparency builds trust. Always report:\n\nThe actual numerator and denominator (“7 out of 30”), not just percentages.\nAny missing data and how you handled them.\nWhether you used one-tailed or two-tailed tests (this will be explained in subsequent blogs).\n\nReviewers are less likely to criticise your small sample if you show integrity in how you present it."
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#in-conclusions",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html#in-conclusions",
-    "title": "Special Post",
-    "section": "In Conclusions",
-    "text": "In Conclusions\nThe golden rule: do not overstate findings. Avoid sweeping claims like “Treatment X is superior to…” or “females were significantly more likely to…” Instead, say:\n\n“In this small cohort, Treatment X was associated with lower mortality. Larger studies are needed to confirm this finding.”\n\nThis shows maturity, and examiners will respect your caution."
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#summary",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html#summary",
-    "title": "Special Post",
-    "section": "Summary",
-    "text": "Summary\nWorking with small samples is common in paediatric fellowship research. While such studies may lack power, they can still provide valuable insights if analysed carefully. Focus on descriptive statistics, use non-parametric tests, highlight effect sizes, present your data visually, and above all, be transparent. When your sample is small, don’t panic. Clarity, honesty, and creativity can transform 30 rows of data into a credible and meaningful thesis chapter.\nSo yes, size matters, but presentation matters more. After all, even a small bowl of jollof can make you happy if it’s well-cooked. 🍲 See you soon!"
-  },
-  {
-    "objectID": "fellowship/bonus-1/special_small_sample_blog.html#references",
-    "href": "fellowship/bonus-1/special_small_sample_blog.html#references",
-    "title": "Special Post",
-    "section": "References",
-    "text": "References\n\nFaber J, Fonseca LM. How sample size influences research outcomes. Dental Press J Orthod. 2014;19(4):27–9. PMID: 25279518\nHackshaw A. Small studies: strengths and limitations. Eur Respir J. 2008;32(5):1141–3. PMID: 18978131\nLydersen S, Fagerland MW, Laake P. Recommended tests for association in 2×2 tables. Stat Med. 2009;28(7):1159–75. PMID: 19170020"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html",
-    "href": "adv-stats-2024/PracticalTwo/index.html",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "",
-    "text": "This is the second practical lesson where we learn how to perform exploratory data analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "href": "adv-stats-2024/PracticalTwo/index.html#objectives",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "Objectives",
-    "text": "Objectives\n\nExplore the data\nSummaries\n\nTabulation (One- and two-way tables)\nMeasures of central tendency, dispersion, distribution\n\nGraphics\n\nCategorical\n\nBarchart\n\nNumeric\n\nHistogram, density plot, boxplot, QQplot, violin plot,\n\nCategorical vs Categorical\n\nBarplot\n\nNumeric vs numeric\nCategorical vs Numeric"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "href": "adv-stats-2024/PracticalTwo/index.html#to-do",
-    "title": "Practical 2: Exploratory data analysis",
-    "section": "To do",
-    "text": "To do\n\nCategorical variable\n\nWe usetitanic.xlsx\nStatistics\n\nLook out for missing\nOne-way tabulation of class of the passengers\nTwo-way tabulation of the class and outcome of the passengers\nMultiple-way tabulation of class, sex and outcome of the passengers\n\nGraphics\n\nOne-way bar plot of\nTwo-way bar plot\n\n\n\n\nNumeric variable\n\nUse “blood.xlsx”\nStatistics – Measure of central tendency\n\nMean\nMedian\nMode\n\nStatistics – measures of dispersion\n\nStandard deviation\nVariance\nRange\nIQR\nMinimum, maximum\n\nOutliers\nDistribution\n\nSkewness\nKurtosis\n\nNormality\nGraphics\n\nHistogram\nDensity plot\n\nSingle\nComparative\n\nBoxplot\n\nSingle\n\nComparative\nViolin plot (+ data points)\n\nSingle\nComparative"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalSix/index.html",
-    "href": "adv-stats-2024/PracticalSix/index.html",
-    "title": "Practical 6: Sample size determination",
-    "section": "",
-    "text": "In this part we learn how to determine sample sizes for different study methodologies.\n\nForm 5 groups\nLet’s have 10 minutes to discuss each other project and the determinants of your sample size\nWe use the website https://sample-size.net/ for the sample size determination\nWe meet afterward to determine the sample sizes for different designs"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html",
-    "href": "adv-stats-2024/PracticalFive/index.html",
-    "title": "Practical 5: Regression",
-    "section": "",
-    "text": "This is the fifth practical lesson where we learn the basics of Regressions"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "href": "adv-stats-2024/PracticalFive/index.html#objectives",
-    "title": "Practical 5: Regression",
-    "section": "Objectives",
-    "text": "Objectives\n\nLinear regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction\n\nLogistic regression\n\nSingle numeric predictor\nSingle categorical variable\n\n2 numeric predictors\n\nConfounding\nInteraction\n\n2 categorical predictors\n\nConfounding\nInteraction"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html",
-    "href": "adv-stats-2024/PracticaFour/index.html",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "",
-    "text": "This is the fourth practical lesson where we learn the Analysis of Variance and Correlation analysis"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "href": "adv-stats-2024/PracticaFour/index.html#objectives",
-    "title": "Practical 4: ANOVA & Correlation",
-    "section": "Objectives",
-    "text": "Objectives\n\nANOVA\n\nOne-Way ANOVA\nRepeated Measure ANOVA\nANOVA (Two-way)\nAnalysis of covariance (ANCOVA)\n\nCorrelation matrix\n\nPearson\nSpearman"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html",
-    "href": "adv-stats-2024/PracticalOne/index.html",
-    "title": "Practical 1: Data preparation",
-    "section": "",
-    "text": "This is the first practical lesson where we learn how to prepare data before analysis."
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "href": "adv-stats-2024/PracticalOne/index.html#objectives",
-    "title": "Practical 1: Data preparation",
-    "section": "Objectives",
-    "text": "Objectives\n\nRead data from differing formats\nEditing variable names\nLabelling variables\nEditing value labels\nSetting variable types\nArrange variable levels appropriately\nDeriving new variables\nTransforming variables"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#practical",
-    "href": "adv-stats-2024/PracticalOne/index.html#practical",
-    "title": "Practical 1: Data preparation",
-    "section": "Practical",
-    "text": "Practical\nTo do this we will begin with the schisto data. Please download and save it on your computer if you have not done so already.\n\nCreate a folder on your computer\nSave the data in the folder.\nImport the data into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave the data as schisto.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "href": "adv-stats-2024/PracticalOne/index.html#to-do",
-    "title": "Practical 1: Data preparation",
-    "section": "To do",
-    "text": "To do\n\nDownload the blood data\nRead it into Jamovi\nMake sure all variable types reflect the type of variable collected\nAppropriately labels all categorical or ordinal variables\nEdit the names of the variables to the appropriate names\nCreate a variable BMI from the weight and height\nCreate an ordinal variable from the HB as: Severe = &lt;8g/dl, Moderate = 8g/dl to &lt;10g/dl and Mlld = 10g/dl to &lt;12g/dl and &gt;=12g/dl = Normal\nSave data as blood.omv"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html",
-    "href": "adv-stats-2024/PracticalThree/index.html",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "",
-    "text": "This is the third practical lesson where we learn how about hypothesis testing"
-  },
-  {
-    "objectID": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "href": "adv-stats-2024/PracticalThree/index.html#objectives",
-    "title": "Practical 3: Hypothesis testing",
-    "section": "Objectives",
-    "text": "Objectives\n\nNumeric variables\n\nOne sample\n\nIndependent T-test\nWilcoxon Rank Sum test\n\nTwo sample\n\nIndependent sample T-test\nMann-Whitney U test\n\nPaired test\n\nPaired sample T-test\nWilcoxon Rank Sum test\n\n\nCategorical variables\n\nOne sample\n\nBinomial test\nChi-square goodness of fit test\n\nTwo sample\n\nIndependent X-squared association\nOdds, Risk, Difference in proportion"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html",
-    "href": "adv-stats-2024/welcome/index.html",
-    "title": "Data Description",
-    "section": "",
-    "text": "This post describes the data set to be used in the workshop."
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#ancdata",
-    "href": "adv-stats-2024/welcome/index.html#ancdata",
-    "title": "Data Description",
-    "section": "ANCData",
-    "text": "ANCData\nDescription\nThis dataset can be downloaded from here. It contains records of high-risk pregnant women under a trial on new and old methods of antenatal care in two clinics. The outcome was perinatal mortality. There are 755 observations with the following 3 variables.\n\ndeath: A categorical variable indicating if death occurred in the infant.\nanc: Indicates which type of ANC method was used.\nclinic: Indicates which clinic the patient was seen at."
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#blood",
-    "href": "adv-stats-2024/welcome/index.html#blood",
-    "title": "Data Description",
-    "section": "blood",
-    "text": "blood\nDescription\nThis dataset can be downloaded from here. It contains records of a cross-sectional study of the blood results of 50 children. It has the following 7 variables.\n\nstno: The study ID.\nage: Age in completed months of the study participants.\nwgt: Weight in kilogram\nhgt: Height in cms\nhb: Blood hemoglobin concentration in g/dL\nwbc: White blood cell count\nhct: Blood hematocrit in %"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#titanic",
-    "href": "adv-stats-2024/welcome/index.html#titanic",
-    "title": "Data Description",
-    "section": "titanic",
-    "text": "titanic\nDescription\nThis dataset can be downloaded from here. It contains records of the fateful journey by the Titanic cruise ship. It has the following 5 variables.\n\nclass: The class in which the person was.\nage: Age in completed years.\nsex: Sex\nsurvived: Whether the person survived the sinking of the ship\ndied: Whether the person died as a result of the accident"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#schisto",
-    "href": "adv-stats-2024/welcome/index.html#schisto",
-    "title": "Data Description",
-    "section": "schisto",
-    "text": "schisto\nDescription\nThis dataset can be downloaded from here. It was obtained from 367 pupils in a community in Ghana. The cross-sectional study was to determine the effect of urinary schistosomiasis on the nutritional status as well as blood indices of school children. It has the following 15 variables.\n\nSerial0: The study ID.\nQ3Age: Age in completed years.\nQ4Sex: The sex of the pupil.\nQ35weight: Weight in kilogram\nQ36Height: Height in cms\nQ6Religion: Religious affiliation\nEducationalstatus: Level of education\nQ15PipeBorne: Does the pupil use bipe-borne water at home? 0 = No, 1 = Yes\nQ15Well: Does the pupil use well water at home? 0 = No, 1 = Yes\nQ15River: Does the pupil use river water at home? 0 = No, 1 = Yes\nHB: Blood hemoglobin concentration in g/dL\nSH: Shistosomiasis ova in the urine. Nil, +, ++, and +++\nHCT: Blood hematocrit in %\nMCV: Mean Corpuscular Volume\nMCH: Mean Corpuscular Hemoglobin"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#newdrug",
-    "href": "adv-stats-2024/welcome/index.html#newdrug",
-    "title": "Data Description",
-    "section": "NewDrug",
-    "text": "NewDrug\nDescription\nThis dataset can be downloaded from here. It was obtained in a randomized controlled trial of a new drug against a control drug. It measured the mean blood pressure of study participants before and after the drugs were administered. It has the following 6 variables.\n\nid: Study ID\ntreat: Treatment given\nage: Age in completed years.\nsex: Gender of participant\nbp1: Mean arterial BP before treatment\nbp2: Mean arterial BP after treatment"
-  },
-  {
-    "objectID": "adv-stats-2024/welcome/index.html#outbreak",
-    "href": "adv-stats-2024/welcome/index.html#outbreak",
-    "title": "Data Description",
-    "section": "Outbreak",
-    "text": "Outbreak\nDescription\nThis data can be downloaded from here. It contains information from an outbreak investigation concerning food poisoning on a sportsday in Thailand 1990.\nDichotomous variables for exposures and symptoms were coded as 0 = No, 1 = yes and 9 = Missing.\nIt contains the following variables\n\nid: Study ID\nsex: Sex of study person. 0 = Female, 1 = Male.\nage: Age of participant. 99 = Missing\nexptime: Character version of time of exposure\nbeefcurry: Whether the subject ate beef curry\nsaltegg: Whether the subject ate salted eggs\neclair: Pieces of eclair eaten by participants. 80 = “ate but could not remember how much”, 90 = totally missing information\nwater: Whether the subject drunk water\nonset: Character version of time of onset\nnausea: Whether the subject had nausea\nvomiting: Whether the subject had vomiting\nabdpain: Whether the subject had abdominal pain\ndiarrhea: Whether the subject had diarrhea"
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html",
-    "href": "fellowship/week-1/week-1.html",
-    "title": "Week 1",
-    "section": "",
-    "text": "“Relax — this won’t turn you into a professor overnight… but it might stop your thesis from turning into an emergency case!”."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#introduction",
-    "href": "fellowship/week-1/week-1.html#introduction",
-    "title": "Week 1",
-    "section": "Introduction",
-    "text": "Introduction\nResearch often evokes images of laboratories, statistics, and long journal articles. For many paediatric trainees, it is viewed as a necessary obstacle, the “thesis you must do” before completing the fellowship program. However, research is much more than just a requirement; it is an essential part of clinical excellence. In a region like West Africa, where context-specific evidence is often missing, research becomes a tool not only for learning but also for leading.\nEvery time you question a treatment outcome, observe a recurring clinical pattern, or wonder how to improve your service delivery, you are engaging in the curiosity that drives research. This article aims to help you understand why research should matter deeply to you as a pediatrician-in-training, and how it can shape your future practice."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#objectives",
-    "href": "fellowship/week-1/week-1.html#objectives",
-    "title": "Week 1",
-    "section": "Objectives",
-    "text": "Objectives\nBy the end of this short article, you should be able to:\n\nRecognize the importance of research in clinical paediatrics, especially in low-resource environments.\nRecognise how research enhances patient care, policy, and personal development.\nRecognize that you already possess the fundamental mindset of a researcher."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
-    "href": "fellowship/week-1/week-1.html#why-should-you-care-about-research",
-    "title": "Week 1",
-    "section": "Why Should You Care About Research?",
-    "text": "Why Should You Care About Research?\n\nResearch Builds Better Clinicians\nContrary to popular belief, research is not the opposite of clinical work; it enhances it. Clinicians who engage with research develop sharper critical thinking skills. They are more likely to read journals analytically, question clinical practices, and make evidence-informed decisions. In a world where medical misinformation spreads easily, the ability to discern good evidence from poor-quality studies is a vital professional skill.\n\n\nOur Questions Deserve Local Answers\nMost of the evidence that guides paediatric practice worldwide comes from high-income countries. While this knowledge is valuable, it often doesn’t reflect the realities of African healthcare systems: different pathogens, resource limitations, or cultural barriers to care. Only locally generated research can tell us, for example, the actual burden of neonatal jaundice in our setting or the best way to manage asthma in a rural clinic with limited drug availability. Your research as a fellow is not just an academic exercise; it’s an opportunity to contribute to a much-needed evidence base that reflects our unique realities.\n\n\nResearch Amplifies Your Voice\nMany paediatricians are passionate advocates for children but feel limited to bedside interventions. Research offers a path to broader influence. When your study is published or presented, it enters the professional and policy-making space. Your findings could contribute to national guidelines, influence donor priorities, or inform training curricula. In this way, research transforms your observations into advocacy backed by data.\n\n\nIt Opens Doors You Never Expected\nWhether it’s a travel grant to present at an international conference, a collaboration with a regional team, or an opportunity to lead a quality improvement project, research creates visibility. It builds your academic profile and sets you apart as someone who doesn’t just follow the evidence but helps generate it."
-  },
-  {
-    "objectID": "fellowship/week-1/week-1.html#closing-thoughts",
-    "href": "fellowship/week-1/week-1.html#closing-thoughts",
-    "title": "Week 1",
-    "section": "Closing Thoughts",
-    "text": "Closing Thoughts\nYou may not think of yourself as a researcher, not yet. But you already have what it takes: a curious mind, clinical experience, and a desire to make a difference. The rest is teachable.\nOver the next several weeks, a blog will be written and shared each week. It is hoped that the series will guide you through the research process with practical steps, from choosing a topic and designing a study to analyzing data and publishing. Research isn’t as intimidating as it seems, but it’s a journey you can take one step at a time. Each blog focuses on a small part of this process, keeping reading time under 10 minutes. This isn’t just about finishing your fellowship thesis but about shaping your career, improving child health, and advancing the practice of medicine in West Africa.\nWelcome to your research year. Let’s begin.🚶🚶🚶"
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html",
-    "href": "fellowship/week-3/week3_picot_article.html",
-    "title": "Week 3",
-    "section": "",
-    "text": "“Wisdom is like a baobab tree; no one individual can embrace it.”"
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#recap",
-    "href": "fellowship/week-3/week3_picot_article.html#recap",
-    "title": "Week 3",
-    "section": "Recap…",
-    "text": "Recap…\nLast week, we discovered that your thesis topic doesn’t need to cure cancer, but it should be clear, focused, answerable, and worth reading. This week, we explore the process of developing a research question that evokes happiness, even in the most depressed skeptic."
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#introduction",
-    "href": "fellowship/week-3/week3_picot_article.html#introduction",
-    "title": "Week 3",
-    "section": "Introduction",
-    "text": "Introduction\nA research question is the backbone of your thesis. Get it wrong, and you’ll limp through the entire process. Get it right, and everything else, from your design to your discussion, flows naturally.\nThe challenge? Many residents start with vague questions like:\n\n“Does malaria affect children?” (Spoiler: yes, it does.)\n“What is the effect of malnutrition?” (On what? Whom? When?)\n\nThis is where PICOT comes in. It is not a fancy Italian coffee, but a tool to keep your research question structured, sharp, and answerable. Let us dive into it…"
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
-    "href": "fellowship/week-3/week3_picot_article.html#the-picot-framework-explained",
-    "title": "Week 3",
-    "section": "The PICOT Framework Explained",
-    "text": "The PICOT Framework Explained\nPICOT stands for:\nP – Population: Who are you studying?\nI – Intervention (or exposure): What’s being applied, tested, or observed?\nC – Comparison: What are you comparing it against (if applicable)?\nO – Outcome: What measurable effect are you interested in?\nT – Time: Over what period?\nTogether, these elements transform a loose idea into a focused, researchable question. So, let us dissect it!\n\nPopulation (P)\nBe specific. Instead of “children,” say “children under five presenting to the Paediatric Emergency Unit at Korle Bu.”\n👉 Bad: “Does asthma affect children?”\n👉 Better: “Among school-aged children in Accra…”\n\n\nIntervention (I)\nThis could be a treatment, risk factor, diagnostic test, or exposure.\n👉 Example: “Use of inhaled corticosteroids” or “exclusive breastfeeding.”\n\n\nComparison (C)\nSometimes optional, but always helpful. What’s the alternative? Placebo? No treatment? Standard practice?\n👉 Example: “Inhaled corticosteroids vs. short-acting beta agonists alone.”\n\n\nOutcome (O)\nThis should be measurable, not vague. Avoid “improved health.” Think: “reduction in asthma exacerbations,” “increase in haemoglobin levels,” or “improved growth velocity.” These are specific and measurable!\n\n\nTime (T)\nAlthough not always necessary, it adds clarity.\n👉 Example: “Over a six-month follow-up.”"
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
-    "href": "fellowship/week-3/week3_picot_article.html#putting-it-all-together-from-vague-to-vivid",
-    "title": "Week 3",
-    "section": "Putting It All Together: From Vague to Vivid",
-    "text": "Putting It All Together: From Vague to Vivid\nLet’s walk through a paediatric example.\n\nVague Question: “Does breastfeeding help babies?”\nPICOT Question: “Among infants less than 6 months old in Kumasi (P), does exclusive breastfeeding for the first 6 months (I), compared to mixed feeding (C), reduce the incidence of diarrhoeal diseases (O) during infancy (T)?”\n\nSee the difference? One belongs in a WhatsApp chat, the other belongs in your thesis protocol."
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
-    "href": "fellowship/week-3/week3_picot_article.html#why-picot-matters",
-    "title": "Week 3",
-    "section": "Why PICOT Matters",
-    "text": "Why PICOT Matters\n\nGuides Study Design: Your question dictates whether you run a cross-sectional survey, a cohort study, or a clinical trial.\nClarifies Variables: No more mid-thesis panic when you realise you never defined your outcome.\nKeeps You Focused: With PICOT, you avoid drifting into irrelevant territory.\nImpresses Examiners: A well-structured question signals a well-prepared candidate.\n\n\nA 2010 review highlighted that structured research questions using PICOT were associated with stronger study design and more transparent reporting (Richardson et al., 1995; Huang et al., 2006)."
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#summary",
-    "href": "fellowship/week-3/week3_picot_article.html#summary",
-    "title": "Week 3",
-    "section": "Summary",
-    "text": "Summary\nThe PICOT framework is your thesis compass. It ensures your research question is not only straightforward but also doable. By explicitly defining the who, what, compared to what, expected result, and timeframe, you’ll save yourself headaches later on."
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#take-home-message",
-    "href": "fellowship/week-3/week3_picot_article.html#take-home-message",
-    "title": "Week 3",
-    "section": "Take-Home Message",
-    "text": "Take-Home Message\nNever write a research question that could be answered with a shrug. With PICOT, your question becomes focused, measurable, and worthy of a fellowship thesis."
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
-    "href": "fellowship/week-3/week3_picot_article.html#next-week-on-paediatric-research-insights",
-    "title": "Week 3",
-    "section": "Next Week on Paediatric Research Insights…",
-    "text": "Next Week on Paediatric Research Insights…\nWe’ll dissect the “Anatomy of a Good Research Proposal”, think of it as the skeletal system of your thesis, without which your research collapses like a jellyfish.\nUntil then, may your research questions be sharp, your supervisors impressed, and your comparison groups cooperative. See you next week…bring your skeleton key! 🦴📚"
-  },
-  {
-    "objectID": "fellowship/week-3/week3_picot_article.html#references",
-    "href": "fellowship/week-3/week3_picot_article.html#references",
-    "title": "Week 3",
-    "section": "References",
-    "text": "References\n\nRichardson WS, Wilson MC, Nishikawa J, Hayward RS. The well-built clinical question: a key to evidence-based decisions. ACP J Club. 1995 Nov-Dec;123(3):A12–3. PMID: 7582737\nHuang X, Lin J, Demner-Fushman D. Evaluation of PICO as a knowledge representation for clinical questions. AMIA Annu Symp Proc. 2006;2006:359-63. PMID: 17238363\nRiva JJ, Malik KM, Burnie SJ, Endicott AR, Busse JW. What is your research question? An introduction to the PICOT format for clinicians. J Can Chiropr Assoc. 2012 Sep;56(3):167-71. PMID: 22997465"
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html",
-    "href": "fellowship/week-5/week5_blog.html",
-    "title": "Week 5",
-    "section": "",
-    "text": "“A man who is carrying an elephant on his head should not bother himself with a grasshopper by the foot.”"
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#recap",
-    "href": "fellowship/week-5/week5_blog.html#recap",
-    "title": "Week 5",
-    "section": "Recap…",
-    "text": "Recap…\nLast week we explored how to transform curiosity into a structured protocol by dissecting the anatomy of a good research proposal. This week, we begin diving into the sections of the proposal, starting with the Introduction."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#introduction",
-    "href": "fellowship/week-5/week5_blog.html#introduction",
-    "title": "Week 5",
-    "section": "Introduction",
-    "text": "Introduction\nIf your research proposal were a blockbuster movie, the Introduction would be the trailer. It provides the audience with just enough information to understand the plot, builds excitement, and convinces them to purchase a ticket. Sadly, many residents either turn their introduction into a 5-hour documentary on the disease itself or a 30-second advertisement with no substance. Neither approach works.\nThe introduction is your opportunity to tell the examiners: “Here’s the problem, here’s why it matters, and here’s why my study is needed now.” It sets the tone for the entire proposal and is often the first part reviewers use to decide whether you truly understand your research question."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#purpose-of-the-introduction",
-    "href": "fellowship/week-5/week5_blog.html#purpose-of-the-introduction",
-    "title": "Week 5",
-    "section": "Purpose of the Introduction",
-    "text": "Purpose of the Introduction\nThe introduction should:\n\nProvide the context for your study (what’s the bigger picture?)\nClearly define the research problem.\nHighlight the knowledge gap you’re addressing.\nLead naturally to your objectives and hypotheses.\n\nThink of it as funneling: Start broad (background), narrow down (the specific problem), then pinpoint (the gap your study will fill)."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#what-makes-a-good-introduction",
-    "href": "fellowship/week-5/week5_blog.html#what-makes-a-good-introduction",
-    "title": "Week 5",
-    "section": "What Makes a Good Introduction?",
-    "text": "What Makes a Good Introduction?\nA good introduction is short, structured, and purposeful. It answers three silent questions in the examiner’s mind:\n\nWhat’s the context?\nWhy is this topic important in paediatrics, and especially in West Africa?\nExample: “Globally, severe malaria is a leading cause of childhood deaths, with sub-Saharan Africa carrying the greatest burden.”\nWhat’s the gap?\nWhat’s missing in current knowledge or data?\nExample: “While numerous studies have described severe malaria mortality, predictors of death among children in Kumasi remain poorly characterized.”\nWhy now?\nWhat makes your research timely and relevant?\nExample: “Understanding these predictors could inform triage and clinical management in resource-limited tertiary hospitals.”"
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#common-pitfalls",
-    "href": "fellowship/week-5/week5_blog.html#common-pitfalls",
-    "title": "Week 5",
-    "section": "Common Pitfalls",
-    "text": "Common Pitfalls\n\nOverloading with facts: Don’t copy-paste every malaria statistic since 1960.\nStorytelling without focus: “In 1880, Laveran discovered the malaria parasite…”. Examiners don’t need a history lesson.\nVagueness: Writing a whole page without once stating the research problem.\n\nHere’s a real-life blooper from a resident: “Asthma is a disease. It is common in children. Many children suffer from asthma. This study is about asthma.” That got a firm “Try again!” from their supervisor."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#structure-of-a-good-introduction",
-    "href": "fellowship/week-5/week5_blog.html#structure-of-a-good-introduction",
-    "title": "Week 5",
-    "section": "Structure of a Good Introduction",
-    "text": "Structure of a Good Introduction\nHere’s a 4-paragraph model that works:\n\nBackground – Describe the global/regional/national context.\nLocal Relevance – Why does this problem matter in your setting?\nGap in Knowledge – What’s missing in the literature?\nResearch Problem Statement – Clearly state what your study aims to answer, thereby establishing your objectives."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#tips-for-success",
-    "href": "fellowship/week-5/week5_blog.html#tips-for-success",
-    "title": "Week 5",
-    "section": "Tips for Success",
-    "text": "Tips for Success\n\nWACP candidates: Keep within 300 words and articulate the problem, research questions, hypotheses, and objectives clearly.\nGCPS candidates: You may have more room (300–500 words), but stay concise.\nStatistics: Sprinkle them like salt; enough to enhance the taste, not too much to choke your reader.\nAfrican Literature: Always reference at least one local or regional study.\nClarity: Write simply. Examiners should feel carried, not dragged."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#a-sample-introduction",
-    "href": "fellowship/week-5/week5_blog.html#a-sample-introduction",
-    "title": "Week 5",
-    "section": "A Sample Introduction…",
-    "text": "A Sample Introduction…\nTitle: Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana\nMalaria continues to be a leading cause of childhood morbidity and mortality worldwide. In 2022, an estimated 247 million cases of malaria occurred globally, resulting in 619,000 deaths, with children under five years accounting for nearly 80% of these deaths (WHO, 2023). Sub-Saharan Africa bears the greatest burden, contributing approximately 94% of global malaria cases and deaths.\nIn Ghana, malaria remains the number one cause of outpatient attendance and childhood hospital admissions, with under-five mortality rates still heavily influenced by this preventable disease. Severe malaria, characterized by complications such as cerebral malaria, severe anaemia, and respiratory distress, is associated with particularly high mortality when not promptly managed. At Komfo Anokye Teaching Hospital (KATH) in Kumasi, severe malaria cases are frequently admitted to paediatric emergency and intensive care units, with outcomes varying depending on clinical and laboratory factors.\nSeveral studies across Africa have identified predictors of mortality in severe malaria, including hypoglycaemia, delayed presentation, cerebral involvement, and co-morbid infections (Idro et al., 2010; Olumese et al., 2019). However, there is limited data from Ghana, particularly in Kumasi, on which factors most strongly predict mortality in children with severe malaria. Understanding these predictors in the local context is essential for improving triage protocols, guiding resource allocation, and ultimately reducing mortality.\nThis study, therefore, seeks to identify clinical and laboratory predictors of mortality among children under five years admitted with severe malaria at KATH. The findings will contribute evidence to support more targeted interventions and enhance early recognition of high-risk patients in Ghanaian hospitals.\nBingo!!! There you have it. 😎😎😎"
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#take-home-message",
-    "href": "fellowship/week-5/week5_blog.html#take-home-message",
-    "title": "Week 5",
-    "section": "Take-Home Message",
-    "text": "Take-Home Message\nThe introduction is your proposal’s trailer; clear, concise, and compelling. It should set the stage by highlighting the context, narrowing down to the local problem, identifying the gap, and stating the research problem. Avoid bloating it with unnecessary detail or starving it of meaning. If you write your introduction well, you not only hook your examiners but also clarify your own research focus. Think of it as setting the foundation for a house: shaky introductions lead to shaky proposals."
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#next-week-on-paediatric-research-insights",
-    "href": "fellowship/week-5/week5_blog.html#next-week-on-paediatric-research-insights",
-    "title": "Week 5",
-    "section": "Next Week on Paediatric Research Insights…",
-    "text": "Next Week on Paediatric Research Insights…\nNext week, we’ll move from the what to the why: “Writing the Justification of the Proposal”, where you convince examiners that your research deserves attention, effort, and perhaps even funding.\nSo, go forth and write introductions that sparkle like fresh kelewele at midnight, spicy enough to get attention but not so overwhelming that no one can finish the plate. See you next week!"
-  },
-  {
-    "objectID": "fellowship/week-5/week5_blog.html#references",
-    "href": "fellowship/week-5/week5_blog.html#references",
-    "title": "Week 5",
-    "section": "References",
-    "text": "References\n\nMbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research proposal. CMAJ. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\n\nIdro R, Ndiritu M, Ogutu B, Mithwani S, Maitland K, Berkley J, Crawley J, Fegan G, Neville BG, Peshu N, Marsh K, Newton CR. Burden, features, and outcome of neurological involvement in acute falciparum malaria in Kenyan children. JAMA. 2007;297(20):2232–40. doi:10.1001/jama.297.20.2232\n\nOlumese P, Snow RW, Omoluabi E, et al. Clinical features predicting mortality in children with severe malaria: evidence from multi-country studies. Malar J. 2019;18(1):144. doi:10.1186/s12936-019-2781-0"
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#recap",
-    "href": "fellowship/week-7/week7_blog.html#recap",
-    "title": "Week 7",
-    "section": "Recap…",
-    "text": "Recap…\nLast week, we discovered that the justification is the heartbeat of your proposal; the “so what” that convinces examiners your study is worth their time and yours."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#introduction",
-    "href": "fellowship/week-7/week7_blog.html#introduction",
-    "title": "Week 7",
-    "section": "Introduction",
-    "text": "Introduction\nIf your research proposal were a journey, the objectives would be your GPS. Without them, you risk driving around the Takoradi Market Circle for hours without ever reaching your destination. Objectives tell your examiners, your supervisor, and even your future self precisely what you plan to achieve.\nThey are the bridge between your rationale (“why this study matters”) and your methodology (“how I will do it”). In other words, the objectives take your grand ideas and translate them into clear, measurable steps. Think of them as your thesis contract with the examiners: once approved, you’ll be judged on whether you fulfilled them, no more, no less."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#why-do-objectives-matter",
-    "href": "fellowship/week-7/week7_blog.html#why-do-objectives-matter",
-    "title": "Week 7",
-    "section": "Why Do Objectives Matter?",
-    "text": "Why Do Objectives Matter?\nObjectives matter because they give structure and focus. Without them, your introduction and justification may sound impressive but vague. With them, your study suddenly looks doable, assessable, and relevant.\nIn both WACP and GCPS proposals, examiners expect objectives that are:\n\nClear – No examiner wants to decode your intentions like a crossword puzzle.\nSpecific – Avoid grand goals like “eradicate malnutrition in Africa.” Focus instead on “assess prevalence of stunting in children under five at XYZ hospital.”\nAchievable – Ambition is good, but remember: you are one resident, not WHO.\nRelevant – Tie them to your justification and problem statement.\nMeasurable – Your data must be able to answer them."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#general-vs.-specific-objectives",
-    "href": "fellowship/week-7/week7_blog.html#general-vs.-specific-objectives",
-    "title": "Week 7",
-    "section": "General vs. Specific Objectives",
-    "text": "General vs. Specific Objectives\nResidents often confuse the two, so let’s clear it up.\n\nGeneral Objective: The overall aim of the study. It captures the big picture. Think of it as the headline of your research intentions.\nSpecific Objectives: The smaller, precise steps that will help you achieve the general objective. They are like the bullet points under the headline.\n\nExample (Severe malaria in Kumasi):\n\nGeneral Objective: To determine predictors of mortality in children under five with severe malaria in Kumasi, Ghana.\nSpecific Objectives:\n\nTo describe the clinical characteristics of children under five admitted with severe malaria.\nTo determine the case fatality rate of severe malaria in this population.\nTo identify clinical and laboratory factors associated with mortality.\n\n\nNotice how each specific objective is measurable and leads logically to the overall aim."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#the-smart-approach",
-    "href": "fellowship/week-7/week7_blog.html#the-smart-approach",
-    "title": "Week 7",
-    "section": "The SMART Approach",
-    "text": "The SMART Approach\nIf in doubt, use the SMART checklist:\n\nSpecific\nMeasurable\nAchievable\nRelevant\nTime-bound\n\nResidents sometimes skip the “time-bound” part, but it matters. Examiners want assurance that you’re not embarking on a lifelong PhD, but a focused fellowship thesis. A time anchor (e.g., “within a 12-month study period”) reassures them of feasibility."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#common-mistakes-to-avoid",
-    "href": "fellowship/week-7/week7_blog.html#common-mistakes-to-avoid",
-    "title": "Week 7",
-    "section": "Common Mistakes to Avoid",
-    "text": "Common Mistakes to Avoid\n\nOvercrowding: Five or six objectives are too many. Stick to 3–4 specific ones. Otherwise, you risk spreading yourself too thin.\nVagueness: Objectives like “to study malaria in children” are too broad. What about malaria? Incidence? Treatment outcomes? Mortality? Be precise.\nDisconnection: Sometimes, residents write objectives that don’t match their methods. If your methods can’t answer it, don’t write it.\nAmbition Overload: Remember, you’re not saving the entire health system. Avoid objectives that are unrealistic in scope."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#example-objectives",
-    "href": "fellowship/week-7/week7_blog.html#example-objectives",
-    "title": "Week 7",
-    "section": "Example Objectives",
-    "text": "Example Objectives\nTopic: Predictors of Mortality in Severe Malaria in Children Under Five Years in Kumasi, Ghana\n\nGeneral Objective:\nTo determine predictors of mortality among children under five admitted with severe malaria at Komfo Anokye Teaching Hospital.\nSpecific Objectives:\n\nTo describe demographic and clinical characteristics of children under five admitted with severe malaria.\nTo determine the proportion of children under five who die from severe malaria during hospitalization.\nTo identify clinical and laboratory predictors of mortality among these children.\n\n\nNotice how each objective is precise, measurable, and feasible within the constraints of a fellowship thesis."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#take-home-message",
-    "href": "fellowship/week-7/week7_blog.html#take-home-message",
-    "title": "Week 7",
-    "section": "Take-Home Message",
-    "text": "Take-Home Message\nClear, well-crafted objectives are the compass of your thesis. They translate your big idea into achievable steps, reassure your examiners, and guide your methods and analysis. Keep them SMART, limit them to a manageable number, and ensure they directly link to your justification. Remember: objectives are not just for the examiners; they’re your personal guardrails against getting lost in the wilderness of data."
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#next-weeks-prelude",
-    "href": "fellowship/week-7/week7_blog.html#next-weeks-prelude",
-    "title": "Week 7",
-    "section": "Next Week’s Prelude",
-    "text": "Next Week’s Prelude\nNow that we’ve set the objectives, it’s time to tackle the cousin that examiners love to scrutinize: “Stating the Hypothesis.” Get ready to learn why sometimes you need one, and sometimes you don’t.\nSo…write your objectives as if you’re writing a shopping list: short, clear, and realistic. No one goes to Kejetia market with a list that says “buy happiness.” See you next week, and may your objectives never be longer than your methods section!"
-  },
-  {
-    "objectID": "fellowship/week-7/week7_blog.html#references",
-    "href": "fellowship/week-7/week7_blog.html#references",
-    "title": "Week 7",
-    "section": "References",
-    "text": "References\n\nHulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. Designing Clinical Research. 4th ed. Philadelphia: Lippincott Williams & Wilkins; 2013.\n\nMbuagbaw L, Lawson DO, Puljak L, Allison DB, Thabane L. A tutorial on writing a research proposal. CMAJ. 2020;192(13):E332–E338. doi:10.1503/cmaj.190366\n\nAmoako Johnson F, Agyemang C. Research in Africa: The need for strong local evidence to guide policies. Lancet Glob Health. 2020;8(2):e145–e146. doi:10.1016/S2214-109X(19)30547-2"
+    "text": "References\n\nHulley SB, Cummings SR, Browner WS, Grady DG, Newman TB. Designing Clinical Research. 4th ed. Philadelphia: Lippincott Williams & Wilkins; 2013.\n\nRanganathan P, Aggarwal R. Hypothesis testing: An overview. Indian J Crit Care Med. 2018;22(10):757–762. doi:10.4103/ijccm.IJCCM_369_18.\n\nThiese MS. Observational and interventional study design types; an overview. Biochem Med (Zagreb). 2014;24(2):199–210. doi:10.11613/BM.2014.022."
   },
   {
     "objectID": "fellowship.html",
     "href": "fellowship.html",
     "title": "Fellowship",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nHypothesis\n\n\n\nFrom Guesswork to Groundwork: Crafting a Strong Hypothesis\n\n\n\n\n\nSep 20, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nObjectives\n\n\n\nSharpening the Spear – Setting the Objectives of Your\n\n\n\n\n\nSep 13, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nIntro\n\n\n\nConvince Me! Writing the Justification (Rationale) of the Proposal\n\n\n\n\n\nSep 6, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nIntro\n\n\n\nSetting the Stage: Writing the Introduction of Your Proposal\n\n\n\n\n\nAug 30, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nSpecial Post\n\n\n\n\n\n\nResearch\n\n\nData analysis\n\n\nSample Size\n\n\n\nSmall but Mighty: How To Analyse And Present Data When Your Study Population Is Small\n\n\n\n\n\nAug 26, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Protocol: Anatomy of a Good Research Proposal\n\n\n\n\n\nAug 23, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nWhat Makes a Good Research Question: The PICOT Approach\n\n\n\n\n\nAug 16, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 9, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\nIntro\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 2, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWeek 9\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nLiterature\n\n\n\nStanding on the Shoulders of Giants: Writing the Literature Review (Part 1)\n\n\n\n\n\nOct 4, 2025\n\n\nDr Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 8\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nHypothesis\n\n\n\nFrom Guesswork to Groundwork: Crafting a Strong Hypothesis\n\n\n\n\n\nSep 20, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 7\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nObjectives\n\n\n\nSharpening the Spear – Setting the Objectives of Your\n\n\n\n\n\nSep 13, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 6\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nIntro\n\n\n\nConvince Me! Writing the Justification (Rationale) of the Proposal\n\n\n\n\n\nSep 6, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 5\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\nIntro\n\n\n\nSetting the Stage: Writing the Introduction of Your Proposal\n\n\n\n\n\nAug 30, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nSpecial Post\n\n\n\n\n\n\nResearch\n\n\nData analysis\n\n\nSample Size\n\n\n\nSmall but Mighty: How To Analyse And Present Data When Your Study Population Is Small\n\n\n\n\n\nAug 26, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 4\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Protocol: Anatomy of a Good Research Proposal\n\n\n\n\n\nAug 23, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nWhat Makes a Good Research Question: The PICOT Approach\n\n\n\n\n\nAug 16, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\nResearch\n\n\nProposal\n\n\n\nFrom Curiosity to Question: Finding Your Perfect Research Topic\n\n\n\n\n\nAug 9, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\n\n\n\n\n\n\nWeek 1\n\n\n\n\n\n\nResearch\n\n\nIntro\n\n\n\nWelcome to Research: Why Every Paediatrician Should Care\n\n\n\n\n\nAug 2, 2025\n\n\nDr. Samuel Blay Nguah\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "membership/counselling/index.html",

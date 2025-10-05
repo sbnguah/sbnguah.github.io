@@ -1,0 +1,160 @@
+---
+title: "Week 9"
+categories: [Research, Proposal, Literature]
+description: "**Standing on the Shoulders of Giants: Writing the Literature Review (Part 1)**"
+author: "Dr Samuel Blay Nguah"
+date: 2025-10-04
+toc: true
+---
+
+::: {.center style="color: #820263; face: bold;"}
+“*Wisdom does not come overnight; it is gathered piece by piece by those who seek the truth.*”
+:::
+
+## **Recap...**
+
+Last week, we learned how to state a solid hypothesis, your bold prediction that keeps reviewers
+awake and statisticians employed.
+
+## Introduction
+
+Congratulations! You’ve defined your research question, justified your study, and crafted clear
+objectives. Now comes the part that makes many residents sigh, scroll endlessly through PubMed, and
+whisper to themselves, “*Wasn’t this supposed to be the easy part?*” Yes, dear reader, it’s time to
+tackle the **literature review**.
+
+The literature review is the foundation upon which your proposal rests. It demonstrates that you
+know [what’s been done]{.underline}, [what’s missing]{.underline}, and [why your study is
+necessary]{.underline}. Think of it as your opportunity to show the assessors that you didn’t wake
+up one morning and decide to study “something interesting.” Rather, you’ve surveyed the landscape,
+identified the gaps, and are now ready to build something meaningful on that ground.
+
+## Why Write a Literature Review?
+
+A literature review is not an exercise in showing how many articles you can download. Rather, it’s a
+strategic narrative that:
+
+1.  **Provides context** for your study.
+2.  **Shows gaps** in existing knowledge.
+3.  **Demonstrates familiarity** with prior work in your field.
+4.  **Justifies** your study design and approach.
+5.  **Lays the groundwork** for your hypothesis or research objectives.
+
+In short, it tells the story of what is known, what is unknown, and what you intend to discover.
+
+According to Green et al. (2006), a well-written literature review “*clarifies the conceptual
+framework of the research and situates it within existing theory and evidence.*”¹
+
+## What is a Literature Review?
+
+Many senior residents make the same newbie mistake by confusing **“reviewing literature”** with
+**“listing literature.”**. Literature review is:
+
+-   **Not:** “Ten studies have shown this. Five studies have shown that.”
+-   **But:** “Most studies in sub-Saharan Africa have focused on hospitalised populations, leaving
+    community-level prevalence under-explored.”
+
+A good review is [*synthesised*]{.underline}**,** not [*summarised*]{.underline}. It connects the
+dots instead of scattering them.
+
+## Step 1: Searching for the Evidence
+
+Start with broad search terms and then narrow them. Use recognised databases such as PubMed, Google
+Scholar, and African Journals Online (AJOL) to capture both global and local evidence.
+
+Tips for efficient searching:
+
+1.  Use **Boolean operators** (“AND”, “OR”, “NOT”) to refine your searches.
+2.  Set **filters** (last 10 years, humans, children, English).
+3.  Keep a **search diary;** your assessors might wonder how you identified your sources.
+4.  Don’t forget the **grey literature** (theses, Ministry of Health reports, WHO bulletins).
+
+> Example: For “Predictors of mortality in severe malaria in children,” start with “severe malaria
+> AND children AND mortality” and later narrow to “predictors of mortality in severe malaria AND
+> Ghana.”
+
+## Step 2: Sorting What You’ve Found
+
+After collecting papers, [don’t rush to read everything.]{.underline} Skim abstracts first. Keep
+only what’s relevant to:
+
+1.  Your study population (e.g., children under 5 years).
+2.  Your geographical region (e.g., West Africa).
+3.  Your study question (e.g., mortality predictors).
+
+Use a reference manager like Zotero, Mendeley, or EndNote, and your sanity will thank you later.
+
+Organise your papers into thematic folders:
+
+1.  Epidemiology and burden
+2.  Risk factors
+3.  Clinical presentation
+4.  Management and outcomes
+5.  Knowledge gaps
+
+This thematic organisation will guide your writing structure later.
+
+## Step 3: Structuring Your Review
+
+A literature review generally follows a *funnel structure*, from the general to the specific:
+
+1.  **Start broad:** Describe the global picture (e.g., global burden of severe malaria).
+2.  **Narrow down:** Move to African studies, then to Ghana or your study region.
+3.  **Zoom in:** Highlight specific knowledge gaps directly linked to your research question.
+
+This approach mirrors what most assessors expect in both WACP and GCPS proposals, a logical flow
+from context to rationale.
+
+> Example:\
+> - *Global*: “Severe malaria remains a leading cause of childhood mortality in sub-Saharan
+> Africa.”\
+> - *Regional*: “In West Africa, despite improved diagnostic capacity, mortality remains high.”\
+> - *Local*: “In Kumasi, data on predictors of mortality among children with severe malaria are
+> limited.”
+
+## Step 4: Critical Reading
+
+Don’t just report what authors found, evaluate it. Ask:
+
+1.  Was the study design appropriate?
+2.  Were the sample sizes adequate?
+3.  How similar are their settings to mine?
+4.  What did they miss?
+
+This critical analysis shows your maturity as a researcher. It distinguishes a literature review
+from a literature recital. As Grant & Booth (2009) put it, “*A review that merely summarises is of
+limited value; synthesis that provides new perspectives is the hallmark of scholarship.*”²
+
+## Step 5: Identifying the Gaps
+
+Once you’ve summarised and critiqued, highlight what remains unanswered. For instance:
+
+> “*Although several studies in Ghana have explored severe malaria outcomes, none have specifically
+> examined the role of metabolic derangements as predictors of mortality among children under
+> five*.”
+
+This statement naturally leads to your *justification* and *objectives*.
+
+## Take-Home Message
+
+Your literature review is not a dump of articles; it’s your intellectual argument about what is
+known, what is not known, and why your study matters. Think of it as your **academic GPS;** it tells
+readers where you are coming from, where you are, and where you are headed.
+
+So, before you start writing, plan your route. Search smart, organise your findings, and critically
+appraise your sources. Remember: *You are not writing to impress, but to inform*.
+
+## Next Week...
+
+Next week, we’ll roll up our sleeves and tackle **“Writing and Synthesising the Literature Review
+(Part 2)”**, where you’ll learn how to blend findings like a master chef, not just serve them raw.
+
+Until then, remember: *A researcher who copies too much literature ends up reviewing their
+supervisor’s patience instead of the evidence!* See you next week.
+
+## References
+
+1.  Green BN, Johnson CD, Adams A. Writing narrative literature reviews for peer-reviewed journals:
+    secrets of the trade. *J Chiropr Med.* 2006;5(3):101–117.\
+2.  Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types and associated
+    methodologies. *Health Info Libr J.* 2009;26(2):91–108.

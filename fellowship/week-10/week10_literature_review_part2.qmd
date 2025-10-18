@@ -1,0 +1,167 @@
+---
+title: "Week 10"
+author: "Dr Samuel Nguah"
+date: "2025-10-18"
+format: html
+categories: [Research, Proposal, Literature]
+description: "**Writing the Literature Review (Part 2): From Notes to a Narrative**"
+toc: true
+---
+
+::: {.center style="color: #820263; face: bold;"}
+“*Wisdom does not come overnight; a careful builder lays each brick with patience.*”
+:::
+
+## Last Week’s Recap
+
+Last week, we explored how to collect, organise, and appraise relevant literature, moving beyond a
+pile of PDFs to a structured understanding of what has been said before. This week, we go a step
+further, transforming that understanding into a coherent, critical story that sets the foundation
+for your study.
+
+## Introduction
+
+You’ve gathered dozens of journal articles, highlighted sentences, and summarised paragraphs. Yet,
+staring at your blank Word document, you wonder: *How do I turn all this into a flowing literature
+review that makes sense?*
+
+The literature review isn’t just a list of what others found; it’s your chance to show your
+intellectual muscles. You are telling the reader: *“I understand what has been done, where the gaps
+are, and why my study matters.”*
+
+This week’s goal is simple: **Learn how to move from information gathering to insight creation.**
+
+## The Art of Weaving the Story
+
+A good literature review reads like a conversation, not a census of studies. Think of it as hosting
+a dinner party where each guest (study) has something meaningful to say. You, the host (researcher),
+guide the discussion so it flows naturally toward your topic.
+
+Here’s how to make that happen:
+
+### Structure with Purpose
+
+Most literature reviews in medical research follow one of three structures:
+
+I.  **Chronological:** You describe how knowledge has evolved over time.
+II. **Thematic:** You group studies by themes (e.g., epidemiology, clinical features, and outcomes
+    of severe malaria).
+III. **Methodological:** You organise based on study design or method.
+
+👉 Choose one structure and be consistent. Mixing them makes the review messy and confusing.
+
+### Start Broad, Then Narrow Down
+
+Imagine zooming in with a camera:
+
+I.  Begin with the **global picture**: What is known about the topic internationally.
+II. Narrow down to **regional evidence**, focusing on Africa or similar LMIC contexts.
+III. Then zoom into **national and local data**: What has been found (or not found) in Ghana,
+     Nigeria, or your study site.
+
+This approach not only shows you understand the global context but also justifies why your local
+study is relevant.
+
+### Be Critical, Not Just Descriptive
+
+Saying *“Agyeman et al. (2019) found that 30% of children with severe malaria had anaemia”* is
+descriptive.\
+But saying *“While Agyeman et al. (2019) reported high anaemia rates, the small sample size and
+single-centre design limit generalizability”* is critical.
+
+::: callout-note
+Your review should highlight:
+
+I.  What was done well
+II. What was missing
+III. What was contradictory
+IV. What your study will add
+:::
+
+That’s how you demonstrate mastery.
+
+### Create Logical Flow Between Paragraphs
+
+Each paragraph should connect naturally to the next. Think of them as chapters in a story. Use
+*linking sentences* such as:
+
+-   “While most studies have focused on mortality, few have examined long-term neurological
+    outcomes.” or
+-   “In contrast to hospital-based studies, community surveys paint a different picture of malaria
+    prevalence.”
+
+These transitions make your review readable and coherent.
+
+### Summarise, Don’t Suffocate
+
+Avoid turning your review into a bibliography dump. Group similar studies together and summarise
+their combined message. For example:
+
+> “Several studies in sub-Saharan Africa have reported declining malaria mortality rates in
+> under-fives (Adjei et al., 2017; Kamya et al., 2019; Toure et al., 2021), though rural-urban
+> disparities persist.”
+
+This approach keeps your review crisp and analytical rather than cluttered.
+
+### Use Tables to Organize Complex Information
+
+| Author (Year) | Study Design | Population | Key Findings | Gaps Identified |
+|--------------------|--------------------|--------------------|--------------------|--------------------|
+| Agyeman et al., 2019 | Cross-sectional | 250 children with severe malaria, Ghana | 30% had severe anemia | Single-center |
+| Kamya et al., 2020 | Cohort | 1,200 Ugandan children | Predictors of mortality: coma, hypoglycemia | No community follow-up |
+| Toure et al., 2021 | Retrospective | 400 cases, Mali | 12% mortality, late presentation | Missing lab data |
+
+Tables save words and clarify complex comparisons at a glance.
+
+### End with a Gap and Transition
+
+> “Although several studies have described mortality patterns in severe malaria, few have explored
+> predictive clinical and laboratory markers in Ghana’s middle-belt region, where malaria
+> transmission is perennial. Understanding these predictors could inform early interventions and
+> reduce mortality.”
+
+This transition connects your review directly to your study’s justification or rationale.
+
+## Example of a Literature Review Summary Paragraph
+
+> “Globally, malaria remains a leading cause of under-five mortality, with sub-Saharan Africa
+> bearing the greatest burden. Several studies have explored predictors of mortality in severe
+> malaria, identifying variables such as coma, acidosis, and hypoglycemia. In Ghana, however, data
+> are limited, and most studies are from the northern regions. There is a paucity of contemporary
+> data from the Ashanti region, where transmission is intense year-round. Identifying local
+> predictors of mortality will help tailor interventions to reduce childhood deaths.”
+
+## Take-home Message
+
+A literature review is not about showing how much you’ve read, it’s about showing how well you’ve
+understood. Think of yourself as building a bridge between *what is known* and *what you will
+discover*.
+
+Your review should:
+
+1.  Provide background and context
+2.  Demonstrate critical appraisal
+3.  Reveal gaps in knowledge
+4.  Lead directly into your study’s justification
+
+If your supervisor reads your review and says, *“Now I see why this study is needed!”*
+congratulations, you’ve nailed it!
+
+## Next Week’s Topic
+
+Next week, we’ll dive into *“Writing the Literature Review (Part 3): How to Reference, Integrate,
+and Avoid Plagiarism Without Losing Your Mind.”* Until then, keep your EndNote organized, your
+coffee strong, and your highlighters uncapped! ✍🏽
+
+## References
+
+1.  Booth A, Sutton A, Papaioannou D. *Systematic Approaches to a Successful Literature Review*. 2nd
+    ed. London: Sage Publications; 2016.
+
+2.  Green BN, Johnson CD, Adams A. Writing narrative literature reviews for peer-reviewed journals:
+    secrets of the trade. *J Chiropr Med*. 2006;5(3):101–117.\
+    doi:[10.1016/S0899-3467(07)60142-6](https://pubmed.ncbi.nlm.nih.gov/19674681/)
+
+3.  Snyder H. Literature review as a research methodology: An overview and guidelines. *J Bus Res*.
+    2019;104:333–339.\
+    doi:[10.1016/j.jbusres.2019.07.039](https://pubmed.ncbi.nlm.nih.gov/32346621/)

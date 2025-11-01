@@ -106,7 +106,7 @@ This approach keeps your review crisp and analytical rather than cluttered.
 ### Use Tables to Organize Complex Information
 
 | Author (Year) | Study Design | Population | Key Findings | Gaps Identified |
-|--------------------|--------------------|--------------------|--------------------|--------------------|
+|----|----|----|----|----|
 | Agyeman et al., 2019 | Cross-sectional | 250 children with severe malaria, Ghana | 30% had severe anemia | Single-center |
 | Kamya et al., 2020 | Cohort | 1,200 Ugandan children | Predictors of mortality: coma, hypoglycemia | No community follow-up |
 | Toure et al., 2021 | Retrospective | 400 cases, Mali | 12% mortality, late presentation | Missing lab data |

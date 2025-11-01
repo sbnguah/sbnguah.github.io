@@ -1,0 +1,135 @@
+---
+title: "Week 11"
+description: "Writing the Literature Review (Part 3): How to Reference, Integrate, and Avoid Plagiarism Without Losing Your Mind"
+author: "Dr Samuel Blay Nguah"
+date: "2025-11-01"
+categories: [Research, Writing, Literature Review]
+---
+
+::: {.center style="color: #820263; face: bold;"}
+“*The child who does not consult the elders walks with one leg.*”
+:::
+
+## Looking Back
+
+In **Part 1**, we learned that the literature review is not a dumping ground for every paper ever
+written, but a purposeful story that shows where your research fits. We explored how to *find*,
+*select*, and *organise* the right sources, moving from chaos to clarity.\
+In **Part 2**, we learned to *analyse* and *synthesise* the literature, not merely summarising what
+others said, but connecting ideas, identifying gaps, and shaping a logical flow. Together, those
+lessons built the backbone of your review.
+
+Now, in **Part 3**, we address the final challenge: referencing, integrating, and protecting your
+hard work from the threat of plagiarism. It’s the housekeeping that makes your beautiful writing
+academically bulletproof.
+
+## Introduction
+
+If your head spins every time you open Mendeley or Zotero, congratulations, you’re a real
+researcher. Referencing and integration are the parts of writing that make even caffeine rethink its
+life choices. But fear not; this final part of our literature review trilogy will walk you through
+the maze of referencing styles, show you how to weave your sources elegantly, and (most importantly)
+keep you from the dark abyss called plagiarism.
+
+## The Referencing Headache: Why It Matters
+
+Imagine building a beautiful house, only to have someone claim the land isn’t yours. That’s what
+happens when you write without proper referencing. Referencing is the research world’s way of
+saying, *“I didn’t make this up; here’s who did.”* It’s both credit and insurance; credit for
+others, insurance for you.
+
+Every citation you make tells your reader that your argument rests on solid scholarly shoulders.
+Without it, you’re just giving opinions in a lab coat. Even worse, plagiarism (intentional or not)
+can sink your academic credibility faster than a poorly timed meme in a viva presentation.
+
+Think of references as your research family tree; they show your scholarly lineage. You might not
+like every ancestor, but they all had a role in making your work possible.
+
+## Choosing a Referencing Style
+
+APA, Vancouver, Harvard, Chicago: Sounds like the guest list of an international conference nobody
+wants to attend. Each has its quirks:
+
+-   **APA (7th Edition):** Loves brackets and dates. Ideal for social sciences and psychology.
+-   **Vancouver:** Minimalist and numeric, great for medicine and clinical research.
+-   **Harvard:** Flexible and widely used in many disciplines.
+-   **Chicago:** Old-school, elegant, and perfect for the humanities.
+
+The trick is to **stick to one style** and be consistent. Nothing says “I gave up at midnight” like
+switching from APA to Vancouver halfway through your reference list.
+
+## What about GCPS and WACP?
+
+Both the West African College of Physicians (WACP) and the Ghana College of Physicians and Surgeons
+(GCPS) generally require the **Vancouver referencing style** for dissertations, research reports,
+and journal submissions. This style uses **numerical citations in the text**, corresponding to a
+**numbered reference list** arranged in the order of appearance. The Vancouver style is concise,
+widely used in biomedical literature, and supported by most reference management tools such as
+Zotero, EndNote, and Mendeley. Adhering to this standardised format ensures consistency,
+credibility, and ease of cross-referencing across publications within the Colleges and affiliated
+journals.
+
+## Integrating Sources
+
+A good literature review doesn’t read like a shopping list of citations. It’s a conversation between
+scholars, with you moderating the debate.
+
+**Bad integration:**
+
+> Smith (2010) found that malaria is common. Jones (2015) found that malaria is dangerous. Brown
+> (2020) found that malaria can be fatal.
+
+**Good integration:**
+
+> Several studies (Smith, 2010; Jones, 2015; Brown, 2020) have consistently shown that malaria
+> remains a significant threat, not only in prevalence but also in severity and outcomes.
+
+Notice how the second version *flows*. It shows synthesis, not just citation. That’s the goal —
+weaving the literature into a coherent narrative that builds your argument.
+
+## Tools That Make Referencing Less Painful
+
+Modern referencing tools are the closest thing to magic we get in academia. Try these:
+
+-   **Zotero:** Free, flexible, and integrates beautifully with Word and Google Docs.
+-   **Mendeley:** Great for managing PDFs and generating citations.
+-   **EndNote:** A powerful (and pricey) beast loved by many institutions.
+
+Pro tip: Always double-check the formatting. Even robots make mistakes, and no referencing software
+has yet mastered the dark art of italicising journal titles correctly *every time.*
+
+## Avoiding Plagiarism: The Gentle Art of Giving Credit
+
+Plagiarism isn’t always deliberate. Sometimes it happens because we forget to paraphrase properly or
+overquote. To avoid it:
+
+1.  **Paraphrase smartly:** Don’t just replace words with synonyms. Digest and restate in your own
+    words.
+2.  **Quote sparingly:** Direct quotes are like hot pepper, a little adds flavour, too much ruins
+    the meal.
+3.  **Track your sources early:** Don’t wait till the end to start adding references.
+4.  **Use plagiarism checkers:** Tools like Turnitin, Grammarly, or Quetext help identify problem
+    areas.
+
+Remember, referencing isn’t punishment, it’s protection. Proper citation says, *“I’ve done my
+homework.”* That alone earns you credibility.
+
+## The End of the Beginning
+
+With referencing mastered, you’ve conquered the final boss of literature review writing. You now
+have the power to craft reviews that are insightful, ethical, and elegantly sourced. You can
+integrate ideas without fear of plagiarism, defend your arguments with evidence, and even sleep
+knowing your reference list won’t haunt you in reviewer comments.
+
+Take a bow, your literature review journey is complete (for now). Next week, we’ll dive into *the
+conceptual and theoretical framework* where ideas take form and theories meet reality.
+
+## References
+
+1.  American Psychological Association. *Publication Manual of the American Psychological
+    Association*, 7th Edition. Washington, DC: APA; 2020.
+2.  Lipson C. *Cite Right: A Quick Guide to Citation Styles*. 3rd Edition. University of Chicago
+    Press, 2018.
+3.  Booth WC, Colomb GG, Williams JM. *The Craft of Research*. 4th Edition. University of Chicago
+    Press, 2016.
+4.  Gibbs G. *Analyzing Qualitative Data*. SAGE Publications, 2018.

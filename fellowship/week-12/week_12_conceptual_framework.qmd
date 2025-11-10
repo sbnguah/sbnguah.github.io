@@ -121,14 +121,11 @@ research question or hypothesis. Anything that does not align should be reconsid
 
 1.  **Listing variables without showing relationships.**\
     A proper framework shows how concepts connect — not just a list of factors.
-
 2.  **Over-theorizing without relevance.**\
     Quoting famous theories that have no direct link to your study context weakens your paper.
-
 3.  **Confusing operational definitions with conceptual ones.**\
     Conceptual frameworks deal with ideas; operational definitions come later when designing
     measurements.
-
 4.  **Skipping the narrative explanation.**\
     A diagram alone is insufficient — always describe what it means in words.
 
@@ -143,7 +140,7 @@ So, before you rush into data collection, pause to ask yourself: *What is the un
 study?* The answer lies in your conceptual and theoretical framework.
 
 
-### References
+## References
 
 1.  Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative Data Analysis: A Methods
     Sourcebook* (3rd ed.). SAGE Publications.
